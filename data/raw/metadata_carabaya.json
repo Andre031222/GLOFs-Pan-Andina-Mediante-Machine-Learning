@@ -1,0 +1,111 @@
+{
+  "success": true,
+  "area_name": "carabaya",
+  "bbox": [
+    -70.5,
+    -15.0,
+    -69.5,
+    -13.5
+  ],
+  "epsg": 32719,
+  "dem_tiles": 6,
+  "dem_files": [
+    "D:\\Research-Dev\\AUP_Articulos_Inves\\GLOF_Andes_Project-Paper\\data\\raw\\dem\\carabaya\\NASADEM_HGT_s16w071_elevation.tif",
+    "D:\\Research-Dev\\AUP_Articulos_Inves\\GLOF_Andes_Project-Paper\\data\\raw\\dem\\carabaya\\NASADEM_HGT_s16w070_elevation.tif",
+    "D:\\Research-Dev\\AUP_Articulos_Inves\\GLOF_Andes_Project-Paper\\data\\raw\\dem\\carabaya\\NASADEM_HGT_s15w071_elevation.tif",
+    "D:\\Research-Dev\\AUP_Articulos_Inves\\GLOF_Andes_Project-Paper\\data\\raw\\dem\\carabaya\\NASADEM_HGT_s15w070_elevation.tif",
+    "D:\\Research-Dev\\AUP_Articulos_Inves\\GLOF_Andes_Project-Paper\\data\\raw\\dem\\carabaya\\NASADEM_HGT_s14w071_elevation.tif",
+    "D:\\Research-Dev\\AUP_Articulos_Inves\\GLOF_Andes_Project-Paper\\data\\raw\\dem\\carabaya\\NASADEM_HGT_s14w070_elevation.tif"
+  ],
+  "sentinel_years": [
+    2017,
+    2018,
+    2019,
+    2020,
+    2021,
+    2025
+  ],
+  "sentinel_files": {
+    "2017": {
+      "scene_id": "S2A_MSIL2A_20170704T145721_R039_T19LCD_20210210T043529",
+      "cloud_cover": 0.548493,
+      "date": "2017-07-04",
+      "bands": {
+        "B02": "D:\\Research-Dev\\AUP_Articulos_Inves\\GLOF_Andes_Project-Paper\\data\\raw\\sentinel2\\carabaya\\2017\\S2A_MSIL2A_20170704T145721_R039_T19LCD_20210210T043529_B02.tif",
+        "B03": "D:\\Research-Dev\\AUP_Articulos_Inves\\GLOF_Andes_Project-Paper\\data\\raw\\sentinel2\\carabaya\\2017\\S2A_MSIL2A_20170704T145721_R039_T19LCD_20210210T043529_B03.tif",
+        "B04": "D:\\Research-Dev\\AUP_Articulos_Inves\\GLOF_Andes_Project-Paper\\data\\raw\\sentinel2\\carabaya\\2017\\S2A_MSIL2A_20170704T145721_R039_T19LCD_20210210T043529_B04.tif",
+        "B08": "D:\\Research-Dev\\AUP_Articulos_Inves\\GLOF_Andes_Project-Paper\\data\\raw\\sentinel2\\carabaya\\2017\\S2A_MSIL2A_20170704T145721_R039_T19LCD_20210210T043529_B08.tif",
+        "B11": "D:\\Research-Dev\\AUP_Articulos_Inves\\GLOF_Andes_Project-Paper\\data\\raw\\sentinel2\\carabaya\\2017\\S2A_MSIL2A_20170704T145721_R039_T19LCD_20210210T043529_B11.tif",
+        "B12": "D:\\Research-Dev\\AUP_Articulos_Inves\\GLOF_Andes_Project-Paper\\data\\raw\\sentinel2\\carabaya\\2017\\S2A_MSIL2A_20170704T145721_R039_T19LCD_20210210T043529_B12.tif"
+      }
+    },
+    "2018": {
+      "scene_id": "S2B_MSIL2A_20180701T144729_R139_T19LCD_20201011T105527",
+      "cloud_cover": 0.073678,
+      "date": "2018-07-01",
+      "bands": {
+        "B02": "D:\\Research-Dev\\AUP_Articulos_Inves\\GLOF_Andes_Project-Paper\\data\\raw\\sentinel2\\carabaya\\2018\\S2B_MSIL2A_20180701T144729_R139_T19LCD_20201011T105527_B02.tif",
+        "B03": "D:\\Research-Dev\\AUP_Articulos_Inves\\GLOF_Andes_Project-Paper\\data\\raw\\sentinel2\\carabaya\\2018\\S2B_MSIL2A_20180701T144729_R139_T19LCD_20201011T105527_B03.tif",
+        "B04": "D:\\Research-Dev\\AUP_Articulos_Inves\\GLOF_Andes_Project-Paper\\data\\raw\\sentinel2\\carabaya\\2018\\S2B_MSIL2A_20180701T144729_R139_T19LCD_20201011T105527_B04.tif",
+        "B08": "D:\\Research-Dev\\AUP_Articulos_Inves\\GLOF_Andes_Project-Paper\\data\\raw\\sentinel2\\carabaya\\2018\\S2B_MSIL2A_20180701T144729_R139_T19LCD_20201011T105527_B08.tif",
+        "B11": "D:\\Research-Dev\\AUP_Articulos_Inves\\GLOF_Andes_Project-Paper\\data\\raw\\sentinel2\\carabaya\\2018\\S2B_MSIL2A_20180701T144729_R139_T19LCD_20201011T105527_B11.tif",
+        "B12": "D:\\Research-Dev\\AUP_Articulos_Inves\\GLOF_Andes_Project-Paper\\data\\raw\\sentinel2\\carabaya\\2018\\S2B_MSIL2A_20180701T144729_R139_T19LCD_20201011T105527_B12.tif"
+      }
+    },
+    "2019": {
+      "scene_id": "S2A_MSIL2A_20190624T145731_R039_T19LDE_20201006T054414",
+      "cloud_cover": 0.076357,
+      "date": "2019-06-24",
+      "bands": {
+        "B02": "D:\\Research-Dev\\AUP_Articulos_Inves\\GLOF_Andes_Project-Paper\\data\\raw\\sentinel2\\carabaya\\2019\\S2A_MSIL2A_20190624T145731_R039_T19LDE_20201006T054414_B02.tif",
+        "B03": "D:\\Research-Dev\\AUP_Articulos_Inves\\GLOF_Andes_Project-Paper\\data\\raw\\sentinel2\\carabaya\\2019\\S2A_MSIL2A_20190624T145731_R039_T19LDE_20201006T054414_B03.tif",
+        "B04": "D:\\Research-Dev\\AUP_Articulos_Inves\\GLOF_Andes_Project-Paper\\data\\raw\\sentinel2\\carabaya\\2019\\S2A_MSIL2A_20190624T145731_R039_T19LDE_20201006T054414_B04.tif",
+        "B08": "D:\\Research-Dev\\AUP_Articulos_Inves\\GLOF_Andes_Project-Paper\\data\\raw\\sentinel2\\carabaya\\2019\\S2A_MSIL2A_20190624T145731_R039_T19LDE_20201006T054414_B08.tif",
+        "B11": "D:\\Research-Dev\\AUP_Articulos_Inves\\GLOF_Andes_Project-Paper\\data\\raw\\sentinel2\\carabaya\\2019\\S2A_MSIL2A_20190624T145731_R039_T19LDE_20201006T054414_B11.tif",
+        "B12": "D:\\Research-Dev\\AUP_Articulos_Inves\\GLOF_Andes_Project-Paper\\data\\raw\\sentinel2\\carabaya\\2019\\S2A_MSIL2A_20190624T145731_R039_T19LDE_20201006T054414_B12.tif"
+      }
+    },
+    "2020": {
+      "scene_id": "S2A_MSIL2A_20200705T144731_R139_T19LCD_20200825T071414",
+      "cloud_cover": 0.065673,
+      "date": "2020-07-05",
+      "bands": {
+        "B02": "D:\\Research-Dev\\AUP_Articulos_Inves\\GLOF_Andes_Project-Paper\\data\\raw\\sentinel2\\carabaya\\2020\\S2A_MSIL2A_20200705T144731_R139_T19LCD_20200825T071414_B02.tif",
+        "B03": "D:\\Research-Dev\\AUP_Articulos_Inves\\GLOF_Andes_Project-Paper\\data\\raw\\sentinel2\\carabaya\\2020\\S2A_MSIL2A_20200705T144731_R139_T19LCD_20200825T071414_B03.tif",
+        "B04": "D:\\Research-Dev\\AUP_Articulos_Inves\\GLOF_Andes_Project-Paper\\data\\raw\\sentinel2\\carabaya\\2020\\S2A_MSIL2A_20200705T144731_R139_T19LCD_20200825T071414_B04.tif",
+        "B08": "D:\\Research-Dev\\AUP_Articulos_Inves\\GLOF_Andes_Project-Paper\\data\\raw\\sentinel2\\carabaya\\2020\\S2A_MSIL2A_20200705T144731_R139_T19LCD_20200825T071414_B08.tif",
+        "B11": "D:\\Research-Dev\\AUP_Articulos_Inves\\GLOF_Andes_Project-Paper\\data\\raw\\sentinel2\\carabaya\\2020\\S2A_MSIL2A_20200705T144731_R139_T19LCD_20200825T071414_B11.tif",
+        "B12": "D:\\Research-Dev\\AUP_Articulos_Inves\\GLOF_Andes_Project-Paper\\data\\raw\\sentinel2\\carabaya\\2020\\S2A_MSIL2A_20200705T144731_R139_T19LCD_20200825T071414_B12.tif"
+      }
+    },
+    "2021": {
+      "scene_id": "S2A_MSIL2A_20210809T144731_R139_T19LCD_20210810T041310",
+      "cloud_cover": 0.04845,
+      "date": "2021-08-09",
+      "bands": {
+        "B02": "D:\\Research-Dev\\AUP_Articulos_Inves\\GLOF_Andes_Project-Paper\\data\\raw\\sentinel2\\carabaya\\2021\\S2A_MSIL2A_20210809T144731_R139_T19LCD_20210810T041310_B02.tif",
+        "B03": "D:\\Research-Dev\\AUP_Articulos_Inves\\GLOF_Andes_Project-Paper\\data\\raw\\sentinel2\\carabaya\\2021\\S2A_MSIL2A_20210809T144731_R139_T19LCD_20210810T041310_B03.tif",
+        "B04": "D:\\Research-Dev\\AUP_Articulos_Inves\\GLOF_Andes_Project-Paper\\data\\raw\\sentinel2\\carabaya\\2021\\S2A_MSIL2A_20210809T144731_R139_T19LCD_20210810T041310_B04.tif",
+        "B08": "D:\\Research-Dev\\AUP_Articulos_Inves\\GLOF_Andes_Project-Paper\\data\\raw\\sentinel2\\carabaya\\2021\\S2A_MSIL2A_20210809T144731_R139_T19LCD_20210810T041310_B08.tif",
+        "B11": "D:\\Research-Dev\\AUP_Articulos_Inves\\GLOF_Andes_Project-Paper\\data\\raw\\sentinel2\\carabaya\\2021\\S2A_MSIL2A_20210809T144731_R139_T19LCD_20210810T041310_B11.tif",
+        "B12": "D:\\Research-Dev\\AUP_Articulos_Inves\\GLOF_Andes_Project-Paper\\data\\raw\\sentinel2\\carabaya\\2021\\S2A_MSIL2A_20210809T144731_R139_T19LCD_20210810T041310_B12.tif"
+      }
+    },
+    "2025": {
+      "scene_id": "S2A_MSIL2A_20250704T145941_R039_T19LCD_20250704T212516",
+      "cloud_cover": 0.00028,
+      "date": "2025-07-04",
+      "bands": {
+        "B02": "D:\\Research-Dev\\AUP_Articulos_Inves\\GLOF_Andes_Project-Paper\\data\\raw\\sentinel2\\carabaya\\2025\\S2A_MSIL2A_20250704T145941_R039_T19LCD_20250704T212516_B02.tif",
+        "B03": "D:\\Research-Dev\\AUP_Articulos_Inves\\GLOF_Andes_Project-Paper\\data\\raw\\sentinel2\\carabaya\\2025\\S2A_MSIL2A_20250704T145941_R039_T19LCD_20250704T212516_B03.tif",
+        "B04": "D:\\Research-Dev\\AUP_Articulos_Inves\\GLOF_Andes_Project-Paper\\data\\raw\\sentinel2\\carabaya\\2025\\S2A_MSIL2A_20250704T145941_R039_T19LCD_20250704T212516_B04.tif",
+        "B08": "D:\\Research-Dev\\AUP_Articulos_Inves\\GLOF_Andes_Project-Paper\\data\\raw\\sentinel2\\carabaya\\2025\\S2A_MSIL2A_20250704T145941_R039_T19LCD_20250704T212516_B08.tif",
+        "B11": "D:\\Research-Dev\\AUP_Articulos_Inves\\GLOF_Andes_Project-Paper\\data\\raw\\sentinel2\\carabaya\\2025\\S2A_MSIL2A_20250704T145941_R039_T19LCD_20250704T212516_B11.tif",
+        "B12": "D:\\Research-Dev\\AUP_Articulos_Inves\\GLOF_Andes_Project-Paper\\data\\raw\\sentinel2\\carabaya\\2025\\S2A_MSIL2A_20250704T145941_R039_T19LCD_20250704T212516_B12.tif"
+      }
+    }
+  },
+  "total_size_gb": 1.1381184039637446,
+  "metadata_path": null,
+  "timestamp": "2026-05-03T13:57:39.515752"
+}

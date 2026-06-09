@@ -1,0 +1,238 @@
+{
+  "brier_score": 0.25624827422942487,
+  "brier_reference": 0.0012694362226941714,
+  "brier_skill_score": -200.85990414357303,
+  "brier_note": "calibrated model (isotonic Platt scaling)",
+  "reliability_prob_true": [
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.012841091492776886
+  ],
+  "reliability_prob_pred": [
+    0.3364640000000007,
+    0.36732852564102864,
+    0.3834708737864048,
+    0.40342521008403387,
+    0.4332212666145438,
+    0.48197574777688107,
+    0.5352995319812767,
+    0.5934470493128531,
+    0.6521891891891897,
+    0.7313386837881235
+  ],
+  "threshold_sensitivity": [
+    {
+      "threshold": 0.1,
+      "n_flagged": 10789,
+      "flagged_pct": 85.7,
+      "precision": 0.0015,
+      "recall": 1.0,
+      "f1": 0.00296,
+      "tp": 16
+    },
+    {
+      "threshold": 0.15,
+      "n_flagged": 9147,
+      "flagged_pct": 72.7,
+      "precision": 0.0017,
+      "recall": 1.0,
+      "f1": 0.00349,
+      "tp": 16
+    },
+    {
+      "threshold": 0.2,
+      "n_flagged": 7735,
+      "flagged_pct": 61.4,
+      "precision": 0.0021,
+      "recall": 1.0,
+      "f1": 0.00413,
+      "tp": 16
+    },
+    {
+      "threshold": 0.25,
+      "n_flagged": 6664,
+      "flagged_pct": 52.9,
+      "precision": 0.0024,
+      "recall": 1.0,
+      "f1": 0.00479,
+      "tp": 16
+    },
+    {
+      "threshold": 0.304,
+      "n_flagged": 5855,
+      "flagged_pct": 46.5,
+      "precision": 0.0027,
+      "recall": 1.0,
+      "f1": 0.00545,
+      "tp": 16
+    },
+    {
+      "threshold": 0.35,
+      "n_flagged": 5354,
+      "flagged_pct": 42.5,
+      "precision": 0.0026,
+      "recall": 0.875,
+      "f1": 0.00521,
+      "tp": 14
+    },
+    {
+      "threshold": 0.4,
+      "n_flagged": 4787,
+      "flagged_pct": 38.0,
+      "precision": 0.0029,
+      "recall": 0.875,
+      "f1": 0.00583,
+      "tp": 14
+    },
+    {
+      "threshold": 0.5,
+      "n_flagged": 3708,
+      "flagged_pct": 29.5,
+      "precision": 0.0032,
+      "recall": 0.75,
+      "f1": 0.00644,
+      "tp": 12
+    },
+    {
+      "threshold": 0.6,
+      "n_flagged": 2545,
+      "flagged_pct": 20.2,
+      "precision": 0.0035,
+      "recall": 0.5625,
+      "f1": 0.00703,
+      "tp": 9
+    }
+  ],
+  "youden_threshold": 0.304,
+  "loco_bootstrap_peru": {
+    "roc_auc_oof_peru": 0.8075796212902175,
+    "ci_low": 0.7128635607615422,
+    "ci_high": 0.8953706819925936,
+    "n_resamples": 1999,
+    "n_total_peru": 10546,
+    "n_pos_peru": 14,
+    "note": "OOF predictions filtered to Peru observations (not leave-one-country-out)"
+  },
+  "loco_table": [
+    {
+      "country_excluded": "Bolivia",
+      "n_test": 180,
+      "n_pos_test": 1,
+      "n_pos_train": 15,
+      "roc_auc": 0.7402,
+      "pr_auc": 0.0208,
+      "lift": 3.7,
+      "threshold": 0.213
+    },
+    {
+      "country_excluded": "Ecuador",
+      "n_test": 273,
+      "n_pos_test": 1,
+      "n_pos_train": 15,
+      "roc_auc": 0.9926,
+      "pr_auc": 0.25,
+      "lift": 68.2,
+      "threshold": 0.266
+    },
+    {
+      "country_excluded": "Peru",
+      "n_test": 10546,
+      "n_pos_test": 14,
+      "n_pos_train": 2,
+      "roc_auc": 0.707,
+      "pr_auc": 0.0056,
+      "lift": 4.2,
+      "threshold": 0.184
+    }
+  ],
+  "spatial_autocorrelation": {
+    "morans_I": 0.00296040685821528,
+    "p_value": 0.805,
+    "threshold_deg": 0.5,
+    "sample_n": 3000,
+    "interpretation": "No significant spatial autocorrelation detected"
+  },
+  "shap_stability": {
+    "top10_features": [
+      "dist_glacier_m",
+      "slope_x_logarea",
+      "volume_m3",
+      "area_depth_ratio",
+      "depth_ensemble_mean",
+      "log_area_m2",
+      "depth_std_m",
+      "depth_yao_2012",
+      "depth_ensemble_std",
+      "elongation"
+    ],
+    "top10_mean_shap": [
+      0.0324655950796557,
+      0.01688801021928917,
+      0.016613602191845593,
+      0.01620103600632331,
+      0.014849252147523391,
+      0.014227239251204626,
+      0.01379740362844908,
+      0.01377654001685835,
+      0.013276587063257074,
+      0.013104173644632199
+    ],
+    "top10_cv": [
+      0.012433494286642262,
+      0.015264825947121122,
+      0.011761306372889845,
+      0.012426896811353083,
+      0.010278223745437229,
+      0.009138187425342314,
+      0.009663878135830082,
+      0.01090336268907191,
+      0.013833187098289906,
+      0.012323149329065176
+    ],
+    "top10_rank_stability": [
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      0.94
+    ],
+    "top10_mean_rank": [
+      0.0,
+      1.3,
+      1.72,
+      2.98,
+      4.0,
+      5.0,
+      6.34,
+      6.66,
+      8.3,
+      8.78
+    ],
+    "top10_rank_std": [
+      0.0,
+      0.4999999999999999,
+      0.44899888641287294,
+      0.13999999999999993,
+      0.0,
+      0.0,
+      0.47370877129308053,
+      0.47370877129308053,
+      0.45825756949558394,
+      0.609590026165127
+    ],
+    "n_boot_resamples": 50,
+    "n_shap_samples": 2000
+  }
+}

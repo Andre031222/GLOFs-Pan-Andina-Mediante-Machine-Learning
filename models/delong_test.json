@@ -1,0 +1,9 @@
+{
+  "auc_brf": 0.7869467036381004,
+  "auc_lgbm": 0.7554923908708998,
+  "z_statistic": 0.46767692712887976,
+  "p_value": 0.6400156434031099,
+  "variance_brf": 0.002240147075910829,
+  "variance_lgbm": 0.0034391017652112255,
+  "interpretation": "z=0.47, p=0.640: No significant difference (p>0.05)"
+}

@@ -1,0 +1,148 @@
+{
+  "success": true,
+  "area_name": "cordillera_raura",
+  "bbox": [
+    -76.85,
+    -10.5,
+    -76.65,
+    -10.25
+  ],
+  "epsg": 32718,
+  "dem_tiles": 1,
+  "dem_files": [
+    "/home/andre/Documents/GLOF_Andes_Project-Paper/data/raw/dem/cordillera_raura/NASADEM_HGT_s11w077_elevation.tif"
+  ],
+  "sentinel_years": [
+    2017,
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "sentinel_files": {
+    "2017": {
+      "scene_id": "S2A_MSIL2A_20170620T151701_R125_T18LTP_20210210T002653",
+      "cloud_cover": 0.776446,
+      "date": "2017-06-20",
+      "bands": {
+        "B02": "/home/andre/Documents/GLOF_Andes_Project-Paper/data/raw/sentinel2/cordillera_raura/2017/S2A_MSIL2A_20170620T151701_R125_T18LTP_20210210T002653_B02.tif",
+        "B03": "/home/andre/Documents/GLOF_Andes_Project-Paper/data/raw/sentinel2/cordillera_raura/2017/S2A_MSIL2A_20170620T151701_R125_T18LTP_20210210T002653_B03.tif",
+        "B04": "/home/andre/Documents/GLOF_Andes_Project-Paper/data/raw/sentinel2/cordillera_raura/2017/S2A_MSIL2A_20170620T151701_R125_T18LTP_20210210T002653_B04.tif",
+        "B08": "/home/andre/Documents/GLOF_Andes_Project-Paper/data/raw/sentinel2/cordillera_raura/2017/S2A_MSIL2A_20170620T151701_R125_T18LTP_20210210T002653_B08.tif",
+        "B11": "/home/andre/Documents/GLOF_Andes_Project-Paper/data/raw/sentinel2/cordillera_raura/2017/S2A_MSIL2A_20170620T151701_R125_T18LTP_20210210T002653_B11.tif",
+        "B12": "/home/andre/Documents/GLOF_Andes_Project-Paper/data/raw/sentinel2/cordillera_raura/2017/S2A_MSIL2A_20170620T151701_R125_T18LTP_20210210T002653_B12.tif"
+      }
+    },
+    "2018": {
+      "scene_id": "S2B_MSIL2A_20180623T152639_R025_T18LUP_20201012T013844",
+      "cloud_cover": 0.413663,
+      "date": "2018-06-23",
+      "bands": {
+        "B02": "/home/andre/Documents/GLOF_Andes_Project-Paper/data/raw/sentinel2/cordillera_raura/2018/S2B_MSIL2A_20180623T152639_R025_T18LUP_20201012T013844_B02.tif",
+        "B03": "/home/andre/Documents/GLOF_Andes_Project-Paper/data/raw/sentinel2/cordillera_raura/2018/S2B_MSIL2A_20180623T152639_R025_T18LUP_20201012T013844_B03.tif",
+        "B04": "/home/andre/Documents/GLOF_Andes_Project-Paper/data/raw/sentinel2/cordillera_raura/2018/S2B_MSIL2A_20180623T152639_R025_T18LUP_20201012T013844_B04.tif",
+        "B08": "/home/andre/Documents/GLOF_Andes_Project-Paper/data/raw/sentinel2/cordillera_raura/2018/S2B_MSIL2A_20180623T152639_R025_T18LUP_20201012T013844_B08.tif",
+        "B11": "/home/andre/Documents/GLOF_Andes_Project-Paper/data/raw/sentinel2/cordillera_raura/2018/S2B_MSIL2A_20180623T152639_R025_T18LUP_20201012T013844_B11.tif",
+        "B12": "/home/andre/Documents/GLOF_Andes_Project-Paper/data/raw/sentinel2/cordillera_raura/2018/S2B_MSIL2A_20180623T152639_R025_T18LUP_20201012T013844_B12.tif"
+      }
+    },
+    "2019": {
+      "scene_id": "S2B_MSIL2A_20190608T152649_R025_T18LUP_20201005T234824",
+      "cloud_cover": 0.117687,
+      "date": "2019-06-08",
+      "bands": {
+        "B02": "/home/andre/Documents/GLOF_Andes_Project-Paper/data/raw/sentinel2/cordillera_raura/2019/S2B_MSIL2A_20190608T152649_R025_T18LUP_20201005T234824_B02.tif",
+        "B03": "/home/andre/Documents/GLOF_Andes_Project-Paper/data/raw/sentinel2/cordillera_raura/2019/S2B_MSIL2A_20190608T152649_R025_T18LUP_20201005T234824_B03.tif",
+        "B04": "/home/andre/Documents/GLOF_Andes_Project-Paper/data/raw/sentinel2/cordillera_raura/2019/S2B_MSIL2A_20190608T152649_R025_T18LUP_20201005T234824_B04.tif",
+        "B08": "/home/andre/Documents/GLOF_Andes_Project-Paper/data/raw/sentinel2/cordillera_raura/2019/S2B_MSIL2A_20190608T152649_R025_T18LUP_20201005T234824_B08.tif",
+        "B11": "/home/andre/Documents/GLOF_Andes_Project-Paper/data/raw/sentinel2/cordillera_raura/2019/S2B_MSIL2A_20190608T152649_R025_T18LUP_20201005T234824_B11.tif",
+        "B12": "/home/andre/Documents/GLOF_Andes_Project-Paper/data/raw/sentinel2/cordillera_raura/2019/S2B_MSIL2A_20190608T152649_R025_T18LUP_20201005T234824_B12.tif"
+      }
+    },
+    "2020": {
+      "scene_id": "S2B_MSIL2A_20200609T151709_R125_T18LUP_20200826T190744",
+      "cloud_cover": 0.048305,
+      "date": "2020-06-09",
+      "bands": {
+        "B02": "/home/andre/Documents/GLOF_Andes_Project-Paper/data/raw/sentinel2/cordillera_raura/2020/S2B_MSIL2A_20200609T151709_R125_T18LUP_20200826T190744_B02.tif",
+        "B03": "/home/andre/Documents/GLOF_Andes_Project-Paper/data/raw/sentinel2/cordillera_raura/2020/S2B_MSIL2A_20200609T151709_R125_T18LUP_20200826T190744_B03.tif",
+        "B04": "/home/andre/Documents/GLOF_Andes_Project-Paper/data/raw/sentinel2/cordillera_raura/2020/S2B_MSIL2A_20200609T151709_R125_T18LUP_20200826T190744_B04.tif",
+        "B08": "/home/andre/Documents/GLOF_Andes_Project-Paper/data/raw/sentinel2/cordillera_raura/2020/S2B_MSIL2A_20200609T151709_R125_T18LUP_20200826T190744_B08.tif",
+        "B11": "/home/andre/Documents/GLOF_Andes_Project-Paper/data/raw/sentinel2/cordillera_raura/2020/S2B_MSIL2A_20200609T151709_R125_T18LUP_20200826T190744_B11.tif",
+        "B12": "/home/andre/Documents/GLOF_Andes_Project-Paper/data/raw/sentinel2/cordillera_raura/2020/S2B_MSIL2A_20200609T151709_R125_T18LUP_20200826T190744_B12.tif"
+      }
+    },
+    "2021": {
+      "scene_id": "S2B_MSIL2A_20210724T151709_R125_T18LUP_20210725T055522",
+      "cloud_cover": 0.032439,
+      "date": "2021-07-24",
+      "bands": {
+        "B02": "/home/andre/Documents/GLOF_Andes_Project-Paper/data/raw/sentinel2/cordillera_raura/2021/S2B_MSIL2A_20210724T151709_R125_T18LUP_20210725T055522_B02.tif",
+        "B03": "/home/andre/Documents/GLOF_Andes_Project-Paper/data/raw/sentinel2/cordillera_raura/2021/S2B_MSIL2A_20210724T151709_R125_T18LUP_20210725T055522_B03.tif",
+        "B04": "/home/andre/Documents/GLOF_Andes_Project-Paper/data/raw/sentinel2/cordillera_raura/2021/S2B_MSIL2A_20210724T151709_R125_T18LUP_20210725T055522_B04.tif",
+        "B08": "/home/andre/Documents/GLOF_Andes_Project-Paper/data/raw/sentinel2/cordillera_raura/2021/S2B_MSIL2A_20210724T151709_R125_T18LUP_20210725T055522_B08.tif",
+        "B11": "/home/andre/Documents/GLOF_Andes_Project-Paper/data/raw/sentinel2/cordillera_raura/2021/S2B_MSIL2A_20210724T151709_R125_T18LUP_20210725T055522_B11.tif",
+        "B12": "/home/andre/Documents/GLOF_Andes_Project-Paper/data/raw/sentinel2/cordillera_raura/2021/S2B_MSIL2A_20210724T151709_R125_T18LUP_20210725T055522_B12.tif"
+      }
+    },
+    "2022": {
+      "scene_id": "S2A_MSIL2A_20220826T152651_R025_T18LUP_20240720T083548",
+      "cloud_cover": 0.000191,
+      "date": "2022-08-26",
+      "bands": {
+        "B02": "/home/andre/Documents/GLOF_Andes_Project-Paper/data/raw/sentinel2/cordillera_raura/2022/S2A_MSIL2A_20220826T152651_R025_T18LUP_20240720T083548_B02.tif",
+        "B03": "/home/andre/Documents/GLOF_Andes_Project-Paper/data/raw/sentinel2/cordillera_raura/2022/S2A_MSIL2A_20220826T152651_R025_T18LUP_20240720T083548_B03.tif",
+        "B04": "/home/andre/Documents/GLOF_Andes_Project-Paper/data/raw/sentinel2/cordillera_raura/2022/S2A_MSIL2A_20220826T152651_R025_T18LUP_20240720T083548_B04.tif",
+        "B08": "/home/andre/Documents/GLOF_Andes_Project-Paper/data/raw/sentinel2/cordillera_raura/2022/S2A_MSIL2A_20220826T152651_R025_T18LUP_20240720T083548_B08.tif",
+        "B11": "/home/andre/Documents/GLOF_Andes_Project-Paper/data/raw/sentinel2/cordillera_raura/2022/S2A_MSIL2A_20220826T152651_R025_T18LUP_20240720T083548_B11.tif",
+        "B12": "/home/andre/Documents/GLOF_Andes_Project-Paper/data/raw/sentinel2/cordillera_raura/2022/S2A_MSIL2A_20220826T152651_R025_T18LUP_20240720T083548_B12.tif"
+      }
+    },
+    "2023": {
+      "scene_id": "S2A_MSIL2A_20230821T152641_R025_T18LUP_20230822T000607",
+      "cloud_cover": 0.0,
+      "date": "2023-08-21",
+      "bands": {
+        "B02": "/home/andre/Documents/GLOF_Andes_Project-Paper/data/raw/sentinel2/cordillera_raura/2023/S2A_MSIL2A_20230821T152641_R025_T18LUP_20230822T000607_B02.tif",
+        "B03": "/home/andre/Documents/GLOF_Andes_Project-Paper/data/raw/sentinel2/cordillera_raura/2023/S2A_MSIL2A_20230821T152641_R025_T18LUP_20230822T000607_B03.tif",
+        "B04": "/home/andre/Documents/GLOF_Andes_Project-Paper/data/raw/sentinel2/cordillera_raura/2023/S2A_MSIL2A_20230821T152641_R025_T18LUP_20230822T000607_B04.tif",
+        "B08": "/home/andre/Documents/GLOF_Andes_Project-Paper/data/raw/sentinel2/cordillera_raura/2023/S2A_MSIL2A_20230821T152641_R025_T18LUP_20230822T000607_B08.tif",
+        "B11": "/home/andre/Documents/GLOF_Andes_Project-Paper/data/raw/sentinel2/cordillera_raura/2023/S2A_MSIL2A_20230821T152641_R025_T18LUP_20230822T000607_B11.tif",
+        "B12": "/home/andre/Documents/GLOF_Andes_Project-Paper/data/raw/sentinel2/cordillera_raura/2023/S2A_MSIL2A_20230821T152641_R025_T18LUP_20230822T000607_B12.tif"
+      }
+    },
+    "2024": {
+      "scene_id": "S2A_MSIL2A_20240603T151721_R125_T18LUP_20240603T234422",
+      "cloud_cover": 3e-06,
+      "date": "2024-06-03",
+      "bands": {
+        "B02": "/home/andre/Documents/GLOF_Andes_Project-Paper/data/raw/sentinel2/cordillera_raura/2024/S2A_MSIL2A_20240603T151721_R125_T18LUP_20240603T234422_B02.tif",
+        "B03": "/home/andre/Documents/GLOF_Andes_Project-Paper/data/raw/sentinel2/cordillera_raura/2024/S2A_MSIL2A_20240603T151721_R125_T18LUP_20240603T234422_B03.tif",
+        "B04": "/home/andre/Documents/GLOF_Andes_Project-Paper/data/raw/sentinel2/cordillera_raura/2024/S2A_MSIL2A_20240603T151721_R125_T18LUP_20240603T234422_B04.tif",
+        "B08": "/home/andre/Documents/GLOF_Andes_Project-Paper/data/raw/sentinel2/cordillera_raura/2024/S2A_MSIL2A_20240603T151721_R125_T18LUP_20240603T234422_B08.tif",
+        "B11": "/home/andre/Documents/GLOF_Andes_Project-Paper/data/raw/sentinel2/cordillera_raura/2024/S2A_MSIL2A_20240603T151721_R125_T18LUP_20240603T234422_B11.tif",
+        "B12": "/home/andre/Documents/GLOF_Andes_Project-Paper/data/raw/sentinel2/cordillera_raura/2024/S2A_MSIL2A_20240603T151721_R125_T18LUP_20240603T234422_B12.tif"
+      }
+    },
+    "2025": {
+      "scene_id": "S2B_MSIL2A_20250706T152659_R025_T18LUP_20250706T203645",
+      "cloud_cover": 0.0,
+      "date": "2025-07-06",
+      "bands": {
+        "B02": "/home/andre/Documents/GLOF_Andes_Project-Paper/data/raw/sentinel2/cordillera_raura/2025/S2B_MSIL2A_20250706T152659_R025_T18LUP_20250706T203645_B02.tif",
+        "B03": "/home/andre/Documents/GLOF_Andes_Project-Paper/data/raw/sentinel2/cordillera_raura/2025/S2B_MSIL2A_20250706T152659_R025_T18LUP_20250706T203645_B03.tif",
+        "B04": "/home/andre/Documents/GLOF_Andes_Project-Paper/data/raw/sentinel2/cordillera_raura/2025/S2B_MSIL2A_20250706T152659_R025_T18LUP_20250706T203645_B04.tif",
+        "B08": "/home/andre/Documents/GLOF_Andes_Project-Paper/data/raw/sentinel2/cordillera_raura/2025/S2B_MSIL2A_20250706T152659_R025_T18LUP_20250706T203645_B08.tif",
+        "B11": "/home/andre/Documents/GLOF_Andes_Project-Paper/data/raw/sentinel2/cordillera_raura/2025/S2B_MSIL2A_20250706T152659_R025_T18LUP_20250706T203645_B11.tif",
+        "B12": "/home/andre/Documents/GLOF_Andes_Project-Paper/data/raw/sentinel2/cordillera_raura/2025/S2B_MSIL2A_20250706T152659_R025_T18LUP_20250706T203645_B12.tif"
+      }
+    }
+  },
+  "total_size_gb": 0.3012854130938649,
+  "metadata_path": null,
+  "timestamp": "2026-02-19T10:05:11.311727"
+}

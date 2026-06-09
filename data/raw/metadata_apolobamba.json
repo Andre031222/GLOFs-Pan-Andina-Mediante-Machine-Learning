@@ -1,0 +1,97 @@
+{
+  "success": true,
+  "area_name": "apolobamba",
+  "bbox": [
+    -69.6,
+    -15.3,
+    -68.3,
+    -13.8
+  ],
+  "epsg": 32719,
+  "dem_tiles": 6,
+  "dem_files": [
+    "D:\\Research-Dev\\AUP_Articulos_Inves\\GLOF_Andes_Project-Paper\\data\\raw\\dem\\apolobamba\\NASADEM_HGT_s16w070_elevation.tif",
+    "D:\\Research-Dev\\AUP_Articulos_Inves\\GLOF_Andes_Project-Paper\\data\\raw\\dem\\apolobamba\\NASADEM_HGT_s16w069_elevation.tif",
+    "D:\\Research-Dev\\AUP_Articulos_Inves\\GLOF_Andes_Project-Paper\\data\\raw\\dem\\apolobamba\\NASADEM_HGT_s15w070_elevation.tif",
+    "D:\\Research-Dev\\AUP_Articulos_Inves\\GLOF_Andes_Project-Paper\\data\\raw\\dem\\apolobamba\\NASADEM_HGT_s15w069_elevation.tif",
+    "D:\\Research-Dev\\AUP_Articulos_Inves\\GLOF_Andes_Project-Paper\\data\\raw\\dem\\apolobamba\\NASADEM_HGT_s14w070_elevation.tif",
+    "D:\\Research-Dev\\AUP_Articulos_Inves\\GLOF_Andes_Project-Paper\\data\\raw\\dem\\apolobamba\\NASADEM_HGT_s14w069_elevation.tif"
+  ],
+  "sentinel_years": [
+    2017,
+    2019,
+    2021,
+    2023,
+    2024
+  ],
+  "sentinel_files": {
+    "2017": {
+      "scene_id": "S2A_MSIL2A_20170731T144731_R139_T19LDD_20210210T171740",
+      "cloud_cover": 6.103587,
+      "date": "2017-07-31",
+      "bands": {
+        "B02": "D:\\Research-Dev\\AUP_Articulos_Inves\\GLOF_Andes_Project-Paper\\data\\raw\\sentinel2\\apolobamba\\2017\\S2A_MSIL2A_20170731T144731_R139_T19LDD_20210210T171740_B02.tif",
+        "B03": "D:\\Research-Dev\\AUP_Articulos_Inves\\GLOF_Andes_Project-Paper\\data\\raw\\sentinel2\\apolobamba\\2017\\S2A_MSIL2A_20170731T144731_R139_T19LDD_20210210T171740_B03.tif",
+        "B04": "D:\\Research-Dev\\AUP_Articulos_Inves\\GLOF_Andes_Project-Paper\\data\\raw\\sentinel2\\apolobamba\\2017\\S2A_MSIL2A_20170731T144731_R139_T19LDD_20210210T171740_B04.tif",
+        "B08": "D:\\Research-Dev\\AUP_Articulos_Inves\\GLOF_Andes_Project-Paper\\data\\raw\\sentinel2\\apolobamba\\2017\\S2A_MSIL2A_20170731T144731_R139_T19LDD_20210210T171740_B08.tif",
+        "B11": "D:\\Research-Dev\\AUP_Articulos_Inves\\GLOF_Andes_Project-Paper\\data\\raw\\sentinel2\\apolobamba\\2017\\S2A_MSIL2A_20170731T144731_R139_T19LDD_20210210T171740_B11.tif",
+        "B12": "D:\\Research-Dev\\AUP_Articulos_Inves\\GLOF_Andes_Project-Paper\\data\\raw\\sentinel2\\apolobamba\\2017\\S2A_MSIL2A_20170731T144731_R139_T19LDD_20210210T171740_B12.tif"
+      }
+    },
+    "2019": {
+      "scene_id": "S2B_MSIL2A_20190805T144739_R139_T19LEE_20201004T205349",
+      "cloud_cover": 0.012273,
+      "date": "2019-08-05",
+      "bands": {
+        "B02": "D:\\Research-Dev\\AUP_Articulos_Inves\\GLOF_Andes_Project-Paper\\data\\raw\\sentinel2\\apolobamba\\2019\\S2B_MSIL2A_20190805T144739_R139_T19LEE_20201004T205349_B02.tif",
+        "B03": "D:\\Research-Dev\\AUP_Articulos_Inves\\GLOF_Andes_Project-Paper\\data\\raw\\sentinel2\\apolobamba\\2019\\S2B_MSIL2A_20190805T144739_R139_T19LEE_20201004T205349_B03.tif",
+        "B04": "D:\\Research-Dev\\AUP_Articulos_Inves\\GLOF_Andes_Project-Paper\\data\\raw\\sentinel2\\apolobamba\\2019\\S2B_MSIL2A_20190805T144739_R139_T19LEE_20201004T205349_B04.tif",
+        "B08": "D:\\Research-Dev\\AUP_Articulos_Inves\\GLOF_Andes_Project-Paper\\data\\raw\\sentinel2\\apolobamba\\2019\\S2B_MSIL2A_20190805T144739_R139_T19LEE_20201004T205349_B08.tif",
+        "B11": "D:\\Research-Dev\\AUP_Articulos_Inves\\GLOF_Andes_Project-Paper\\data\\raw\\sentinel2\\apolobamba\\2019\\S2B_MSIL2A_20190805T144739_R139_T19LEE_20201004T205349_B11.tif",
+        "B12": "D:\\Research-Dev\\AUP_Articulos_Inves\\GLOF_Andes_Project-Paper\\data\\raw\\sentinel2\\apolobamba\\2019\\S2B_MSIL2A_20190805T144739_R139_T19LEE_20201004T205349_B12.tif"
+      }
+    },
+    "2021": {
+      "scene_id": "S2B_MSIL2A_20210715T144729_R139_T19LDD_20210716T073643",
+      "cloud_cover": 1.048309,
+      "date": "2021-07-15",
+      "bands": {
+        "B02": "D:\\Research-Dev\\AUP_Articulos_Inves\\GLOF_Andes_Project-Paper\\data\\raw\\sentinel2\\apolobamba\\2021\\S2B_MSIL2A_20210715T144729_R139_T19LDD_20210716T073643_B02.tif",
+        "B03": "D:\\Research-Dev\\AUP_Articulos_Inves\\GLOF_Andes_Project-Paper\\data\\raw\\sentinel2\\apolobamba\\2021\\S2B_MSIL2A_20210715T144729_R139_T19LDD_20210716T073643_B03.tif",
+        "B04": "D:\\Research-Dev\\AUP_Articulos_Inves\\GLOF_Andes_Project-Paper\\data\\raw\\sentinel2\\apolobamba\\2021\\S2B_MSIL2A_20210715T144729_R139_T19LDD_20210716T073643_B04.tif",
+        "B08": "D:\\Research-Dev\\AUP_Articulos_Inves\\GLOF_Andes_Project-Paper\\data\\raw\\sentinel2\\apolobamba\\2021\\S2B_MSIL2A_20210715T144729_R139_T19LDD_20210716T073643_B08.tif",
+        "B11": "D:\\Research-Dev\\AUP_Articulos_Inves\\GLOF_Andes_Project-Paper\\data\\raw\\sentinel2\\apolobamba\\2021\\S2B_MSIL2A_20210715T144729_R139_T19LDD_20210716T073643_B11.tif",
+        "B12": "D:\\Research-Dev\\AUP_Articulos_Inves\\GLOF_Andes_Project-Paper\\data\\raw\\sentinel2\\apolobamba\\2021\\S2B_MSIL2A_20210715T144729_R139_T19LDD_20210716T073643_B12.tif"
+      }
+    },
+    "2023": {
+      "scene_id": "S2A_MSIL2A_20230620T144731_R139_T19LDD_20230620T233530",
+      "cloud_cover": 1.3e-05,
+      "date": "2023-06-20",
+      "bands": {
+        "B02": "D:\\Research-Dev\\AUP_Articulos_Inves\\GLOF_Andes_Project-Paper\\data\\raw\\sentinel2\\apolobamba\\2023\\S2A_MSIL2A_20230620T144731_R139_T19LDD_20230620T233530_B02.tif",
+        "B03": "D:\\Research-Dev\\AUP_Articulos_Inves\\GLOF_Andes_Project-Paper\\data\\raw\\sentinel2\\apolobamba\\2023\\S2A_MSIL2A_20230620T144731_R139_T19LDD_20230620T233530_B03.tif",
+        "B04": "D:\\Research-Dev\\AUP_Articulos_Inves\\GLOF_Andes_Project-Paper\\data\\raw\\sentinel2\\apolobamba\\2023\\S2A_MSIL2A_20230620T144731_R139_T19LDD_20230620T233530_B04.tif",
+        "B08": "D:\\Research-Dev\\AUP_Articulos_Inves\\GLOF_Andes_Project-Paper\\data\\raw\\sentinel2\\apolobamba\\2023\\S2A_MSIL2A_20230620T144731_R139_T19LDD_20230620T233530_B08.tif",
+        "B11": "D:\\Research-Dev\\AUP_Articulos_Inves\\GLOF_Andes_Project-Paper\\data\\raw\\sentinel2\\apolobamba\\2023\\S2A_MSIL2A_20230620T144731_R139_T19LDD_20230620T233530_B11.tif",
+        "B12": "D:\\Research-Dev\\AUP_Articulos_Inves\\GLOF_Andes_Project-Paper\\data\\raw\\sentinel2\\apolobamba\\2023\\S2A_MSIL2A_20230620T144731_R139_T19LDD_20230620T233530_B12.tif"
+      }
+    },
+    "2024": {
+      "scene_id": "S2B_MSIL2A_20240719T144739_R139_T19LDE_20240719T221223",
+      "cloud_cover": 0.000192,
+      "date": "2024-07-19",
+      "bands": {
+        "B02": "D:\\Research-Dev\\AUP_Articulos_Inves\\GLOF_Andes_Project-Paper\\data\\raw\\sentinel2\\apolobamba\\2024\\S2B_MSIL2A_20240719T144739_R139_T19LDE_20240719T221223_B02.tif",
+        "B03": "D:\\Research-Dev\\AUP_Articulos_Inves\\GLOF_Andes_Project-Paper\\data\\raw\\sentinel2\\apolobamba\\2024\\S2B_MSIL2A_20240719T144739_R139_T19LDE_20240719T221223_B03.tif",
+        "B04": "D:\\Research-Dev\\AUP_Articulos_Inves\\GLOF_Andes_Project-Paper\\data\\raw\\sentinel2\\apolobamba\\2024\\S2B_MSIL2A_20240719T144739_R139_T19LDE_20240719T221223_B04.tif",
+        "B08": "D:\\Research-Dev\\AUP_Articulos_Inves\\GLOF_Andes_Project-Paper\\data\\raw\\sentinel2\\apolobamba\\2024\\S2B_MSIL2A_20240719T144739_R139_T19LDE_20240719T221223_B08.tif",
+        "B11": "D:\\Research-Dev\\AUP_Articulos_Inves\\GLOF_Andes_Project-Paper\\data\\raw\\sentinel2\\apolobamba\\2024\\S2B_MSIL2A_20240719T144739_R139_T19LDE_20240719T221223_B11.tif",
+        "B12": "D:\\Research-Dev\\AUP_Articulos_Inves\\GLOF_Andes_Project-Paper\\data\\raw\\sentinel2\\apolobamba\\2024\\S2B_MSIL2A_20240719T144739_R139_T19LDE_20240719T221223_B12.tif"
+      }
+    }
+  },
+  "total_size_gb": 2.4073547711595893,
+  "metadata_path": null,
+  "timestamp": "2026-05-03T09:59:36.498879"
+}

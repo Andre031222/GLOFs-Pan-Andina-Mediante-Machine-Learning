@@ -1,0 +1,151 @@
+{
+  "success": true,
+  "area_name": "bolivia_cordillera_real",
+  "bbox": [
+    -68.35,
+    -16.65,
+    -67.7,
+    -15.75
+  ],
+  "epsg": 32719,
+  "dem_tiles": 4,
+  "dem_files": [
+    "/home/andre/Documents/GLOF_Andes_Project-Paper/data/raw/dem/bolivia_cordillera_real/NASADEM_HGT_s17w069_elevation.tif",
+    "/home/andre/Documents/GLOF_Andes_Project-Paper/data/raw/dem/bolivia_cordillera_real/NASADEM_HGT_s17w068_elevation.tif",
+    "/home/andre/Documents/GLOF_Andes_Project-Paper/data/raw/dem/bolivia_cordillera_real/NASADEM_HGT_s16w069_elevation.tif",
+    "/home/andre/Documents/GLOF_Andes_Project-Paper/data/raw/dem/bolivia_cordillera_real/NASADEM_HGT_s16w068_elevation.tif"
+  ],
+  "sentinel_years": [
+    2017,
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "sentinel_files": {
+    "2017": {
+      "scene_id": "S2B_MSIL2A_20170706T145719_R139_T19LFC_20210210T053946",
+      "cloud_cover": 0.064164,
+      "date": "2017-07-06",
+      "bands": {
+        "B02": "/home/andre/Documents/GLOF_Andes_Project-Paper/data/raw/sentinel2/bolivia_cordillera_real/2017/S2B_MSIL2A_20170706T145719_R139_T19LFC_20210210T053946_B02.tif",
+        "B03": "/home/andre/Documents/GLOF_Andes_Project-Paper/data/raw/sentinel2/bolivia_cordillera_real/2017/S2B_MSIL2A_20170706T145719_R139_T19LFC_20210210T053946_B03.tif",
+        "B04": "/home/andre/Documents/GLOF_Andes_Project-Paper/data/raw/sentinel2/bolivia_cordillera_real/2017/S2B_MSIL2A_20170706T145719_R139_T19LFC_20210210T053946_B04.tif",
+        "B08": "/home/andre/Documents/GLOF_Andes_Project-Paper/data/raw/sentinel2/bolivia_cordillera_real/2017/S2B_MSIL2A_20170706T145719_R139_T19LFC_20210210T053946_B08.tif",
+        "B11": "/home/andre/Documents/GLOF_Andes_Project-Paper/data/raw/sentinel2/bolivia_cordillera_real/2017/S2B_MSIL2A_20170706T145719_R139_T19LFC_20210210T053946_B11.tif",
+        "B12": "/home/andre/Documents/GLOF_Andes_Project-Paper/data/raw/sentinel2/bolivia_cordillera_real/2017/S2B_MSIL2A_20170706T145719_R139_T19LFC_20210210T053946_B12.tif"
+      }
+    },
+    "2018": {
+      "scene_id": "S2B_MSIL2A_20180701T144729_R139_T19KEB_20201011T105532",
+      "cloud_cover": 0.104555,
+      "date": "2018-07-01",
+      "bands": {
+        "B02": "/home/andre/Documents/GLOF_Andes_Project-Paper/data/raw/sentinel2/bolivia_cordillera_real/2018/S2B_MSIL2A_20180701T144729_R139_T19KEB_20201011T105532_B02.tif",
+        "B03": "/home/andre/Documents/GLOF_Andes_Project-Paper/data/raw/sentinel2/bolivia_cordillera_real/2018/S2B_MSIL2A_20180701T144729_R139_T19KEB_20201011T105532_B03.tif",
+        "B04": "/home/andre/Documents/GLOF_Andes_Project-Paper/data/raw/sentinel2/bolivia_cordillera_real/2018/S2B_MSIL2A_20180701T144729_R139_T19KEB_20201011T105532_B04.tif",
+        "B08": "/home/andre/Documents/GLOF_Andes_Project-Paper/data/raw/sentinel2/bolivia_cordillera_real/2018/S2B_MSIL2A_20180701T144729_R139_T19KEB_20201011T105532_B08.tif",
+        "B11": "/home/andre/Documents/GLOF_Andes_Project-Paper/data/raw/sentinel2/bolivia_cordillera_real/2018/S2B_MSIL2A_20180701T144729_R139_T19KEB_20201011T105532_B11.tif",
+        "B12": "/home/andre/Documents/GLOF_Andes_Project-Paper/data/raw/sentinel2/bolivia_cordillera_real/2018/S2B_MSIL2A_20180701T144729_R139_T19KEB_20201011T105532_B12.tif"
+      }
+    },
+    "2019": {
+      "scene_id": "S2A_MSIL2A_20190817T143751_R096_T19KEB_20201005T012554",
+      "cloud_cover": 0.085533,
+      "date": "2019-08-17",
+      "bands": {
+        "B02": "/home/andre/Documents/GLOF_Andes_Project-Paper/data/raw/sentinel2/bolivia_cordillera_real/2019/S2A_MSIL2A_20190817T143751_R096_T19KEB_20201005T012554_B02.tif",
+        "B03": "/home/andre/Documents/GLOF_Andes_Project-Paper/data/raw/sentinel2/bolivia_cordillera_real/2019/S2A_MSIL2A_20190817T143751_R096_T19KEB_20201005T012554_B03.tif",
+        "B04": "/home/andre/Documents/GLOF_Andes_Project-Paper/data/raw/sentinel2/bolivia_cordillera_real/2019/S2A_MSIL2A_20190817T143751_R096_T19KEB_20201005T012554_B04.tif",
+        "B08": "/home/andre/Documents/GLOF_Andes_Project-Paper/data/raw/sentinel2/bolivia_cordillera_real/2019/S2A_MSIL2A_20190817T143751_R096_T19KEB_20201005T012554_B08.tif",
+        "B11": "/home/andre/Documents/GLOF_Andes_Project-Paper/data/raw/sentinel2/bolivia_cordillera_real/2019/S2A_MSIL2A_20190817T143751_R096_T19KEB_20201005T012554_B11.tif",
+        "B12": "/home/andre/Documents/GLOF_Andes_Project-Paper/data/raw/sentinel2/bolivia_cordillera_real/2019/S2A_MSIL2A_20190817T143751_R096_T19KEB_20201005T012554_B12.tif"
+      }
+    },
+    "2020": {
+      "scene_id": "S2B_MSIL2A_20200610T144729_R139_T19KEB_20200826T220618",
+      "cloud_cover": 0.059092,
+      "date": "2020-06-10",
+      "bands": {
+        "B02": "/home/andre/Documents/GLOF_Andes_Project-Paper/data/raw/sentinel2/bolivia_cordillera_real/2020/S2B_MSIL2A_20200610T144729_R139_T19KEB_20200826T220618_B02.tif",
+        "B03": "/home/andre/Documents/GLOF_Andes_Project-Paper/data/raw/sentinel2/bolivia_cordillera_real/2020/S2B_MSIL2A_20200610T144729_R139_T19KEB_20200826T220618_B03.tif",
+        "B04": "/home/andre/Documents/GLOF_Andes_Project-Paper/data/raw/sentinel2/bolivia_cordillera_real/2020/S2B_MSIL2A_20200610T144729_R139_T19KEB_20200826T220618_B04.tif",
+        "B08": "/home/andre/Documents/GLOF_Andes_Project-Paper/data/raw/sentinel2/bolivia_cordillera_real/2020/S2B_MSIL2A_20200610T144729_R139_T19KEB_20200826T220618_B08.tif",
+        "B11": "/home/andre/Documents/GLOF_Andes_Project-Paper/data/raw/sentinel2/bolivia_cordillera_real/2020/S2B_MSIL2A_20200610T144729_R139_T19KEB_20200826T220618_B11.tif",
+        "B12": "/home/andre/Documents/GLOF_Andes_Project-Paper/data/raw/sentinel2/bolivia_cordillera_real/2020/S2B_MSIL2A_20200610T144729_R139_T19KEB_20200826T220618_B12.tif"
+      }
+    },
+    "2021": {
+      "scene_id": "S2A_MSIL2A_20210620T144731_R139_T19KEB_20210621T071056",
+      "cloud_cover": 0.111577,
+      "date": "2021-06-20",
+      "bands": {
+        "B02": "/home/andre/Documents/GLOF_Andes_Project-Paper/data/raw/sentinel2/bolivia_cordillera_real/2021/S2A_MSIL2A_20210620T144731_R139_T19KEB_20210621T071056_B02.tif",
+        "B03": "/home/andre/Documents/GLOF_Andes_Project-Paper/data/raw/sentinel2/bolivia_cordillera_real/2021/S2A_MSIL2A_20210620T144731_R139_T19KEB_20210621T071056_B03.tif",
+        "B04": "/home/andre/Documents/GLOF_Andes_Project-Paper/data/raw/sentinel2/bolivia_cordillera_real/2021/S2A_MSIL2A_20210620T144731_R139_T19KEB_20210621T071056_B04.tif",
+        "B08": "/home/andre/Documents/GLOF_Andes_Project-Paper/data/raw/sentinel2/bolivia_cordillera_real/2021/S2A_MSIL2A_20210620T144731_R139_T19KEB_20210621T071056_B08.tif",
+        "B11": "/home/andre/Documents/GLOF_Andes_Project-Paper/data/raw/sentinel2/bolivia_cordillera_real/2021/S2A_MSIL2A_20210620T144731_R139_T19KEB_20210621T071056_B11.tif",
+        "B12": "/home/andre/Documents/GLOF_Andes_Project-Paper/data/raw/sentinel2/bolivia_cordillera_real/2021/S2A_MSIL2A_20210620T144731_R139_T19KEB_20210621T071056_B12.tif"
+      }
+    },
+    "2022": {
+      "scene_id": "S2A_MSIL2A_20220824T144741_R139_T19KFB_20240704T164843",
+      "cloud_cover": 0.0,
+      "date": "2022-08-24",
+      "bands": {
+        "B02": "/home/andre/Documents/GLOF_Andes_Project-Paper/data/raw/sentinel2/bolivia_cordillera_real/2022/S2A_MSIL2A_20220824T144741_R139_T19KFB_20240704T164843_B02.tif",
+        "B03": "/home/andre/Documents/GLOF_Andes_Project-Paper/data/raw/sentinel2/bolivia_cordillera_real/2022/S2A_MSIL2A_20220824T144741_R139_T19KFB_20240704T164843_B03.tif",
+        "B04": "/home/andre/Documents/GLOF_Andes_Project-Paper/data/raw/sentinel2/bolivia_cordillera_real/2022/S2A_MSIL2A_20220824T144741_R139_T19KFB_20240704T164843_B04.tif",
+        "B08": "/home/andre/Documents/GLOF_Andes_Project-Paper/data/raw/sentinel2/bolivia_cordillera_real/2022/S2A_MSIL2A_20220824T144741_R139_T19KFB_20240704T164843_B08.tif",
+        "B11": "/home/andre/Documents/GLOF_Andes_Project-Paper/data/raw/sentinel2/bolivia_cordillera_real/2022/S2A_MSIL2A_20220824T144741_R139_T19KFB_20240704T164843_B11.tif",
+        "B12": "/home/andre/Documents/GLOF_Andes_Project-Paper/data/raw/sentinel2/bolivia_cordillera_real/2022/S2A_MSIL2A_20220824T144741_R139_T19KFB_20240704T164843_B12.tif"
+      }
+    },
+    "2023": {
+      "scene_id": "S2B_MSIL2A_20230824T144729_R139_T19KFB_20241020T104759",
+      "cloud_cover": 0.0,
+      "date": "2023-08-24",
+      "bands": {
+        "B02": "/home/andre/Documents/GLOF_Andes_Project-Paper/data/raw/sentinel2/bolivia_cordillera_real/2023/S2B_MSIL2A_20230824T144729_R139_T19KFB_20241020T104759_B02.tif",
+        "B03": "/home/andre/Documents/GLOF_Andes_Project-Paper/data/raw/sentinel2/bolivia_cordillera_real/2023/S2B_MSIL2A_20230824T144729_R139_T19KFB_20241020T104759_B03.tif",
+        "B04": "/home/andre/Documents/GLOF_Andes_Project-Paper/data/raw/sentinel2/bolivia_cordillera_real/2023/S2B_MSIL2A_20230824T144729_R139_T19KFB_20241020T104759_B04.tif",
+        "B08": "/home/andre/Documents/GLOF_Andes_Project-Paper/data/raw/sentinel2/bolivia_cordillera_real/2023/S2B_MSIL2A_20230824T144729_R139_T19KFB_20241020T104759_B08.tif",
+        "B11": "/home/andre/Documents/GLOF_Andes_Project-Paper/data/raw/sentinel2/bolivia_cordillera_real/2023/S2B_MSIL2A_20230824T144729_R139_T19KFB_20241020T104759_B11.tif",
+        "B12": "/home/andre/Documents/GLOF_Andes_Project-Paper/data/raw/sentinel2/bolivia_cordillera_real/2023/S2B_MSIL2A_20230824T144729_R139_T19KFB_20241020T104759_B12.tif"
+      }
+    },
+    "2024": {
+      "scene_id": "S2B_MSIL2A_20240609T144739_R139_T19KFB_20240609T192740",
+      "cloud_cover": 0.0,
+      "date": "2024-06-09",
+      "bands": {
+        "B02": "/home/andre/Documents/GLOF_Andes_Project-Paper/data/raw/sentinel2/bolivia_cordillera_real/2024/S2B_MSIL2A_20240609T144739_R139_T19KFB_20240609T192740_B02.tif",
+        "B03": "/home/andre/Documents/GLOF_Andes_Project-Paper/data/raw/sentinel2/bolivia_cordillera_real/2024/S2B_MSIL2A_20240609T144739_R139_T19KFB_20240609T192740_B03.tif",
+        "B04": "/home/andre/Documents/GLOF_Andes_Project-Paper/data/raw/sentinel2/bolivia_cordillera_real/2024/S2B_MSIL2A_20240609T144739_R139_T19KFB_20240609T192740_B04.tif",
+        "B08": "/home/andre/Documents/GLOF_Andes_Project-Paper/data/raw/sentinel2/bolivia_cordillera_real/2024/S2B_MSIL2A_20240609T144739_R139_T19KFB_20240609T192740_B08.tif",
+        "B11": "/home/andre/Documents/GLOF_Andes_Project-Paper/data/raw/sentinel2/bolivia_cordillera_real/2024/S2B_MSIL2A_20240609T144739_R139_T19KFB_20240609T192740_B11.tif",
+        "B12": "/home/andre/Documents/GLOF_Andes_Project-Paper/data/raw/sentinel2/bolivia_cordillera_real/2024/S2B_MSIL2A_20240609T144739_R139_T19KFB_20240609T192740_B12.tif"
+      }
+    },
+    "2025": {
+      "scene_id": "S2B_MSIL2A_20250714T144739_R139_T19KFB_20250714T183550",
+      "cloud_cover": 0.0,
+      "date": "2025-07-14",
+      "bands": {
+        "B02": "/home/andre/Documents/GLOF_Andes_Project-Paper/data/raw/sentinel2/bolivia_cordillera_real/2025/S2B_MSIL2A_20250714T144739_R139_T19KFB_20250714T183550_B02.tif",
+        "B03": "/home/andre/Documents/GLOF_Andes_Project-Paper/data/raw/sentinel2/bolivia_cordillera_real/2025/S2B_MSIL2A_20250714T144739_R139_T19KFB_20250714T183550_B03.tif",
+        "B04": "/home/andre/Documents/GLOF_Andes_Project-Paper/data/raw/sentinel2/bolivia_cordillera_real/2025/S2B_MSIL2A_20250714T144739_R139_T19KFB_20250714T183550_B04.tif",
+        "B08": "/home/andre/Documents/GLOF_Andes_Project-Paper/data/raw/sentinel2/bolivia_cordillera_real/2025/S2B_MSIL2A_20250714T144739_R139_T19KFB_20250714T183550_B08.tif",
+        "B11": "/home/andre/Documents/GLOF_Andes_Project-Paper/data/raw/sentinel2/bolivia_cordillera_real/2025/S2B_MSIL2A_20250714T144739_R139_T19KFB_20250714T183550_B11.tif",
+        "B12": "/home/andre/Documents/GLOF_Andes_Project-Paper/data/raw/sentinel2/bolivia_cordillera_real/2025/S2B_MSIL2A_20250714T144739_R139_T19KFB_20250714T183550_B12.tif"
+      }
+    }
+  },
+  "total_size_gb": 0.5839499412104487,
+  "metadata_path": null,
+  "timestamp": "2026-03-28T01:40:51.416620"
+}

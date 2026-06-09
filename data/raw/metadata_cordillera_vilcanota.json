@@ -1,0 +1,151 @@
+{
+  "success": true,
+  "area_name": "cordillera_vilcanota",
+  "bbox": [
+    -71.2,
+    -14.0,
+    -70.4,
+    -13.2
+  ],
+  "epsg": 32719,
+  "dem_tiles": 4,
+  "dem_files": [
+    "/home/andre/Documents/GLOF_Andes_Project-Paper/data/raw/dem/cordillera_vilcanota/NASADEM_HGT_s15w072_elevation.tif",
+    "/home/andre/Documents/GLOF_Andes_Project-Paper/data/raw/dem/cordillera_vilcanota/NASADEM_HGT_s15w071_elevation.tif",
+    "/home/andre/Documents/GLOF_Andes_Project-Paper/data/raw/dem/cordillera_vilcanota/NASADEM_HGT_s14w072_elevation.tif",
+    "/home/andre/Documents/GLOF_Andes_Project-Paper/data/raw/dem/cordillera_vilcanota/NASADEM_HGT_s14w071_elevation.tif"
+  ],
+  "sentinel_years": [
+    2017,
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "sentinel_files": {
+    "2017": {
+      "scene_id": "S2B_MSIL2A_20170808T145729_R039_T19LBE_20210210T214805",
+      "cloud_cover": 0.355799,
+      "date": "2017-08-08",
+      "bands": {
+        "B02": "/home/andre/Documents/GLOF_Andes_Project-Paper/data/raw/sentinel2/cordillera_vilcanota/2017/S2B_MSIL2A_20170808T145729_R039_T19LBE_20210210T214805_B02.tif",
+        "B03": "/home/andre/Documents/GLOF_Andes_Project-Paper/data/raw/sentinel2/cordillera_vilcanota/2017/S2B_MSIL2A_20170808T145729_R039_T19LBE_20210210T214805_B03.tif",
+        "B04": "/home/andre/Documents/GLOF_Andes_Project-Paper/data/raw/sentinel2/cordillera_vilcanota/2017/S2B_MSIL2A_20170808T145729_R039_T19LBE_20210210T214805_B04.tif",
+        "B08": "/home/andre/Documents/GLOF_Andes_Project-Paper/data/raw/sentinel2/cordillera_vilcanota/2017/S2B_MSIL2A_20170808T145729_R039_T19LBE_20210210T214805_B08.tif",
+        "B11": "/home/andre/Documents/GLOF_Andes_Project-Paper/data/raw/sentinel2/cordillera_vilcanota/2017/S2B_MSIL2A_20170808T145729_R039_T19LBE_20210210T214805_B11.tif",
+        "B12": "/home/andre/Documents/GLOF_Andes_Project-Paper/data/raw/sentinel2/cordillera_vilcanota/2017/S2B_MSIL2A_20170808T145729_R039_T19LBE_20210210T214805_B12.tif"
+      }
+    },
+    "2018": {
+      "scene_id": "S2A_MSIL2A_20180619T145731_R039_T19LBE_20201011T235600",
+      "cloud_cover": 3.58954,
+      "date": "2018-06-19",
+      "bands": {
+        "B02": "/home/andre/Documents/GLOF_Andes_Project-Paper/data/raw/sentinel2/cordillera_vilcanota/2018/S2A_MSIL2A_20180619T145731_R039_T19LBE_20201011T235600_B02.tif",
+        "B03": "/home/andre/Documents/GLOF_Andes_Project-Paper/data/raw/sentinel2/cordillera_vilcanota/2018/S2A_MSIL2A_20180619T145731_R039_T19LBE_20201011T235600_B03.tif",
+        "B04": "/home/andre/Documents/GLOF_Andes_Project-Paper/data/raw/sentinel2/cordillera_vilcanota/2018/S2A_MSIL2A_20180619T145731_R039_T19LBE_20201011T235600_B04.tif",
+        "B08": "/home/andre/Documents/GLOF_Andes_Project-Paper/data/raw/sentinel2/cordillera_vilcanota/2018/S2A_MSIL2A_20180619T145731_R039_T19LBE_20201011T235600_B08.tif",
+        "B11": "/home/andre/Documents/GLOF_Andes_Project-Paper/data/raw/sentinel2/cordillera_vilcanota/2018/S2A_MSIL2A_20180619T145731_R039_T19LBE_20201011T235600_B11.tif",
+        "B12": "/home/andre/Documents/GLOF_Andes_Project-Paper/data/raw/sentinel2/cordillera_vilcanota/2018/S2A_MSIL2A_20180619T145731_R039_T19LBE_20201011T235600_B12.tif"
+      }
+    },
+    "2019": {
+      "scene_id": "S2B_MSIL2A_20190818T145729_R039_T19LCE_20201005T020232",
+      "cloud_cover": 0.376906,
+      "date": "2019-08-18",
+      "bands": {
+        "B02": "/home/andre/Documents/GLOF_Andes_Project-Paper/data/raw/sentinel2/cordillera_vilcanota/2019/S2B_MSIL2A_20190818T145729_R039_T19LCE_20201005T020232_B02.tif",
+        "B03": "/home/andre/Documents/GLOF_Andes_Project-Paper/data/raw/sentinel2/cordillera_vilcanota/2019/S2B_MSIL2A_20190818T145729_R039_T19LCE_20201005T020232_B03.tif",
+        "B04": "/home/andre/Documents/GLOF_Andes_Project-Paper/data/raw/sentinel2/cordillera_vilcanota/2019/S2B_MSIL2A_20190818T145729_R039_T19LCE_20201005T020232_B04.tif",
+        "B08": "/home/andre/Documents/GLOF_Andes_Project-Paper/data/raw/sentinel2/cordillera_vilcanota/2019/S2B_MSIL2A_20190818T145729_R039_T19LCE_20201005T020232_B08.tif",
+        "B11": "/home/andre/Documents/GLOF_Andes_Project-Paper/data/raw/sentinel2/cordillera_vilcanota/2019/S2B_MSIL2A_20190818T145729_R039_T19LCE_20201005T020232_B11.tif",
+        "B12": "/home/andre/Documents/GLOF_Andes_Project-Paper/data/raw/sentinel2/cordillera_vilcanota/2019/S2B_MSIL2A_20190818T145729_R039_T19LCE_20201005T020232_B12.tif"
+      }
+    },
+    "2020": {
+      "scene_id": "S2A_MSIL2A_20200618T145731_R039_T19LBE_20200908T104405",
+      "cloud_cover": 0.178019,
+      "date": "2020-06-18",
+      "bands": {
+        "B02": "/home/andre/Documents/GLOF_Andes_Project-Paper/data/raw/sentinel2/cordillera_vilcanota/2020/S2A_MSIL2A_20200618T145731_R039_T19LBE_20200908T104405_B02.tif",
+        "B03": "/home/andre/Documents/GLOF_Andes_Project-Paper/data/raw/sentinel2/cordillera_vilcanota/2020/S2A_MSIL2A_20200618T145731_R039_T19LBE_20200908T104405_B03.tif",
+        "B04": "/home/andre/Documents/GLOF_Andes_Project-Paper/data/raw/sentinel2/cordillera_vilcanota/2020/S2A_MSIL2A_20200618T145731_R039_T19LBE_20200908T104405_B04.tif",
+        "B08": "/home/andre/Documents/GLOF_Andes_Project-Paper/data/raw/sentinel2/cordillera_vilcanota/2020/S2A_MSIL2A_20200618T145731_R039_T19LBE_20200908T104405_B08.tif",
+        "B11": "/home/andre/Documents/GLOF_Andes_Project-Paper/data/raw/sentinel2/cordillera_vilcanota/2020/S2A_MSIL2A_20200618T145731_R039_T19LBE_20200908T104405_B11.tif",
+        "B12": "/home/andre/Documents/GLOF_Andes_Project-Paper/data/raw/sentinel2/cordillera_vilcanota/2020/S2A_MSIL2A_20200618T145731_R039_T19LBE_20200908T104405_B12.tif"
+      }
+    },
+    "2021": {
+      "scene_id": "S2A_MSIL2A_20210713T145731_R039_T19LBE_20210714T074331",
+      "cloud_cover": 0.327231,
+      "date": "2021-07-13",
+      "bands": {
+        "B02": "/home/andre/Documents/GLOF_Andes_Project-Paper/data/raw/sentinel2/cordillera_vilcanota/2021/S2A_MSIL2A_20210713T145731_R039_T19LBE_20210714T074331_B02.tif",
+        "B03": "/home/andre/Documents/GLOF_Andes_Project-Paper/data/raw/sentinel2/cordillera_vilcanota/2021/S2A_MSIL2A_20210713T145731_R039_T19LBE_20210714T074331_B03.tif",
+        "B04": "/home/andre/Documents/GLOF_Andes_Project-Paper/data/raw/sentinel2/cordillera_vilcanota/2021/S2A_MSIL2A_20210713T145731_R039_T19LBE_20210714T074331_B04.tif",
+        "B08": "/home/andre/Documents/GLOF_Andes_Project-Paper/data/raw/sentinel2/cordillera_vilcanota/2021/S2A_MSIL2A_20210713T145731_R039_T19LBE_20210714T074331_B08.tif",
+        "B11": "/home/andre/Documents/GLOF_Andes_Project-Paper/data/raw/sentinel2/cordillera_vilcanota/2021/S2A_MSIL2A_20210713T145731_R039_T19LBE_20210714T074331_B11.tif",
+        "B12": "/home/andre/Documents/GLOF_Andes_Project-Paper/data/raw/sentinel2/cordillera_vilcanota/2021/S2A_MSIL2A_20210713T145731_R039_T19LBE_20210714T074331_B12.tif"
+      }
+    },
+    "2022": {
+      "scene_id": "S2B_MSIL2A_20220613T145729_R039_T19LCE_20220614T111720",
+      "cloud_cover": 0.0,
+      "date": "2022-06-13",
+      "bands": {
+        "B02": "/home/andre/Documents/GLOF_Andes_Project-Paper/data/raw/sentinel2/cordillera_vilcanota/2022/S2B_MSIL2A_20220613T145729_R039_T19LCE_20220614T111720_B02.tif",
+        "B03": "/home/andre/Documents/GLOF_Andes_Project-Paper/data/raw/sentinel2/cordillera_vilcanota/2022/S2B_MSIL2A_20220613T145729_R039_T19LCE_20220614T111720_B03.tif",
+        "B04": "/home/andre/Documents/GLOF_Andes_Project-Paper/data/raw/sentinel2/cordillera_vilcanota/2022/S2B_MSIL2A_20220613T145729_R039_T19LCE_20220614T111720_B04.tif",
+        "B08": "/home/andre/Documents/GLOF_Andes_Project-Paper/data/raw/sentinel2/cordillera_vilcanota/2022/S2B_MSIL2A_20220613T145729_R039_T19LCE_20220614T111720_B08.tif",
+        "B11": "/home/andre/Documents/GLOF_Andes_Project-Paper/data/raw/sentinel2/cordillera_vilcanota/2022/S2B_MSIL2A_20220613T145729_R039_T19LCE_20220614T111720_B11.tif",
+        "B12": "/home/andre/Documents/GLOF_Andes_Project-Paper/data/raw/sentinel2/cordillera_vilcanota/2022/S2B_MSIL2A_20220613T145729_R039_T19LCE_20220614T111720_B12.tif"
+      }
+    },
+    "2023": {
+      "scene_id": "S2A_MSIL2A_20230603T145731_R039_T19LBE_20240906T003730",
+      "cloud_cover": 0.000255,
+      "date": "2023-06-03",
+      "bands": {
+        "B02": "/home/andre/Documents/GLOF_Andes_Project-Paper/data/raw/sentinel2/cordillera_vilcanota/2023/S2A_MSIL2A_20230603T145731_R039_T19LBE_20240906T003730_B02.tif",
+        "B03": "/home/andre/Documents/GLOF_Andes_Project-Paper/data/raw/sentinel2/cordillera_vilcanota/2023/S2A_MSIL2A_20230603T145731_R039_T19LBE_20240906T003730_B03.tif",
+        "B04": "/home/andre/Documents/GLOF_Andes_Project-Paper/data/raw/sentinel2/cordillera_vilcanota/2023/S2A_MSIL2A_20230603T145731_R039_T19LBE_20240906T003730_B04.tif",
+        "B08": "/home/andre/Documents/GLOF_Andes_Project-Paper/data/raw/sentinel2/cordillera_vilcanota/2023/S2A_MSIL2A_20230603T145731_R039_T19LBE_20240906T003730_B08.tif",
+        "B11": "/home/andre/Documents/GLOF_Andes_Project-Paper/data/raw/sentinel2/cordillera_vilcanota/2023/S2A_MSIL2A_20230603T145731_R039_T19LBE_20240906T003730_B11.tif",
+        "B12": "/home/andre/Documents/GLOF_Andes_Project-Paper/data/raw/sentinel2/cordillera_vilcanota/2023/S2A_MSIL2A_20230603T145731_R039_T19LBE_20240906T003730_B12.tif"
+      }
+    },
+    "2024": {
+      "scene_id": "S2A_MSIL2A_20240717T145731_R039_T19LBE_20240717T212135",
+      "cloud_cover": 0.001384,
+      "date": "2024-07-17",
+      "bands": {
+        "B02": "/home/andre/Documents/GLOF_Andes_Project-Paper/data/raw/sentinel2/cordillera_vilcanota/2024/S2A_MSIL2A_20240717T145731_R039_T19LBE_20240717T212135_B02.tif",
+        "B03": "/home/andre/Documents/GLOF_Andes_Project-Paper/data/raw/sentinel2/cordillera_vilcanota/2024/S2A_MSIL2A_20240717T145731_R039_T19LBE_20240717T212135_B03.tif",
+        "B04": "/home/andre/Documents/GLOF_Andes_Project-Paper/data/raw/sentinel2/cordillera_vilcanota/2024/S2A_MSIL2A_20240717T145731_R039_T19LBE_20240717T212135_B04.tif",
+        "B08": "/home/andre/Documents/GLOF_Andes_Project-Paper/data/raw/sentinel2/cordillera_vilcanota/2024/S2A_MSIL2A_20240717T145731_R039_T19LBE_20240717T212135_B08.tif",
+        "B11": "/home/andre/Documents/GLOF_Andes_Project-Paper/data/raw/sentinel2/cordillera_vilcanota/2024/S2A_MSIL2A_20240717T145731_R039_T19LBE_20240717T212135_B11.tif",
+        "B12": "/home/andre/Documents/GLOF_Andes_Project-Paper/data/raw/sentinel2/cordillera_vilcanota/2024/S2A_MSIL2A_20240717T145731_R039_T19LBE_20240717T212135_B12.tif"
+      }
+    },
+    "2025": {
+      "scene_id": "S2C_MSIL2A_20250622T145741_R039_T19LBE_20250707T090915",
+      "cloud_cover": 3.6e-05,
+      "date": "2025-06-22",
+      "bands": {
+        "B02": "/home/andre/Documents/GLOF_Andes_Project-Paper/data/raw/sentinel2/cordillera_vilcanota/2025/S2C_MSIL2A_20250622T145741_R039_T19LBE_20250707T090915_B02.tif",
+        "B03": "/home/andre/Documents/GLOF_Andes_Project-Paper/data/raw/sentinel2/cordillera_vilcanota/2025/S2C_MSIL2A_20250622T145741_R039_T19LBE_20250707T090915_B03.tif",
+        "B04": "/home/andre/Documents/GLOF_Andes_Project-Paper/data/raw/sentinel2/cordillera_vilcanota/2025/S2C_MSIL2A_20250622T145741_R039_T19LBE_20250707T090915_B04.tif",
+        "B08": "/home/andre/Documents/GLOF_Andes_Project-Paper/data/raw/sentinel2/cordillera_vilcanota/2025/S2C_MSIL2A_20250622T145741_R039_T19LBE_20250707T090915_B08.tif",
+        "B11": "/home/andre/Documents/GLOF_Andes_Project-Paper/data/raw/sentinel2/cordillera_vilcanota/2025/S2C_MSIL2A_20250622T145741_R039_T19LBE_20250707T090915_B11.tif",
+        "B12": "/home/andre/Documents/GLOF_Andes_Project-Paper/data/raw/sentinel2/cordillera_vilcanota/2025/S2C_MSIL2A_20250622T145741_R039_T19LBE_20250707T090915_B12.tif"
+      }
+    }
+  },
+  "total_size_gb": 1.6482908800244331,
+  "metadata_path": null,
+  "timestamp": "2026-02-19T10:04:25.081472"
+}

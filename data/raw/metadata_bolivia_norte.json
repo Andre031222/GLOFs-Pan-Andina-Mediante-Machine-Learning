@@ -1,0 +1,151 @@
+{
+  "success": true,
+  "area_name": "bolivia_norte",
+  "bbox": [
+    -68.4,
+    -15.75,
+    -67.5,
+    -14.3
+  ],
+  "epsg": 32719,
+  "dem_tiles": 4,
+  "dem_files": [
+    "D:\\Research-Dev\\AUP_Articulos_Inves\\GLOF_Andes_Project-Paper\\data\\raw\\dem\\bolivia_norte\\NASADEM_HGT_s16w069_elevation.tif",
+    "D:\\Research-Dev\\AUP_Articulos_Inves\\GLOF_Andes_Project-Paper\\data\\raw\\dem\\bolivia_norte\\NASADEM_HGT_s16w068_elevation.tif",
+    "D:\\Research-Dev\\AUP_Articulos_Inves\\GLOF_Andes_Project-Paper\\data\\raw\\dem\\bolivia_norte\\NASADEM_HGT_s15w069_elevation.tif",
+    "D:\\Research-Dev\\AUP_Articulos_Inves\\GLOF_Andes_Project-Paper\\data\\raw\\dem\\bolivia_norte\\NASADEM_HGT_s15w068_elevation.tif"
+  ],
+  "sentinel_years": [
+    2017,
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "sentinel_files": {
+    "2017": {
+      "scene_id": "S2B_MSIL2A_20170825T144729_R139_T19LFE_20210201T104201",
+      "cloud_cover": 0.964764,
+      "date": "2017-08-25",
+      "bands": {
+        "B02": "D:\\Research-Dev\\AUP_Articulos_Inves\\GLOF_Andes_Project-Paper\\data\\raw\\sentinel2\\bolivia_norte\\2017\\S2B_MSIL2A_20170825T144729_R139_T19LFE_20210201T104201_B02.tif",
+        "B03": "D:\\Research-Dev\\AUP_Articulos_Inves\\GLOF_Andes_Project-Paper\\data\\raw\\sentinel2\\bolivia_norte\\2017\\S2B_MSIL2A_20170825T144729_R139_T19LFE_20210201T104201_B03.tif",
+        "B04": "D:\\Research-Dev\\AUP_Articulos_Inves\\GLOF_Andes_Project-Paper\\data\\raw\\sentinel2\\bolivia_norte\\2017\\S2B_MSIL2A_20170825T144729_R139_T19LFE_20210201T104201_B04.tif",
+        "B08": "D:\\Research-Dev\\AUP_Articulos_Inves\\GLOF_Andes_Project-Paper\\data\\raw\\sentinel2\\bolivia_norte\\2017\\S2B_MSIL2A_20170825T144729_R139_T19LFE_20210201T104201_B08.tif",
+        "B11": "D:\\Research-Dev\\AUP_Articulos_Inves\\GLOF_Andes_Project-Paper\\data\\raw\\sentinel2\\bolivia_norte\\2017\\S2B_MSIL2A_20170825T144729_R139_T19LFE_20210201T104201_B11.tif",
+        "B12": "D:\\Research-Dev\\AUP_Articulos_Inves\\GLOF_Andes_Project-Paper\\data\\raw\\sentinel2\\bolivia_norte\\2017\\S2B_MSIL2A_20170825T144729_R139_T19LFE_20210201T104201_B12.tif"
+      }
+    },
+    "2018": {
+      "scene_id": "S2B_MSIL2A_20180820T144729_R139_T19LFD_20201011T044003",
+      "cloud_cover": 0.0,
+      "date": "2018-08-20",
+      "bands": {
+        "B02": "D:\\Research-Dev\\AUP_Articulos_Inves\\GLOF_Andes_Project-Paper\\data\\raw\\sentinel2\\bolivia_norte\\2018\\S2B_MSIL2A_20180820T144729_R139_T19LFD_20201011T044003_B02.tif",
+        "B03": "D:\\Research-Dev\\AUP_Articulos_Inves\\GLOF_Andes_Project-Paper\\data\\raw\\sentinel2\\bolivia_norte\\2018\\S2B_MSIL2A_20180820T144729_R139_T19LFD_20201011T044003_B03.tif",
+        "B04": "D:\\Research-Dev\\AUP_Articulos_Inves\\GLOF_Andes_Project-Paper\\data\\raw\\sentinel2\\bolivia_norte\\2018\\S2B_MSIL2A_20180820T144729_R139_T19LFD_20201011T044003_B04.tif",
+        "B08": "D:\\Research-Dev\\AUP_Articulos_Inves\\GLOF_Andes_Project-Paper\\data\\raw\\sentinel2\\bolivia_norte\\2018\\S2B_MSIL2A_20180820T144729_R139_T19LFD_20201011T044003_B08.tif",
+        "B11": "D:\\Research-Dev\\AUP_Articulos_Inves\\GLOF_Andes_Project-Paper\\data\\raw\\sentinel2\\bolivia_norte\\2018\\S2B_MSIL2A_20180820T144729_R139_T19LFD_20201011T044003_B11.tif",
+        "B12": "D:\\Research-Dev\\AUP_Articulos_Inves\\GLOF_Andes_Project-Paper\\data\\raw\\sentinel2\\bolivia_norte\\2018\\S2B_MSIL2A_20180820T144729_R139_T19LFD_20201011T044003_B12.tif"
+      }
+    },
+    "2019": {
+      "scene_id": "S2B_MSIL2A_20190822T143759_R096_T19LFE_20201005T033853",
+      "cloud_cover": 0.011122,
+      "date": "2019-08-22",
+      "bands": {
+        "B02": "D:\\Research-Dev\\AUP_Articulos_Inves\\GLOF_Andes_Project-Paper\\data\\raw\\sentinel2\\bolivia_norte\\2019\\S2B_MSIL2A_20190822T143759_R096_T19LFE_20201005T033853_B02.tif",
+        "B03": "D:\\Research-Dev\\AUP_Articulos_Inves\\GLOF_Andes_Project-Paper\\data\\raw\\sentinel2\\bolivia_norte\\2019\\S2B_MSIL2A_20190822T143759_R096_T19LFE_20201005T033853_B03.tif",
+        "B04": "D:\\Research-Dev\\AUP_Articulos_Inves\\GLOF_Andes_Project-Paper\\data\\raw\\sentinel2\\bolivia_norte\\2019\\S2B_MSIL2A_20190822T143759_R096_T19LFE_20201005T033853_B04.tif",
+        "B08": "D:\\Research-Dev\\AUP_Articulos_Inves\\GLOF_Andes_Project-Paper\\data\\raw\\sentinel2\\bolivia_norte\\2019\\S2B_MSIL2A_20190822T143759_R096_T19LFE_20201005T033853_B08.tif",
+        "B11": "D:\\Research-Dev\\AUP_Articulos_Inves\\GLOF_Andes_Project-Paper\\data\\raw\\sentinel2\\bolivia_norte\\2019\\S2B_MSIL2A_20190822T143759_R096_T19LFE_20201005T033853_B11.tif",
+        "B12": "D:\\Research-Dev\\AUP_Articulos_Inves\\GLOF_Andes_Project-Paper\\data\\raw\\sentinel2\\bolivia_norte\\2019\\S2B_MSIL2A_20190822T143759_R096_T19LFE_20201005T033853_B12.tif"
+      }
+    },
+    "2020": {
+      "scene_id": "S2B_MSIL2A_20200809T144729_R139_T19LFE_20200815T160140",
+      "cloud_cover": 0.071851,
+      "date": "2020-08-09",
+      "bands": {
+        "B02": "D:\\Research-Dev\\AUP_Articulos_Inves\\GLOF_Andes_Project-Paper\\data\\raw\\sentinel2\\bolivia_norte\\2020\\S2B_MSIL2A_20200809T144729_R139_T19LFE_20200815T160140_B02.tif",
+        "B03": "D:\\Research-Dev\\AUP_Articulos_Inves\\GLOF_Andes_Project-Paper\\data\\raw\\sentinel2\\bolivia_norte\\2020\\S2B_MSIL2A_20200809T144729_R139_T19LFE_20200815T160140_B03.tif",
+        "B04": "D:\\Research-Dev\\AUP_Articulos_Inves\\GLOF_Andes_Project-Paper\\data\\raw\\sentinel2\\bolivia_norte\\2020\\S2B_MSIL2A_20200809T144729_R139_T19LFE_20200815T160140_B04.tif",
+        "B08": "D:\\Research-Dev\\AUP_Articulos_Inves\\GLOF_Andes_Project-Paper\\data\\raw\\sentinel2\\bolivia_norte\\2020\\S2B_MSIL2A_20200809T144729_R139_T19LFE_20200815T160140_B08.tif",
+        "B11": "D:\\Research-Dev\\AUP_Articulos_Inves\\GLOF_Andes_Project-Paper\\data\\raw\\sentinel2\\bolivia_norte\\2020\\S2B_MSIL2A_20200809T144729_R139_T19LFE_20200815T160140_B11.tif",
+        "B12": "D:\\Research-Dev\\AUP_Articulos_Inves\\GLOF_Andes_Project-Paper\\data\\raw\\sentinel2\\bolivia_norte\\2020\\S2B_MSIL2A_20200809T144729_R139_T19LFE_20200815T160140_B12.tif"
+      }
+    },
+    "2021": {
+      "scene_id": "S2B_MSIL2A_20210702T143729_R096_T19LFD_20210703T052437",
+      "cloud_cover": 0.007296,
+      "date": "2021-07-02",
+      "bands": {
+        "B02": "D:\\Research-Dev\\AUP_Articulos_Inves\\GLOF_Andes_Project-Paper\\data\\raw\\sentinel2\\bolivia_norte\\2021\\S2B_MSIL2A_20210702T143729_R096_T19LFD_20210703T052437_B02.tif",
+        "B03": "D:\\Research-Dev\\AUP_Articulos_Inves\\GLOF_Andes_Project-Paper\\data\\raw\\sentinel2\\bolivia_norte\\2021\\S2B_MSIL2A_20210702T143729_R096_T19LFD_20210703T052437_B03.tif",
+        "B04": "D:\\Research-Dev\\AUP_Articulos_Inves\\GLOF_Andes_Project-Paper\\data\\raw\\sentinel2\\bolivia_norte\\2021\\S2B_MSIL2A_20210702T143729_R096_T19LFD_20210703T052437_B04.tif",
+        "B08": "D:\\Research-Dev\\AUP_Articulos_Inves\\GLOF_Andes_Project-Paper\\data\\raw\\sentinel2\\bolivia_norte\\2021\\S2B_MSIL2A_20210702T143729_R096_T19LFD_20210703T052437_B08.tif",
+        "B11": "D:\\Research-Dev\\AUP_Articulos_Inves\\GLOF_Andes_Project-Paper\\data\\raw\\sentinel2\\bolivia_norte\\2021\\S2B_MSIL2A_20210702T143729_R096_T19LFD_20210703T052437_B11.tif",
+        "B12": "D:\\Research-Dev\\AUP_Articulos_Inves\\GLOF_Andes_Project-Paper\\data\\raw\\sentinel2\\bolivia_norte\\2021\\S2B_MSIL2A_20210702T143729_R096_T19LFD_20210703T052437_B12.tif"
+      }
+    },
+    "2022": {
+      "scene_id": "S2A_MSIL2A_20220615T144741_R139_T19LEE_20240620T023425",
+      "cloud_cover": 0.000289,
+      "date": "2022-06-15",
+      "bands": {
+        "B02": "D:\\Research-Dev\\AUP_Articulos_Inves\\GLOF_Andes_Project-Paper\\data\\raw\\sentinel2\\bolivia_norte\\2022\\S2A_MSIL2A_20220615T144741_R139_T19LEE_20240620T023425_B02.tif",
+        "B03": "D:\\Research-Dev\\AUP_Articulos_Inves\\GLOF_Andes_Project-Paper\\data\\raw\\sentinel2\\bolivia_norte\\2022\\S2A_MSIL2A_20220615T144741_R139_T19LEE_20240620T023425_B03.tif",
+        "B04": "D:\\Research-Dev\\AUP_Articulos_Inves\\GLOF_Andes_Project-Paper\\data\\raw\\sentinel2\\bolivia_norte\\2022\\S2A_MSIL2A_20220615T144741_R139_T19LEE_20240620T023425_B04.tif",
+        "B08": "D:\\Research-Dev\\AUP_Articulos_Inves\\GLOF_Andes_Project-Paper\\data\\raw\\sentinel2\\bolivia_norte\\2022\\S2A_MSIL2A_20220615T144741_R139_T19LEE_20240620T023425_B08.tif",
+        "B11": "D:\\Research-Dev\\AUP_Articulos_Inves\\GLOF_Andes_Project-Paper\\data\\raw\\sentinel2\\bolivia_norte\\2022\\S2A_MSIL2A_20220615T144741_R139_T19LEE_20240620T023425_B11.tif",
+        "B12": "D:\\Research-Dev\\AUP_Articulos_Inves\\GLOF_Andes_Project-Paper\\data\\raw\\sentinel2\\bolivia_norte\\2022\\S2A_MSIL2A_20220615T144741_R139_T19LEE_20240620T023425_B12.tif"
+      }
+    },
+    "2023": {
+      "scene_id": "S2A_MSIL2A_20230816T143731_R096_T19LFE_20230816T233602",
+      "cloud_cover": 0.002466,
+      "date": "2023-08-16",
+      "bands": {
+        "B02": "D:\\Research-Dev\\AUP_Articulos_Inves\\GLOF_Andes_Project-Paper\\data\\raw\\sentinel2\\bolivia_norte\\2023\\S2A_MSIL2A_20230816T143731_R096_T19LFE_20230816T233602_B02.tif",
+        "B03": "D:\\Research-Dev\\AUP_Articulos_Inves\\GLOF_Andes_Project-Paper\\data\\raw\\sentinel2\\bolivia_norte\\2023\\S2A_MSIL2A_20230816T143731_R096_T19LFE_20230816T233602_B03.tif",
+        "B04": "D:\\Research-Dev\\AUP_Articulos_Inves\\GLOF_Andes_Project-Paper\\data\\raw\\sentinel2\\bolivia_norte\\2023\\S2A_MSIL2A_20230816T143731_R096_T19LFE_20230816T233602_B04.tif",
+        "B08": "D:\\Research-Dev\\AUP_Articulos_Inves\\GLOF_Andes_Project-Paper\\data\\raw\\sentinel2\\bolivia_norte\\2023\\S2A_MSIL2A_20230816T143731_R096_T19LFE_20230816T233602_B08.tif",
+        "B11": "D:\\Research-Dev\\AUP_Articulos_Inves\\GLOF_Andes_Project-Paper\\data\\raw\\sentinel2\\bolivia_norte\\2023\\S2A_MSIL2A_20230816T143731_R096_T19LFE_20230816T233602_B11.tif",
+        "B12": "D:\\Research-Dev\\AUP_Articulos_Inves\\GLOF_Andes_Project-Paper\\data\\raw\\sentinel2\\bolivia_norte\\2023\\S2A_MSIL2A_20230816T143731_R096_T19LFE_20230816T233602_B12.tif"
+      }
+    },
+    "2024": {
+      "scene_id": "S2B_MSIL2A_20240815T143749_R096_T19LFE_20240815T165441",
+      "cloud_cover": 0.001341,
+      "date": "2024-08-15",
+      "bands": {
+        "B02": "D:\\Research-Dev\\AUP_Articulos_Inves\\GLOF_Andes_Project-Paper\\data\\raw\\sentinel2\\bolivia_norte\\2024\\S2B_MSIL2A_20240815T143749_R096_T19LFE_20240815T165441_B02.tif",
+        "B03": "D:\\Research-Dev\\AUP_Articulos_Inves\\GLOF_Andes_Project-Paper\\data\\raw\\sentinel2\\bolivia_norte\\2024\\S2B_MSIL2A_20240815T143749_R096_T19LFE_20240815T165441_B03.tif",
+        "B04": "D:\\Research-Dev\\AUP_Articulos_Inves\\GLOF_Andes_Project-Paper\\data\\raw\\sentinel2\\bolivia_norte\\2024\\S2B_MSIL2A_20240815T143749_R096_T19LFE_20240815T165441_B04.tif",
+        "B08": "D:\\Research-Dev\\AUP_Articulos_Inves\\GLOF_Andes_Project-Paper\\data\\raw\\sentinel2\\bolivia_norte\\2024\\S2B_MSIL2A_20240815T143749_R096_T19LFE_20240815T165441_B08.tif",
+        "B11": "D:\\Research-Dev\\AUP_Articulos_Inves\\GLOF_Andes_Project-Paper\\data\\raw\\sentinel2\\bolivia_norte\\2024\\S2B_MSIL2A_20240815T143749_R096_T19LFE_20240815T165441_B11.tif",
+        "B12": "D:\\Research-Dev\\AUP_Articulos_Inves\\GLOF_Andes_Project-Paper\\data\\raw\\sentinel2\\bolivia_norte\\2024\\S2B_MSIL2A_20240815T143749_R096_T19LFE_20240815T165441_B12.tif"
+      }
+    },
+    "2025": {
+      "scene_id": "S2A_MSIL2A_20250827T143821_R096_T19LFE_20250827T221413",
+      "cloud_cover": 0.002009,
+      "date": "2025-08-27",
+      "bands": {
+        "B02": "D:\\Research-Dev\\AUP_Articulos_Inves\\GLOF_Andes_Project-Paper\\data\\raw\\sentinel2\\bolivia_norte\\2025\\S2A_MSIL2A_20250827T143821_R096_T19LFE_20250827T221413_B02.tif",
+        "B03": "D:\\Research-Dev\\AUP_Articulos_Inves\\GLOF_Andes_Project-Paper\\data\\raw\\sentinel2\\bolivia_norte\\2025\\S2A_MSIL2A_20250827T143821_R096_T19LFE_20250827T221413_B03.tif",
+        "B04": "D:\\Research-Dev\\AUP_Articulos_Inves\\GLOF_Andes_Project-Paper\\data\\raw\\sentinel2\\bolivia_norte\\2025\\S2A_MSIL2A_20250827T143821_R096_T19LFE_20250827T221413_B04.tif",
+        "B08": "D:\\Research-Dev\\AUP_Articulos_Inves\\GLOF_Andes_Project-Paper\\data\\raw\\sentinel2\\bolivia_norte\\2025\\S2A_MSIL2A_20250827T143821_R096_T19LFE_20250827T221413_B08.tif",
+        "B11": "D:\\Research-Dev\\AUP_Articulos_Inves\\GLOF_Andes_Project-Paper\\data\\raw\\sentinel2\\bolivia_norte\\2025\\S2A_MSIL2A_20250827T143821_R096_T19LFE_20250827T221413_B11.tif",
+        "B12": "D:\\Research-Dev\\AUP_Articulos_Inves\\GLOF_Andes_Project-Paper\\data\\raw\\sentinel2\\bolivia_norte\\2025\\S2A_MSIL2A_20250827T143821_R096_T19LFE_20250827T221413_B12.tif"
+      }
+    }
+  },
+  "total_size_gb": 0.6664054207503796,
+  "metadata_path": null,
+  "timestamp": "2026-05-06T15:04:59.804911"
+}

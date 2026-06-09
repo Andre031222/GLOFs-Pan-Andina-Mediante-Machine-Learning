@@ -1,0 +1,151 @@
+{
+  "success": true,
+  "area_name": "cordillera_huanzo",
+  "bbox": [
+    -73.1,
+    -15.3,
+    -72.7,
+    -14.9
+  ],
+  "epsg": 32719,
+  "dem_tiles": 4,
+  "dem_files": [
+    "/home/andre/Documents/GLOF_Andes_Project-Paper/data/raw/dem/cordillera_huanzo/NASADEM_HGT_s16w074_elevation.tif",
+    "/home/andre/Documents/GLOF_Andes_Project-Paper/data/raw/dem/cordillera_huanzo/NASADEM_HGT_s16w073_elevation.tif",
+    "/home/andre/Documents/GLOF_Andes_Project-Paper/data/raw/dem/cordillera_huanzo/NASADEM_HGT_s15w074_elevation.tif",
+    "/home/andre/Documents/GLOF_Andes_Project-Paper/data/raw/dem/cordillera_huanzo/NASADEM_HGT_s15w073_elevation.tif"
+  ],
+  "sentinel_years": [
+    2017,
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "sentinel_files": {
+    "2017": {
+      "scene_id": "S2A_MSIL2A_20170627T150721_R082_T18LXJ_20210210T020713",
+      "cloud_cover": 1.041381,
+      "date": "2017-06-27",
+      "bands": {
+        "B02": "/home/andre/Documents/GLOF_Andes_Project-Paper/data/raw/sentinel2/cordillera_huanzo/2017/S2A_MSIL2A_20170627T150721_R082_T18LXJ_20210210T020713_B02.tif",
+        "B03": "/home/andre/Documents/GLOF_Andes_Project-Paper/data/raw/sentinel2/cordillera_huanzo/2017/S2A_MSIL2A_20170627T150721_R082_T18LXJ_20210210T020713_B03.tif",
+        "B04": "/home/andre/Documents/GLOF_Andes_Project-Paper/data/raw/sentinel2/cordillera_huanzo/2017/S2A_MSIL2A_20170627T150721_R082_T18LXJ_20210210T020713_B04.tif",
+        "B08": "/home/andre/Documents/GLOF_Andes_Project-Paper/data/raw/sentinel2/cordillera_huanzo/2017/S2A_MSIL2A_20170627T150721_R082_T18LXJ_20210210T020713_B08.tif",
+        "B11": "/home/andre/Documents/GLOF_Andes_Project-Paper/data/raw/sentinel2/cordillera_huanzo/2017/S2A_MSIL2A_20170627T150721_R082_T18LXJ_20210210T020713_B11.tif",
+        "B12": "/home/andre/Documents/GLOF_Andes_Project-Paper/data/raw/sentinel2/cordillera_huanzo/2017/S2A_MSIL2A_20170627T150721_R082_T18LXJ_20210210T020713_B12.tif"
+      }
+    },
+    "2018": {
+      "scene_id": "S2B_MSIL2A_20180727T150719_R082_T18LXJ_20201011T204705",
+      "cloud_cover": 0.897474,
+      "date": "2018-07-27",
+      "bands": {
+        "B02": "/home/andre/Documents/GLOF_Andes_Project-Paper/data/raw/sentinel2/cordillera_huanzo/2018/S2B_MSIL2A_20180727T150719_R082_T18LXJ_20201011T204705_B02.tif",
+        "B03": "/home/andre/Documents/GLOF_Andes_Project-Paper/data/raw/sentinel2/cordillera_huanzo/2018/S2B_MSIL2A_20180727T150719_R082_T18LXJ_20201011T204705_B03.tif",
+        "B04": "/home/andre/Documents/GLOF_Andes_Project-Paper/data/raw/sentinel2/cordillera_huanzo/2018/S2B_MSIL2A_20180727T150719_R082_T18LXJ_20201011T204705_B04.tif",
+        "B08": "/home/andre/Documents/GLOF_Andes_Project-Paper/data/raw/sentinel2/cordillera_huanzo/2018/S2B_MSIL2A_20180727T150719_R082_T18LXJ_20201011T204705_B08.tif",
+        "B11": "/home/andre/Documents/GLOF_Andes_Project-Paper/data/raw/sentinel2/cordillera_huanzo/2018/S2B_MSIL2A_20180727T150719_R082_T18LXJ_20201011T204705_B11.tif",
+        "B12": "/home/andre/Documents/GLOF_Andes_Project-Paper/data/raw/sentinel2/cordillera_huanzo/2018/S2B_MSIL2A_20180727T150719_R082_T18LXJ_20201011T204705_B12.tif"
+      }
+    },
+    "2019": {
+      "scene_id": "S2A_MSIL2A_20190816T150721_R082_T18LXJ_20201005T010251",
+      "cloud_cover": 1.183765,
+      "date": "2019-08-16",
+      "bands": {
+        "B02": "/home/andre/Documents/GLOF_Andes_Project-Paper/data/raw/sentinel2/cordillera_huanzo/2019/S2A_MSIL2A_20190816T150721_R082_T18LXJ_20201005T010251_B02.tif",
+        "B03": "/home/andre/Documents/GLOF_Andes_Project-Paper/data/raw/sentinel2/cordillera_huanzo/2019/S2A_MSIL2A_20190816T150721_R082_T18LXJ_20201005T010251_B03.tif",
+        "B04": "/home/andre/Documents/GLOF_Andes_Project-Paper/data/raw/sentinel2/cordillera_huanzo/2019/S2A_MSIL2A_20190816T150721_R082_T18LXJ_20201005T010251_B04.tif",
+        "B08": "/home/andre/Documents/GLOF_Andes_Project-Paper/data/raw/sentinel2/cordillera_huanzo/2019/S2A_MSIL2A_20190816T150721_R082_T18LXJ_20201005T010251_B08.tif",
+        "B11": "/home/andre/Documents/GLOF_Andes_Project-Paper/data/raw/sentinel2/cordillera_huanzo/2019/S2A_MSIL2A_20190816T150721_R082_T18LXJ_20201005T010251_B11.tif",
+        "B12": "/home/andre/Documents/GLOF_Andes_Project-Paper/data/raw/sentinel2/cordillera_huanzo/2019/S2A_MSIL2A_20190816T150721_R082_T18LXJ_20201005T010251_B12.tif"
+      }
+    },
+    "2020": {
+      "scene_id": "S2A_MSIL2A_20200611T150731_R082_T18LYJ_20200826T233600",
+      "cloud_cover": 1.207283,
+      "date": "2020-06-11",
+      "bands": {
+        "B02": "/home/andre/Documents/GLOF_Andes_Project-Paper/data/raw/sentinel2/cordillera_huanzo/2020/S2A_MSIL2A_20200611T150731_R082_T18LYJ_20200826T233600_B02.tif",
+        "B03": "/home/andre/Documents/GLOF_Andes_Project-Paper/data/raw/sentinel2/cordillera_huanzo/2020/S2A_MSIL2A_20200611T150731_R082_T18LYJ_20200826T233600_B03.tif",
+        "B04": "/home/andre/Documents/GLOF_Andes_Project-Paper/data/raw/sentinel2/cordillera_huanzo/2020/S2A_MSIL2A_20200611T150731_R082_T18LYJ_20200826T233600_B04.tif",
+        "B08": "/home/andre/Documents/GLOF_Andes_Project-Paper/data/raw/sentinel2/cordillera_huanzo/2020/S2A_MSIL2A_20200611T150731_R082_T18LYJ_20200826T233600_B08.tif",
+        "B11": "/home/andre/Documents/GLOF_Andes_Project-Paper/data/raw/sentinel2/cordillera_huanzo/2020/S2A_MSIL2A_20200611T150731_R082_T18LYJ_20200826T233600_B11.tif",
+        "B12": "/home/andre/Documents/GLOF_Andes_Project-Paper/data/raw/sentinel2/cordillera_huanzo/2020/S2A_MSIL2A_20200611T150731_R082_T18LYJ_20200826T233600_B12.tif"
+      }
+    },
+    "2021": {
+      "scene_id": "S2A_MSIL2A_20210716T150721_R082_T18LXJ_20210717T062521",
+      "cloud_cover": 1.142018,
+      "date": "2021-07-16",
+      "bands": {
+        "B02": "/home/andre/Documents/GLOF_Andes_Project-Paper/data/raw/sentinel2/cordillera_huanzo/2021/S2A_MSIL2A_20210716T150721_R082_T18LXJ_20210717T062521_B02.tif",
+        "B03": "/home/andre/Documents/GLOF_Andes_Project-Paper/data/raw/sentinel2/cordillera_huanzo/2021/S2A_MSIL2A_20210716T150721_R082_T18LXJ_20210717T062521_B03.tif",
+        "B04": "/home/andre/Documents/GLOF_Andes_Project-Paper/data/raw/sentinel2/cordillera_huanzo/2021/S2A_MSIL2A_20210716T150721_R082_T18LXJ_20210717T062521_B04.tif",
+        "B08": "/home/andre/Documents/GLOF_Andes_Project-Paper/data/raw/sentinel2/cordillera_huanzo/2021/S2A_MSIL2A_20210716T150721_R082_T18LXJ_20210717T062521_B08.tif",
+        "B11": "/home/andre/Documents/GLOF_Andes_Project-Paper/data/raw/sentinel2/cordillera_huanzo/2021/S2A_MSIL2A_20210716T150721_R082_T18LXJ_20210717T062521_B11.tif",
+        "B12": "/home/andre/Documents/GLOF_Andes_Project-Paper/data/raw/sentinel2/cordillera_huanzo/2021/S2A_MSIL2A_20210716T150721_R082_T18LXJ_20210717T062521_B12.tif"
+      }
+    },
+    "2022": {
+      "scene_id": "S2B_MSIL2A_20220616T150729_R082_T18LYJ_20240620T022245",
+      "cloud_cover": 0.000121,
+      "date": "2022-06-16",
+      "bands": {
+        "B02": "/home/andre/Documents/GLOF_Andes_Project-Paper/data/raw/sentinel2/cordillera_huanzo/2022/S2B_MSIL2A_20220616T150729_R082_T18LYJ_20240620T022245_B02.tif",
+        "B03": "/home/andre/Documents/GLOF_Andes_Project-Paper/data/raw/sentinel2/cordillera_huanzo/2022/S2B_MSIL2A_20220616T150729_R082_T18LYJ_20240620T022245_B03.tif",
+        "B04": "/home/andre/Documents/GLOF_Andes_Project-Paper/data/raw/sentinel2/cordillera_huanzo/2022/S2B_MSIL2A_20220616T150729_R082_T18LYJ_20240620T022245_B04.tif",
+        "B08": "/home/andre/Documents/GLOF_Andes_Project-Paper/data/raw/sentinel2/cordillera_huanzo/2022/S2B_MSIL2A_20220616T150729_R082_T18LYJ_20240620T022245_B08.tif",
+        "B11": "/home/andre/Documents/GLOF_Andes_Project-Paper/data/raw/sentinel2/cordillera_huanzo/2022/S2B_MSIL2A_20220616T150729_R082_T18LYJ_20240620T022245_B11.tif",
+        "B12": "/home/andre/Documents/GLOF_Andes_Project-Paper/data/raw/sentinel2/cordillera_huanzo/2022/S2B_MSIL2A_20220616T150729_R082_T18LYJ_20240620T022245_B12.tif"
+      }
+    },
+    "2023": {
+      "scene_id": "S2B_MSIL2A_20230611T150729_R082_T18LYJ_20240928T045313",
+      "cloud_cover": 6e-05,
+      "date": "2023-06-11",
+      "bands": {
+        "B02": "/home/andre/Documents/GLOF_Andes_Project-Paper/data/raw/sentinel2/cordillera_huanzo/2023/S2B_MSIL2A_20230611T150729_R082_T18LYJ_20240928T045313_B02.tif",
+        "B03": "/home/andre/Documents/GLOF_Andes_Project-Paper/data/raw/sentinel2/cordillera_huanzo/2023/S2B_MSIL2A_20230611T150729_R082_T18LYJ_20240928T045313_B03.tif",
+        "B04": "/home/andre/Documents/GLOF_Andes_Project-Paper/data/raw/sentinel2/cordillera_huanzo/2023/S2B_MSIL2A_20230611T150729_R082_T18LYJ_20240928T045313_B04.tif",
+        "B08": "/home/andre/Documents/GLOF_Andes_Project-Paper/data/raw/sentinel2/cordillera_huanzo/2023/S2B_MSIL2A_20230611T150729_R082_T18LYJ_20240928T045313_B08.tif",
+        "B11": "/home/andre/Documents/GLOF_Andes_Project-Paper/data/raw/sentinel2/cordillera_huanzo/2023/S2B_MSIL2A_20230611T150729_R082_T18LYJ_20240928T045313_B11.tif",
+        "B12": "/home/andre/Documents/GLOF_Andes_Project-Paper/data/raw/sentinel2/cordillera_huanzo/2023/S2B_MSIL2A_20230611T150729_R082_T18LYJ_20240928T045313_B12.tif"
+      }
+    },
+    "2024": {
+      "scene_id": "S2B_MSIL2A_20240804T150719_R082_T18LYJ_20240804T190912",
+      "cloud_cover": 0.0,
+      "date": "2024-08-04",
+      "bands": {
+        "B02": "/home/andre/Documents/GLOF_Andes_Project-Paper/data/raw/sentinel2/cordillera_huanzo/2024/S2B_MSIL2A_20240804T150719_R082_T18LYJ_20240804T190912_B02.tif",
+        "B03": "/home/andre/Documents/GLOF_Andes_Project-Paper/data/raw/sentinel2/cordillera_huanzo/2024/S2B_MSIL2A_20240804T150719_R082_T18LYJ_20240804T190912_B03.tif",
+        "B04": "/home/andre/Documents/GLOF_Andes_Project-Paper/data/raw/sentinel2/cordillera_huanzo/2024/S2B_MSIL2A_20240804T150719_R082_T18LYJ_20240804T190912_B04.tif",
+        "B08": "/home/andre/Documents/GLOF_Andes_Project-Paper/data/raw/sentinel2/cordillera_huanzo/2024/S2B_MSIL2A_20240804T150719_R082_T18LYJ_20240804T190912_B08.tif",
+        "B11": "/home/andre/Documents/GLOF_Andes_Project-Paper/data/raw/sentinel2/cordillera_huanzo/2024/S2B_MSIL2A_20240804T150719_R082_T18LYJ_20240804T190912_B11.tif",
+        "B12": "/home/andre/Documents/GLOF_Andes_Project-Paper/data/raw/sentinel2/cordillera_huanzo/2024/S2B_MSIL2A_20240804T150719_R082_T18LYJ_20240804T190912_B12.tif"
+      }
+    },
+    "2025": {
+      "scene_id": "S2A_MSIL2A_20250707T150741_R082_T18LXJ_20250708T003319",
+      "cloud_cover": 0.002279,
+      "date": "2025-07-07",
+      "bands": {
+        "B02": "/home/andre/Documents/GLOF_Andes_Project-Paper/data/raw/sentinel2/cordillera_huanzo/2025/S2A_MSIL2A_20250707T150741_R082_T18LXJ_20250708T003319_B02.tif",
+        "B03": "/home/andre/Documents/GLOF_Andes_Project-Paper/data/raw/sentinel2/cordillera_huanzo/2025/S2A_MSIL2A_20250707T150741_R082_T18LXJ_20250708T003319_B03.tif",
+        "B04": "/home/andre/Documents/GLOF_Andes_Project-Paper/data/raw/sentinel2/cordillera_huanzo/2025/S2A_MSIL2A_20250707T150741_R082_T18LXJ_20250708T003319_B04.tif",
+        "B08": "/home/andre/Documents/GLOF_Andes_Project-Paper/data/raw/sentinel2/cordillera_huanzo/2025/S2A_MSIL2A_20250707T150741_R082_T18LXJ_20250708T003319_B08.tif",
+        "B11": "/home/andre/Documents/GLOF_Andes_Project-Paper/data/raw/sentinel2/cordillera_huanzo/2025/S2A_MSIL2A_20250707T150741_R082_T18LXJ_20250708T003319_B11.tif",
+        "B12": "/home/andre/Documents/GLOF_Andes_Project-Paper/data/raw/sentinel2/cordillera_huanzo/2025/S2A_MSIL2A_20250707T150741_R082_T18LXJ_20250708T003319_B12.tif"
+      }
+    }
+  },
+  "total_size_gb": 0.6457289895042777,
+  "metadata_path": null,
+  "timestamp": "2026-02-19T10:16:32.723457"
+}

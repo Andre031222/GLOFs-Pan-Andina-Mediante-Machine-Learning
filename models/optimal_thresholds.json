@@ -1,0 +1,8 @@
+{
+  "BalancedRF": 0.356,
+  "EasyEnsemble": 0.45027204519933683,
+  "Random Forest": 0.011318891837759325,
+  "XGBoost": 0.01,
+  "LightGBM": 0.02208224975579501,
+  "Logistic Regression": 0.32803371563240213
+}

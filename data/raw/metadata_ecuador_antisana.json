@@ -1,0 +1,150 @@
+{
+  "success": true,
+  "area_name": "ecuador_antisana",
+  "bbox": [
+    -78.3,
+    -0.6,
+    -78.0,
+    -0.3
+  ],
+  "epsg": 32717,
+  "dem_tiles": 2,
+  "dem_files": [
+    "/home/andre/Documents/GLOF_Andes_Project-Paper/data/raw/dem/ecuador_antisana/NASADEM_HGT_s01w079_elevation.tif",
+    "/home/andre/Documents/GLOF_Andes_Project-Paper/data/raw/dem/ecuador_antisana/NASADEM_HGT_s01w078_elevation.tif"
+  ],
+  "sentinel_years": [
+    2017,
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "sentinel_files": {
+    "2017": {
+      "scene_id": "S2A_MSIL2A_20170716T153621_R068_T17MQV_20210210T095129",
+      "cloud_cover": 4.887001,
+      "date": "2017-07-16",
+      "bands": {
+        "B02": "/home/andre/Documents/GLOF_Andes_Project-Paper/data/raw/sentinel2/ecuador_antisana/2017/S2A_MSIL2A_20170716T153621_R068_T17MQV_20210210T095129_B02.tif",
+        "B03": "/home/andre/Documents/GLOF_Andes_Project-Paper/data/raw/sentinel2/ecuador_antisana/2017/S2A_MSIL2A_20170716T153621_R068_T17MQV_20210210T095129_B03.tif",
+        "B04": "/home/andre/Documents/GLOF_Andes_Project-Paper/data/raw/sentinel2/ecuador_antisana/2017/S2A_MSIL2A_20170716T153621_R068_T17MQV_20210210T095129_B04.tif",
+        "B08": "/home/andre/Documents/GLOF_Andes_Project-Paper/data/raw/sentinel2/ecuador_antisana/2017/S2A_MSIL2A_20170716T153621_R068_T17MQV_20210210T095129_B08.tif",
+        "B11": "/home/andre/Documents/GLOF_Andes_Project-Paper/data/raw/sentinel2/ecuador_antisana/2017/S2A_MSIL2A_20170716T153621_R068_T17MQV_20210210T095129_B11.tif",
+        "B12": "/home/andre/Documents/GLOF_Andes_Project-Paper/data/raw/sentinel2/ecuador_antisana/2017/S2A_MSIL2A_20170716T153621_R068_T17MQV_20210210T095129_B12.tif"
+      }
+    },
+    "2018": {
+      "scene_id": "S2B_MSIL2A_20180716T153619_R068_T17MQV_20201011T163859",
+      "cloud_cover": 13.715054,
+      "date": "2018-07-16",
+      "bands": {
+        "B02": "/home/andre/Documents/GLOF_Andes_Project-Paper/data/raw/sentinel2/ecuador_antisana/2018/S2B_MSIL2A_20180716T153619_R068_T17MQV_20201011T163859_B02.tif",
+        "B03": "/home/andre/Documents/GLOF_Andes_Project-Paper/data/raw/sentinel2/ecuador_antisana/2018/S2B_MSIL2A_20180716T153619_R068_T17MQV_20201011T163859_B03.tif",
+        "B04": "/home/andre/Documents/GLOF_Andes_Project-Paper/data/raw/sentinel2/ecuador_antisana/2018/S2B_MSIL2A_20180716T153619_R068_T17MQV_20201011T163859_B04.tif",
+        "B08": "/home/andre/Documents/GLOF_Andes_Project-Paper/data/raw/sentinel2/ecuador_antisana/2018/S2B_MSIL2A_20180716T153619_R068_T17MQV_20201011T163859_B08.tif",
+        "B11": "/home/andre/Documents/GLOF_Andes_Project-Paper/data/raw/sentinel2/ecuador_antisana/2018/S2B_MSIL2A_20180716T153619_R068_T17MQV_20201011T163859_B11.tif",
+        "B12": "/home/andre/Documents/GLOF_Andes_Project-Paper/data/raw/sentinel2/ecuador_antisana/2018/S2B_MSIL2A_20180716T153619_R068_T17MQV_20201011T163859_B12.tif"
+      }
+    },
+    "2019": {
+      "scene_id": "S2B_MSIL2A_20190830T153619_R068_T17MRV_20201005T070257",
+      "cloud_cover": 8.695087,
+      "date": "2019-08-30",
+      "bands": {
+        "B02": "/home/andre/Documents/GLOF_Andes_Project-Paper/data/raw/sentinel2/ecuador_antisana/2019/S2B_MSIL2A_20190830T153619_R068_T17MRV_20201005T070257_B02.tif",
+        "B03": "/home/andre/Documents/GLOF_Andes_Project-Paper/data/raw/sentinel2/ecuador_antisana/2019/S2B_MSIL2A_20190830T153619_R068_T17MRV_20201005T070257_B03.tif",
+        "B04": "/home/andre/Documents/GLOF_Andes_Project-Paper/data/raw/sentinel2/ecuador_antisana/2019/S2B_MSIL2A_20190830T153619_R068_T17MRV_20201005T070257_B04.tif",
+        "B08": "/home/andre/Documents/GLOF_Andes_Project-Paper/data/raw/sentinel2/ecuador_antisana/2019/S2B_MSIL2A_20190830T153619_R068_T17MRV_20201005T070257_B08.tif",
+        "B11": "/home/andre/Documents/GLOF_Andes_Project-Paper/data/raw/sentinel2/ecuador_antisana/2019/S2B_MSIL2A_20190830T153619_R068_T17MRV_20201005T070257_B11.tif",
+        "B12": "/home/andre/Documents/GLOF_Andes_Project-Paper/data/raw/sentinel2/ecuador_antisana/2019/S2B_MSIL2A_20190830T153619_R068_T17MRV_20201005T070257_B12.tif"
+      }
+    },
+    "2021": {
+      "scene_id": "S2B_MSIL2A_20210610T153619_R068_T17MQV_20210613T204018",
+      "cloud_cover": 11.498205,
+      "date": "2021-06-10",
+      "bands": {
+        "B02": "/home/andre/Documents/GLOF_Andes_Project-Paper/data/raw/sentinel2/ecuador_antisana/2021/S2B_MSIL2A_20210610T153619_R068_T17MQV_20210613T204018_B02.tif",
+        "B03": "/home/andre/Documents/GLOF_Andes_Project-Paper/data/raw/sentinel2/ecuador_antisana/2021/S2B_MSIL2A_20210610T153619_R068_T17MQV_20210613T204018_B03.tif",
+        "B04": "/home/andre/Documents/GLOF_Andes_Project-Paper/data/raw/sentinel2/ecuador_antisana/2021/S2B_MSIL2A_20210610T153619_R068_T17MQV_20210613T204018_B04.tif",
+        "B08": "/home/andre/Documents/GLOF_Andes_Project-Paper/data/raw/sentinel2/ecuador_antisana/2021/S2B_MSIL2A_20210610T153619_R068_T17MQV_20210613T204018_B08.tif",
+        "B11": "/home/andre/Documents/GLOF_Andes_Project-Paper/data/raw/sentinel2/ecuador_antisana/2021/S2B_MSIL2A_20210610T153619_R068_T17MQV_20210613T204018_B11.tif",
+        "B12": "/home/andre/Documents/GLOF_Andes_Project-Paper/data/raw/sentinel2/ecuador_antisana/2021/S2B_MSIL2A_20210610T153619_R068_T17MQV_20210613T204018_B12.tif"
+      }
+    },
+    "2023": {
+      "scene_id": "S2B_MSIL2A_20230630T153629_R068_T17MRV_20240814T122654",
+      "cloud_cover": 0.0,
+      "date": "2023-06-30",
+      "bands": {
+        "B02": "/home/andre/Documents/GLOF_Andes_Project-Paper/data/raw/sentinel2/ecuador_antisana/2023/S2B_MSIL2A_20230630T153629_R068_T17MRV_20240814T122654_B02.tif",
+        "B03": "/home/andre/Documents/GLOF_Andes_Project-Paper/data/raw/sentinel2/ecuador_antisana/2023/S2B_MSIL2A_20230630T153629_R068_T17MRV_20240814T122654_B03.tif",
+        "B04": "/home/andre/Documents/GLOF_Andes_Project-Paper/data/raw/sentinel2/ecuador_antisana/2023/S2B_MSIL2A_20230630T153629_R068_T17MRV_20240814T122654_B04.tif",
+        "B08": "/home/andre/Documents/GLOF_Andes_Project-Paper/data/raw/sentinel2/ecuador_antisana/2023/S2B_MSIL2A_20230630T153629_R068_T17MRV_20240814T122654_B08.tif",
+        "B11": "/home/andre/Documents/GLOF_Andes_Project-Paper/data/raw/sentinel2/ecuador_antisana/2023/S2B_MSIL2A_20230630T153629_R068_T17MRV_20240814T122654_B11.tif",
+        "B12": "/home/andre/Documents/GLOF_Andes_Project-Paper/data/raw/sentinel2/ecuador_antisana/2023/S2B_MSIL2A_20230630T153629_R068_T17MRV_20240814T122654_B12.tif"
+      }
+    },
+    "2020": {
+      "scene_id": "S2B_MSIL2A_20200824T153619_R068_T17MRV_20200827T151659",
+      "cloud_cover": 22.2,
+      "date": "2020-08-24",
+      "bands": {
+        "B02": "data/raw/sentinel2/ecuador_antisana/2020/S2B_MSIL2A_20200824T153619_R068_T17MRV_20200827T151659_B02.tif",
+        "B03": "data/raw/sentinel2/ecuador_antisana/2020/S2B_MSIL2A_20200824T153619_R068_T17MRV_20200827T151659_B03.tif",
+        "B04": "data/raw/sentinel2/ecuador_antisana/2020/S2B_MSIL2A_20200824T153619_R068_T17MRV_20200827T151659_B04.tif",
+        "B08": "data/raw/sentinel2/ecuador_antisana/2020/S2B_MSIL2A_20200824T153619_R068_T17MRV_20200827T151659_B08.tif",
+        "B11": "data/raw/sentinel2/ecuador_antisana/2020/S2B_MSIL2A_20200824T153619_R068_T17MRV_20200827T151659_B11.tif",
+        "B12": "data/raw/sentinel2/ecuador_antisana/2020/S2B_MSIL2A_20200824T153619_R068_T17MRV_20200827T151659_B12.tif"
+      }
+    },
+    "2022": {
+      "scene_id": "S2B_MSIL2A_20220814T153619_R068_T17MQV_20220815T045923",
+      "cloud_cover": 32.6,
+      "date": "2022-08-14",
+      "bands": {
+        "B02": "data/raw/sentinel2/ecuador_antisana/2022/S2B_MSIL2A_20220814T153619_R068_T17MQV_20220815T045923_B02.tif",
+        "B03": "data/raw/sentinel2/ecuador_antisana/2022/S2B_MSIL2A_20220814T153619_R068_T17MQV_20220815T045923_B03.tif",
+        "B04": "data/raw/sentinel2/ecuador_antisana/2022/S2B_MSIL2A_20220814T153619_R068_T17MQV_20220815T045923_B04.tif",
+        "B08": "data/raw/sentinel2/ecuador_antisana/2022/S2B_MSIL2A_20220814T153619_R068_T17MQV_20220815T045923_B08.tif",
+        "B11": "data/raw/sentinel2/ecuador_antisana/2022/S2B_MSIL2A_20220814T153619_R068_T17MQV_20220815T045923_B11.tif",
+        "B12": "data/raw/sentinel2/ecuador_antisana/2022/S2B_MSIL2A_20220814T153619_R068_T17MQV_20220815T045923_B12.tif"
+      }
+    },
+    "2024": {
+      "scene_id": "S2A_MSIL2A_20240808T153631_R068_T17MRV_20240809T000205",
+      "cloud_cover": 16.5,
+      "date": "2024-08-08",
+      "bands": {
+        "B02": "data/raw/sentinel2/ecuador_antisana/2024/S2A_MSIL2A_20240808T153631_R068_T17MRV_20240809T000205_B02.tif",
+        "B03": "data/raw/sentinel2/ecuador_antisana/2024/S2A_MSIL2A_20240808T153631_R068_T17MRV_20240809T000205_B03.tif",
+        "B04": "data/raw/sentinel2/ecuador_antisana/2024/S2A_MSIL2A_20240808T153631_R068_T17MRV_20240809T000205_B04.tif",
+        "B08": "data/raw/sentinel2/ecuador_antisana/2024/S2A_MSIL2A_20240808T153631_R068_T17MRV_20240809T000205_B08.tif",
+        "B11": "data/raw/sentinel2/ecuador_antisana/2024/S2A_MSIL2A_20240808T153631_R068_T17MRV_20240809T000205_B11.tif",
+        "B12": "data/raw/sentinel2/ecuador_antisana/2024/S2A_MSIL2A_20240808T153631_R068_T17MRV_20240809T000205_B12.tif"
+      }
+    },
+    "2025": {
+      "scene_id": "S2A_MSIL2A_20250726T153641_R068_T17MQV_20250726T220500",
+      "cloud_cover": 24.8,
+      "date": "2025-07-26",
+      "bands": {
+        "B02": "data/raw/sentinel2/ecuador_antisana/2025/S2A_MSIL2A_20250726T153641_R068_T17MQV_20250726T220500_B02.tif",
+        "B03": "data/raw/sentinel2/ecuador_antisana/2025/S2A_MSIL2A_20250726T153641_R068_T17MQV_20250726T220500_B03.tif",
+        "B04": "data/raw/sentinel2/ecuador_antisana/2025/S2A_MSIL2A_20250726T153641_R068_T17MQV_20250726T220500_B04.tif",
+        "B08": "data/raw/sentinel2/ecuador_antisana/2025/S2A_MSIL2A_20250726T153641_R068_T17MQV_20250726T220500_B08.tif",
+        "B11": "data/raw/sentinel2/ecuador_antisana/2025/S2A_MSIL2A_20250726T153641_R068_T17MQV_20250726T220500_B11.tif",
+        "B12": "data/raw/sentinel2/ecuador_antisana/2025/S2A_MSIL2A_20250726T153641_R068_T17MQV_20250726T220500_B12.tif"
+      }
+    }
+  },
+  "total_size_gb": 0.15076578874140978,
+  "metadata_path": null,
+  "timestamp": "2026-02-19T10:26:05.047048",
+  "max_cloud_cover_used": 40
+}

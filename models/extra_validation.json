@@ -1,0 +1,130 @@
+{
+  "ks_test": {
+    "ks_statistic": 0.5412026726057907,
+    "ks_p_value": 6.465766039870153e-05,
+    "ks_p_onesided": 5.99405270937283e-05,
+    "median_glof": 0.663,
+    "median_nonglof": 0.27,
+    "mean_glof": 0.65425,
+    "mean_nonglof": 0.34774228444161637,
+    "interpretation": "GLOF-source lake scores are significantly higher than non-GLOF scores (two-sided KS test)"
+  },
+  "prospective_validation": {
+    "top50_high_risk_fraction": 0.92,
+    "top100_high_risk_fraction": 0.78,
+    "top252_high_risk_fraction": 0.7301587301587301,
+    "top50_area_breakdown": {
+      "C. Blanca (PE)": 38,
+      "C. Raura (PE)": 8,
+      "Antisana (EC)": 2,
+      "Andes Centrales (CL)": 1,
+      "C. Vilcanota (PE)": 1
+    },
+    "top100_area_breakdown": {
+      "C. Blanca (PE)": 61,
+      "C. Raura (PE)": 17,
+      "C. Vilcanota (PE)": 9,
+      "Andes Centrales (CL)": 8,
+      "C. Urubamba (PE)": 3,
+      "Antisana (EC)": 2
+    },
+    "feature_comparison": {
+      "dist_glacier_m": {
+        "top50_median": 456.56654357910156,
+        "all_nonglof_median": 2402.7200927734375
+      },
+      "volume_m3": {
+        "top50_median": 2795982206.026776,
+        "all_nonglof_median": 25197.54030459408
+      },
+      "depth_m": {
+        "top50_median": 166.82219616704373,
+        "all_nonglof_median": 5.418825871955716
+      },
+      "area_m2": {
+        "top50_median": 22347000.0,
+        "all_nonglof_median": 6200.0
+      }
+    },
+    "high_risk_areas": [
+      "cordillera_huayhuash",
+      "cordillera_blanca",
+      "cordillera_raura"
+    ],
+    "top50_score_range": [
+      0.926,
+      1.0
+    ]
+  },
+  "baseline_comparison": {
+    "brf_auc": 0.8207,
+    "logreg_auc": 0.573,
+    "xgboost_auc": 0.7831,
+    "randomforest_auc": 0.7826,
+    "abs_gain_vs_logreg": 0.24770000000000003,
+    "rel_gain_vs_logreg_pct": 43.228621291448526,
+    "note": "LogReg implements the linear discriminant baseline analogous to McKillop & Clague (2007) on our 57-feature dataset. BalancedRF achieves 0.248 absolute AUC gain (43.2% relative improvement)."
+  },
+  "calibration": {
+    "brier_score": 0.17874309501112173,
+    "brier_baseline": 0.0012694362226941714,
+    "brier_skill_score": -139.80510057588293,
+    "reliability_data": {
+      "bins_5": {
+        "mean_predicted_value": [
+          0.08285360185902524,
+          0.16260455655004002,
+          0.2790911261440517,
+          0.49138461538461536,
+          0.7274357341822544
+        ],
+        "fraction_of_positives": [
+          0.0,
+          0.0,
+          0.0007958615200955034,
+          0.0019825535289452814,
+          0.003581376840429765
+        ]
+      },
+      "bins_10": {
+        "mean_predicted_value": [
+          0.062164426877470126,
+          0.10272589217919507,
+          0.14177687296416855,
+          0.18339837398373882,
+          0.23675791139240474,
+          0.3219327461969574,
+          0.4342879746835451,
+          0.5487535771065181,
+          0.6596875981161695,
+          0.7970976594027428
+        ],
+        "fraction_of_positives": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0016012810248198558,
+          0.0015822784810126582,
+          0.0023847376788553257,
+          0.0007849293563579278,
+          0.00645682001614205
+        ]
+      }
+    },
+    "score_quantiles_neg": {
+      "p50": 0.27,
+      "p75": 0.548,
+      "p90": 0.72,
+      "p95": 0.782,
+      "p99": 0.8745799999999981
+    },
+    "score_quantiles_pos": {
+      "p25": 0.49,
+      "p50": 0.663,
+      "p75": 0.8205
+    },
+    "interpretation": "Negative BSS is expected: BRF internal resampling under 1:787 imbalance inflates scores above the true prevalence (0.127%). Scores function as ranking indices, not calibrated probabilities."
+  }
+}

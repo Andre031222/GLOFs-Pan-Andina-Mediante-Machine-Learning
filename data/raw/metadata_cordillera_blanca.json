@@ -1,0 +1,149 @@
+{
+  "success": true,
+  "area_name": "cordillera_blanca",
+  "bbox": [
+    -77.8,
+    -9.8,
+    -77.1,
+    -8.8
+  ],
+  "epsg": 32718,
+  "dem_tiles": 2,
+  "dem_files": [
+    "/home/andre/Documents/GLOF_Andes_Project-Paper/data/raw/dem/cordillera_blanca/NASADEM_HGT_s10w078_elevation.tif",
+    "/home/andre/Documents/GLOF_Andes_Project-Paper/data/raw/dem/cordillera_blanca/NASADEM_HGT_s09w078_elevation.tif"
+  ],
+  "sentinel_years": [
+    2017,
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "sentinel_files": {
+    "2017": {
+      "scene_id": "S2A_MSIL2A_20170723T152641_R025_T18LTR_20210210T131633",
+      "cloud_cover": 1.516804,
+      "date": "2017-07-23",
+      "bands": {
+        "B02": "/home/andre/Documents/GLOF_Andes_Project-Paper/data/raw/sentinel2/cordillera_blanca/2017/S2A_MSIL2A_20170723T152641_R025_T18LTR_20210210T131633_B02.tif",
+        "B03": "/home/andre/Documents/GLOF_Andes_Project-Paper/data/raw/sentinel2/cordillera_blanca/2017/S2A_MSIL2A_20170723T152641_R025_T18LTR_20210210T131633_B03.tif",
+        "B04": "/home/andre/Documents/GLOF_Andes_Project-Paper/data/raw/sentinel2/cordillera_blanca/2017/S2A_MSIL2A_20170723T152641_R025_T18LTR_20210210T131633_B04.tif",
+        "B08": "/home/andre/Documents/GLOF_Andes_Project-Paper/data/raw/sentinel2/cordillera_blanca/2017/S2A_MSIL2A_20170723T152641_R025_T18LTR_20210210T131633_B08.tif",
+        "B11": "/home/andre/Documents/GLOF_Andes_Project-Paper/data/raw/sentinel2/cordillera_blanca/2017/S2A_MSIL2A_20170723T152641_R025_T18LTR_20210210T131633_B11.tif",
+        "B12": "/home/andre/Documents/GLOF_Andes_Project-Paper/data/raw/sentinel2/cordillera_blanca/2017/S2A_MSIL2A_20170723T152641_R025_T18LTR_20210210T131633_B12.tif"
+      }
+    },
+    "2018": {
+      "scene_id": "S2A_MSIL2A_20180728T152641_R025_T18LTR_20201011T205909",
+      "cloud_cover": 0.390368,
+      "date": "2018-07-28",
+      "bands": {
+        "B02": "/home/andre/Documents/GLOF_Andes_Project-Paper/data/raw/sentinel2/cordillera_blanca/2018/S2A_MSIL2A_20180728T152641_R025_T18LTR_20201011T205909_B02.tif",
+        "B03": "/home/andre/Documents/GLOF_Andes_Project-Paper/data/raw/sentinel2/cordillera_blanca/2018/S2A_MSIL2A_20180728T152641_R025_T18LTR_20201011T205909_B03.tif",
+        "B04": "/home/andre/Documents/GLOF_Andes_Project-Paper/data/raw/sentinel2/cordillera_blanca/2018/S2A_MSIL2A_20180728T152641_R025_T18LTR_20201011T205909_B04.tif",
+        "B08": "/home/andre/Documents/GLOF_Andes_Project-Paper/data/raw/sentinel2/cordillera_blanca/2018/S2A_MSIL2A_20180728T152641_R025_T18LTR_20201011T205909_B08.tif",
+        "B11": "/home/andre/Documents/GLOF_Andes_Project-Paper/data/raw/sentinel2/cordillera_blanca/2018/S2A_MSIL2A_20180728T152641_R025_T18LTR_20201011T205909_B11.tif",
+        "B12": "/home/andre/Documents/GLOF_Andes_Project-Paper/data/raw/sentinel2/cordillera_blanca/2018/S2A_MSIL2A_20180728T152641_R025_T18LTR_20201011T205909_B12.tif"
+      }
+    },
+    "2019": {
+      "scene_id": "S2B_MSIL2A_20190608T152649_R025_T17LRL_20201005T234833",
+      "cloud_cover": 0.261595,
+      "date": "2019-06-08",
+      "bands": {
+        "B02": "/home/andre/Documents/GLOF_Andes_Project-Paper/data/raw/sentinel2/cordillera_blanca/2019/S2B_MSIL2A_20190608T152649_R025_T17LRL_20201005T234833_B02.tif",
+        "B03": "/home/andre/Documents/GLOF_Andes_Project-Paper/data/raw/sentinel2/cordillera_blanca/2019/S2B_MSIL2A_20190608T152649_R025_T17LRL_20201005T234833_B03.tif",
+        "B04": "/home/andre/Documents/GLOF_Andes_Project-Paper/data/raw/sentinel2/cordillera_blanca/2019/S2B_MSIL2A_20190608T152649_R025_T17LRL_20201005T234833_B04.tif",
+        "B08": "/home/andre/Documents/GLOF_Andes_Project-Paper/data/raw/sentinel2/cordillera_blanca/2019/S2B_MSIL2A_20190608T152649_R025_T17LRL_20201005T234833_B08.tif",
+        "B11": "/home/andre/Documents/GLOF_Andes_Project-Paper/data/raw/sentinel2/cordillera_blanca/2019/S2B_MSIL2A_20190608T152649_R025_T17LRL_20201005T234833_B11.tif",
+        "B12": "/home/andre/Documents/GLOF_Andes_Project-Paper/data/raw/sentinel2/cordillera_blanca/2019/S2B_MSIL2A_20190608T152649_R025_T17LRL_20201005T234833_B12.tif"
+      }
+    },
+    "2020": {
+      "scene_id": "S2A_MSIL2A_20200627T152641_R025_T18LTQ_20200824T073515",
+      "cloud_cover": 1.756872,
+      "date": "2020-06-27",
+      "bands": {
+        "B02": "/home/andre/Documents/GLOF_Andes_Project-Paper/data/raw/sentinel2/cordillera_blanca/2020/S2A_MSIL2A_20200627T152641_R025_T18LTQ_20200824T073515_B02.tif",
+        "B03": "/home/andre/Documents/GLOF_Andes_Project-Paper/data/raw/sentinel2/cordillera_blanca/2020/S2A_MSIL2A_20200627T152641_R025_T18LTQ_20200824T073515_B03.tif",
+        "B04": "/home/andre/Documents/GLOF_Andes_Project-Paper/data/raw/sentinel2/cordillera_blanca/2020/S2A_MSIL2A_20200627T152641_R025_T18LTQ_20200824T073515_B04.tif",
+        "B08": "/home/andre/Documents/GLOF_Andes_Project-Paper/data/raw/sentinel2/cordillera_blanca/2020/S2A_MSIL2A_20200627T152641_R025_T18LTQ_20200824T073515_B08.tif",
+        "B11": "/home/andre/Documents/GLOF_Andes_Project-Paper/data/raw/sentinel2/cordillera_blanca/2020/S2A_MSIL2A_20200627T152641_R025_T18LTQ_20200824T073515_B11.tif",
+        "B12": "/home/andre/Documents/GLOF_Andes_Project-Paper/data/raw/sentinel2/cordillera_blanca/2020/S2A_MSIL2A_20200627T152641_R025_T18LTQ_20200824T073515_B12.tif"
+      }
+    },
+    "2021": {
+      "scene_id": "S2B_MSIL2A_20210806T152639_R025_T17LRL_20210807T024636",
+      "cloud_cover": 1.00883,
+      "date": "2021-08-06",
+      "bands": {
+        "B02": "/home/andre/Documents/GLOF_Andes_Project-Paper/data/raw/sentinel2/cordillera_blanca/2021/S2B_MSIL2A_20210806T152639_R025_T17LRL_20210807T024636_B02.tif",
+        "B03": "/home/andre/Documents/GLOF_Andes_Project-Paper/data/raw/sentinel2/cordillera_blanca/2021/S2B_MSIL2A_20210806T152639_R025_T17LRL_20210807T024636_B03.tif",
+        "B04": "/home/andre/Documents/GLOF_Andes_Project-Paper/data/raw/sentinel2/cordillera_blanca/2021/S2B_MSIL2A_20210806T152639_R025_T17LRL_20210807T024636_B04.tif",
+        "B08": "/home/andre/Documents/GLOF_Andes_Project-Paper/data/raw/sentinel2/cordillera_blanca/2021/S2B_MSIL2A_20210806T152639_R025_T17LRL_20210807T024636_B08.tif",
+        "B11": "/home/andre/Documents/GLOF_Andes_Project-Paper/data/raw/sentinel2/cordillera_blanca/2021/S2B_MSIL2A_20210806T152639_R025_T17LRL_20210807T024636_B11.tif",
+        "B12": "/home/andre/Documents/GLOF_Andes_Project-Paper/data/raw/sentinel2/cordillera_blanca/2021/S2B_MSIL2A_20210806T152639_R025_T17LRL_20210807T024636_B12.tif"
+      }
+    },
+    "2022": {
+      "scene_id": "S2B_MSIL2A_20220722T152649_R025_T17LRL_20220725T005350",
+      "cloud_cover": 0.00785,
+      "date": "2022-07-22",
+      "bands": {
+        "B02": "/home/andre/Documents/GLOF_Andes_Project-Paper/data/raw/sentinel2/cordillera_blanca/2022/S2B_MSIL2A_20220722T152649_R025_T17LRL_20220725T005350_B02.tif",
+        "B03": "/home/andre/Documents/GLOF_Andes_Project-Paper/data/raw/sentinel2/cordillera_blanca/2022/S2B_MSIL2A_20220722T152649_R025_T17LRL_20220725T005350_B03.tif",
+        "B04": "/home/andre/Documents/GLOF_Andes_Project-Paper/data/raw/sentinel2/cordillera_blanca/2022/S2B_MSIL2A_20220722T152649_R025_T17LRL_20220725T005350_B04.tif",
+        "B08": "/home/andre/Documents/GLOF_Andes_Project-Paper/data/raw/sentinel2/cordillera_blanca/2022/S2B_MSIL2A_20220722T152649_R025_T17LRL_20220725T005350_B08.tif",
+        "B11": "/home/andre/Documents/GLOF_Andes_Project-Paper/data/raw/sentinel2/cordillera_blanca/2022/S2B_MSIL2A_20220722T152649_R025_T17LRL_20220725T005350_B11.tif",
+        "B12": "/home/andre/Documents/GLOF_Andes_Project-Paper/data/raw/sentinel2/cordillera_blanca/2022/S2B_MSIL2A_20220722T152649_R025_T17LRL_20220725T005350_B12.tif"
+      }
+    },
+    "2023": {
+      "scene_id": "S2B_MSIL2A_20230627T152639_R025_T17LRL_20230628T012935",
+      "cloud_cover": 2e-05,
+      "date": "2023-06-27",
+      "bands": {
+        "B02": "/home/andre/Documents/GLOF_Andes_Project-Paper/data/raw/sentinel2/cordillera_blanca/2023/S2B_MSIL2A_20230627T152639_R025_T17LRL_20230628T012935_B02.tif",
+        "B03": "/home/andre/Documents/GLOF_Andes_Project-Paper/data/raw/sentinel2/cordillera_blanca/2023/S2B_MSIL2A_20230627T152639_R025_T17LRL_20230628T012935_B03.tif",
+        "B04": "/home/andre/Documents/GLOF_Andes_Project-Paper/data/raw/sentinel2/cordillera_blanca/2023/S2B_MSIL2A_20230627T152639_R025_T17LRL_20230628T012935_B04.tif",
+        "B08": "/home/andre/Documents/GLOF_Andes_Project-Paper/data/raw/sentinel2/cordillera_blanca/2023/S2B_MSIL2A_20230627T152639_R025_T17LRL_20230628T012935_B08.tif",
+        "B11": "/home/andre/Documents/GLOF_Andes_Project-Paper/data/raw/sentinel2/cordillera_blanca/2023/S2B_MSIL2A_20230627T152639_R025_T17LRL_20230628T012935_B11.tif",
+        "B12": "/home/andre/Documents/GLOF_Andes_Project-Paper/data/raw/sentinel2/cordillera_blanca/2023/S2B_MSIL2A_20230627T152639_R025_T17LRL_20230628T012935_B12.tif"
+      }
+    },
+    "2024": {
+      "scene_id": "S2B_MSIL2A_20240601T152659_R025_T18LTQ_20240601T201705",
+      "cloud_cover": 0.00937,
+      "date": "2024-06-01",
+      "bands": {
+        "B02": "/home/andre/Documents/GLOF_Andes_Project-Paper/data/raw/sentinel2/cordillera_blanca/2024/S2B_MSIL2A_20240601T152659_R025_T18LTQ_20240601T201705_B02.tif",
+        "B03": "/home/andre/Documents/GLOF_Andes_Project-Paper/data/raw/sentinel2/cordillera_blanca/2024/S2B_MSIL2A_20240601T152659_R025_T18LTQ_20240601T201705_B03.tif",
+        "B04": "/home/andre/Documents/GLOF_Andes_Project-Paper/data/raw/sentinel2/cordillera_blanca/2024/S2B_MSIL2A_20240601T152659_R025_T18LTQ_20240601T201705_B04.tif",
+        "B08": "/home/andre/Documents/GLOF_Andes_Project-Paper/data/raw/sentinel2/cordillera_blanca/2024/S2B_MSIL2A_20240601T152659_R025_T18LTQ_20240601T201705_B08.tif",
+        "B11": "/home/andre/Documents/GLOF_Andes_Project-Paper/data/raw/sentinel2/cordillera_blanca/2024/S2B_MSIL2A_20240601T152659_R025_T18LTQ_20240601T201705_B11.tif",
+        "B12": "/home/andre/Documents/GLOF_Andes_Project-Paper/data/raw/sentinel2/cordillera_blanca/2024/S2B_MSIL2A_20240601T152659_R025_T18LTQ_20240601T201705_B12.tif"
+      }
+    },
+    "2025": {
+      "scene_id": "S2C_MSIL2A_20250621T152711_R025_T18LTQ_20250621T210820",
+      "cloud_cover": 0.005863,
+      "date": "2025-06-21",
+      "bands": {
+        "B02": "/home/andre/Documents/GLOF_Andes_Project-Paper/data/raw/sentinel2/cordillera_blanca/2025/S2C_MSIL2A_20250621T152711_R025_T18LTQ_20250621T210820_B02.tif",
+        "B03": "/home/andre/Documents/GLOF_Andes_Project-Paper/data/raw/sentinel2/cordillera_blanca/2025/S2C_MSIL2A_20250621T152711_R025_T18LTQ_20250621T210820_B03.tif",
+        "B04": "/home/andre/Documents/GLOF_Andes_Project-Paper/data/raw/sentinel2/cordillera_blanca/2025/S2C_MSIL2A_20250621T152711_R025_T18LTQ_20250621T210820_B04.tif",
+        "B08": "/home/andre/Documents/GLOF_Andes_Project-Paper/data/raw/sentinel2/cordillera_blanca/2025/S2C_MSIL2A_20250621T152711_R025_T18LTQ_20250621T210820_B08.tif",
+        "B11": "/home/andre/Documents/GLOF_Andes_Project-Paper/data/raw/sentinel2/cordillera_blanca/2025/S2C_MSIL2A_20250621T152711_R025_T18LTQ_20250621T210820_B11.tif",
+        "B12": "/home/andre/Documents/GLOF_Andes_Project-Paper/data/raw/sentinel2/cordillera_blanca/2025/S2C_MSIL2A_20250621T152711_R025_T18LTQ_20250621T210820_B12.tif"
+      }
+    }
+  },
+  "total_size_gb": 2.392253869213164,
+  "metadata_path": null,
+  "timestamp": "2026-02-19T10:00:46.764034"
+}

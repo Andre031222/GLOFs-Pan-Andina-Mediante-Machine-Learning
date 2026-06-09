@@ -1,0 +1,167 @@
+{
+  "success": true,
+  "area_name": "patagonia_norte",
+  "bbox": [
+    -74.5,
+    -48.5,
+    -71.0,
+    -44.5
+  ],
+  "epsg": 32718,
+  "dem_tiles": 20,
+  "dem_files": [
+    "D:\\Research-Dev\\AUP_Articulos_Inves\\GLOF_Andes_Project-Paper\\data\\raw\\dem\\patagonia_norte\\NASADEM_HGT_s49w075_elevation.tif",
+    "D:\\Research-Dev\\AUP_Articulos_Inves\\GLOF_Andes_Project-Paper\\data\\raw\\dem\\patagonia_norte\\NASADEM_HGT_s49w074_elevation.tif",
+    "D:\\Research-Dev\\AUP_Articulos_Inves\\GLOF_Andes_Project-Paper\\data\\raw\\dem\\patagonia_norte\\NASADEM_HGT_s49w073_elevation.tif",
+    "D:\\Research-Dev\\AUP_Articulos_Inves\\GLOF_Andes_Project-Paper\\data\\raw\\dem\\patagonia_norte\\NASADEM_HGT_s49w072_elevation.tif",
+    "D:\\Research-Dev\\AUP_Articulos_Inves\\GLOF_Andes_Project-Paper\\data\\raw\\dem\\patagonia_norte\\NASADEM_HGT_s48w075_elevation.tif",
+    "D:\\Research-Dev\\AUP_Articulos_Inves\\GLOF_Andes_Project-Paper\\data\\raw\\dem\\patagonia_norte\\NASADEM_HGT_s48w074_elevation.tif",
+    "D:\\Research-Dev\\AUP_Articulos_Inves\\GLOF_Andes_Project-Paper\\data\\raw\\dem\\patagonia_norte\\NASADEM_HGT_s48w073_elevation.tif",
+    "D:\\Research-Dev\\AUP_Articulos_Inves\\GLOF_Andes_Project-Paper\\data\\raw\\dem\\patagonia_norte\\NASADEM_HGT_s48w072_elevation.tif",
+    "D:\\Research-Dev\\AUP_Articulos_Inves\\GLOF_Andes_Project-Paper\\data\\raw\\dem\\patagonia_norte\\NASADEM_HGT_s47w075_elevation.tif",
+    "D:\\Research-Dev\\AUP_Articulos_Inves\\GLOF_Andes_Project-Paper\\data\\raw\\dem\\patagonia_norte\\NASADEM_HGT_s47w074_elevation.tif",
+    "D:\\Research-Dev\\AUP_Articulos_Inves\\GLOF_Andes_Project-Paper\\data\\raw\\dem\\patagonia_norte\\NASADEM_HGT_s47w073_elevation.tif",
+    "D:\\Research-Dev\\AUP_Articulos_Inves\\GLOF_Andes_Project-Paper\\data\\raw\\dem\\patagonia_norte\\NASADEM_HGT_s47w072_elevation.tif",
+    "D:\\Research-Dev\\AUP_Articulos_Inves\\GLOF_Andes_Project-Paper\\data\\raw\\dem\\patagonia_norte\\NASADEM_HGT_s46w075_elevation.tif",
+    "D:\\Research-Dev\\AUP_Articulos_Inves\\GLOF_Andes_Project-Paper\\data\\raw\\dem\\patagonia_norte\\NASADEM_HGT_s46w074_elevation.tif",
+    "D:\\Research-Dev\\AUP_Articulos_Inves\\GLOF_Andes_Project-Paper\\data\\raw\\dem\\patagonia_norte\\NASADEM_HGT_s46w073_elevation.tif",
+    "D:\\Research-Dev\\AUP_Articulos_Inves\\GLOF_Andes_Project-Paper\\data\\raw\\dem\\patagonia_norte\\NASADEM_HGT_s46w072_elevation.tif",
+    "D:\\Research-Dev\\AUP_Articulos_Inves\\GLOF_Andes_Project-Paper\\data\\raw\\dem\\patagonia_norte\\NASADEM_HGT_s45w075_elevation.tif",
+    "D:\\Research-Dev\\AUP_Articulos_Inves\\GLOF_Andes_Project-Paper\\data\\raw\\dem\\patagonia_norte\\NASADEM_HGT_s45w074_elevation.tif",
+    "D:\\Research-Dev\\AUP_Articulos_Inves\\GLOF_Andes_Project-Paper\\data\\raw\\dem\\patagonia_norte\\NASADEM_HGT_s45w073_elevation.tif",
+    "D:\\Research-Dev\\AUP_Articulos_Inves\\GLOF_Andes_Project-Paper\\data\\raw\\dem\\patagonia_norte\\NASADEM_HGT_s45w072_elevation.tif"
+  ],
+  "sentinel_years": [
+    2017,
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "sentinel_files": {
+    "2017": {
+      "scene_id": "S2A_MSIL2A_20171202T144401_R053_T18GWP_20201014T114236",
+      "cloud_cover": 0.0,
+      "date": "2017-12-02",
+      "bands": {
+        "B02": "D:\\Research-Dev\\AUP_Articulos_Inves\\GLOF_Andes_Project-Paper\\data\\raw\\sentinel2\\patagonia_norte\\2017\\S2A_MSIL2A_20171202T144401_R053_T18GWP_20201014T114236_B02.tif",
+        "B03": "D:\\Research-Dev\\AUP_Articulos_Inves\\GLOF_Andes_Project-Paper\\data\\raw\\sentinel2\\patagonia_norte\\2017\\S2A_MSIL2A_20171202T144401_R053_T18GWP_20201014T114236_B03.tif",
+        "B04": "D:\\Research-Dev\\AUP_Articulos_Inves\\GLOF_Andes_Project-Paper\\data\\raw\\sentinel2\\patagonia_norte\\2017\\S2A_MSIL2A_20171202T144401_R053_T18GWP_20201014T114236_B04.tif",
+        "B08": "D:\\Research-Dev\\AUP_Articulos_Inves\\GLOF_Andes_Project-Paper\\data\\raw\\sentinel2\\patagonia_norte\\2017\\S2A_MSIL2A_20171202T144401_R053_T18GWP_20201014T114236_B08.tif",
+        "B11": "D:\\Research-Dev\\AUP_Articulos_Inves\\GLOF_Andes_Project-Paper\\data\\raw\\sentinel2\\patagonia_norte\\2017\\S2A_MSIL2A_20171202T144401_R053_T18GWP_20201014T114236_B11.tif",
+        "B12": "D:\\Research-Dev\\AUP_Articulos_Inves\\GLOF_Andes_Project-Paper\\data\\raw\\sentinel2\\patagonia_norte\\2017\\S2A_MSIL2A_20171202T144401_R053_T18GWP_20201014T114236_B12.tif"
+      }
+    },
+    "2018": {
+      "scene_id": "S2A_MSIL2A_20181110T143751_R096_T18GXN_20201008T172807",
+      "cloud_cover": 0.0,
+      "date": "2018-11-10",
+      "bands": {
+        "B02": "D:\\Research-Dev\\AUP_Articulos_Inves\\GLOF_Andes_Project-Paper\\data\\raw\\sentinel2\\patagonia_norte\\2018\\S2A_MSIL2A_20181110T143751_R096_T18GXN_20201008T172807_B02.tif",
+        "B03": "D:\\Research-Dev\\AUP_Articulos_Inves\\GLOF_Andes_Project-Paper\\data\\raw\\sentinel2\\patagonia_norte\\2018\\S2A_MSIL2A_20181110T143751_R096_T18GXN_20201008T172807_B03.tif",
+        "B04": "D:\\Research-Dev\\AUP_Articulos_Inves\\GLOF_Andes_Project-Paper\\data\\raw\\sentinel2\\patagonia_norte\\2018\\S2A_MSIL2A_20181110T143751_R096_T18GXN_20201008T172807_B04.tif",
+        "B08": "D:\\Research-Dev\\AUP_Articulos_Inves\\GLOF_Andes_Project-Paper\\data\\raw\\sentinel2\\patagonia_norte\\2018\\S2A_MSIL2A_20181110T143751_R096_T18GXN_20201008T172807_B08.tif",
+        "B11": "D:\\Research-Dev\\AUP_Articulos_Inves\\GLOF_Andes_Project-Paper\\data\\raw\\sentinel2\\patagonia_norte\\2018\\S2A_MSIL2A_20181110T143751_R096_T18GXN_20201008T172807_B11.tif",
+        "B12": "D:\\Research-Dev\\AUP_Articulos_Inves\\GLOF_Andes_Project-Paper\\data\\raw\\sentinel2\\patagonia_norte\\2018\\S2A_MSIL2A_20181110T143751_R096_T18GXN_20201008T172807_B12.tif"
+      }
+    },
+    "2019": {
+      "scene_id": "S2B_MSIL2A_20191021T143749_R096_T18GXN_20201004T044944",
+      "cloud_cover": 0.0,
+      "date": "2019-10-21",
+      "bands": {
+        "B02": "D:\\Research-Dev\\AUP_Articulos_Inves\\GLOF_Andes_Project-Paper\\data\\raw\\sentinel2\\patagonia_norte\\2019\\S2B_MSIL2A_20191021T143749_R096_T18GXN_20201004T044944_B02.tif",
+        "B03": "D:\\Research-Dev\\AUP_Articulos_Inves\\GLOF_Andes_Project-Paper\\data\\raw\\sentinel2\\patagonia_norte\\2019\\S2B_MSIL2A_20191021T143749_R096_T18GXN_20201004T044944_B03.tif",
+        "B04": "D:\\Research-Dev\\AUP_Articulos_Inves\\GLOF_Andes_Project-Paper\\data\\raw\\sentinel2\\patagonia_norte\\2019\\S2B_MSIL2A_20191021T143749_R096_T18GXN_20201004T044944_B04.tif",
+        "B08": "D:\\Research-Dev\\AUP_Articulos_Inves\\GLOF_Andes_Project-Paper\\data\\raw\\sentinel2\\patagonia_norte\\2019\\S2B_MSIL2A_20191021T143749_R096_T18GXN_20201004T044944_B08.tif",
+        "B11": "D:\\Research-Dev\\AUP_Articulos_Inves\\GLOF_Andes_Project-Paper\\data\\raw\\sentinel2\\patagonia_norte\\2019\\S2B_MSIL2A_20191021T143749_R096_T18GXN_20201004T044944_B11.tif",
+        "B12": "D:\\Research-Dev\\AUP_Articulos_Inves\\GLOF_Andes_Project-Paper\\data\\raw\\sentinel2\\patagonia_norte\\2019\\S2B_MSIL2A_20191021T143749_R096_T18GXN_20201004T044944_B12.tif"
+      }
+    },
+    "2020": {
+      "scene_id": "S2B_MSIL2A_20201204T143729_R096_T18GXN_20201205T155923",
+      "cloud_cover": 0.0,
+      "date": "2020-12-04",
+      "bands": {
+        "B02": "D:\\Research-Dev\\AUP_Articulos_Inves\\GLOF_Andes_Project-Paper\\data\\raw\\sentinel2\\patagonia_norte\\2020\\S2B_MSIL2A_20201204T143729_R096_T18GXN_20201205T155923_B02.tif",
+        "B03": "D:\\Research-Dev\\AUP_Articulos_Inves\\GLOF_Andes_Project-Paper\\data\\raw\\sentinel2\\patagonia_norte\\2020\\S2B_MSIL2A_20201204T143729_R096_T18GXN_20201205T155923_B03.tif",
+        "B04": "D:\\Research-Dev\\AUP_Articulos_Inves\\GLOF_Andes_Project-Paper\\data\\raw\\sentinel2\\patagonia_norte\\2020\\S2B_MSIL2A_20201204T143729_R096_T18GXN_20201205T155923_B04.tif",
+        "B08": "D:\\Research-Dev\\AUP_Articulos_Inves\\GLOF_Andes_Project-Paper\\data\\raw\\sentinel2\\patagonia_norte\\2020\\S2B_MSIL2A_20201204T143729_R096_T18GXN_20201205T155923_B08.tif",
+        "B11": "D:\\Research-Dev\\AUP_Articulos_Inves\\GLOF_Andes_Project-Paper\\data\\raw\\sentinel2\\patagonia_norte\\2020\\S2B_MSIL2A_20201204T143729_R096_T18GXN_20201205T155923_B11.tif",
+        "B12": "D:\\Research-Dev\\AUP_Articulos_Inves\\GLOF_Andes_Project-Paper\\data\\raw\\sentinel2\\patagonia_norte\\2020\\S2B_MSIL2A_20201204T143729_R096_T18GXN_20201205T155923_B12.tif"
+      }
+    },
+    "2021": {
+      "scene_id": "S2B_MSIL2A_20211209T143719_R096_T18GXN_20230129T161107",
+      "cloud_cover": 0.0,
+      "date": "2021-12-09",
+      "bands": {
+        "B02": "D:\\Research-Dev\\AUP_Articulos_Inves\\GLOF_Andes_Project-Paper\\data\\raw\\sentinel2\\patagonia_norte\\2021\\S2B_MSIL2A_20211209T143719_R096_T18GXN_20230129T161107_B02.tif",
+        "B03": "D:\\Research-Dev\\AUP_Articulos_Inves\\GLOF_Andes_Project-Paper\\data\\raw\\sentinel2\\patagonia_norte\\2021\\S2B_MSIL2A_20211209T143719_R096_T18GXN_20230129T161107_B03.tif",
+        "B04": "D:\\Research-Dev\\AUP_Articulos_Inves\\GLOF_Andes_Project-Paper\\data\\raw\\sentinel2\\patagonia_norte\\2021\\S2B_MSIL2A_20211209T143719_R096_T18GXN_20230129T161107_B04.tif",
+        "B08": "D:\\Research-Dev\\AUP_Articulos_Inves\\GLOF_Andes_Project-Paper\\data\\raw\\sentinel2\\patagonia_norte\\2021\\S2B_MSIL2A_20211209T143719_R096_T18GXN_20230129T161107_B08.tif",
+        "B11": "D:\\Research-Dev\\AUP_Articulos_Inves\\GLOF_Andes_Project-Paper\\data\\raw\\sentinel2\\patagonia_norte\\2021\\S2B_MSIL2A_20211209T143719_R096_T18GXN_20230129T161107_B11.tif",
+        "B12": "D:\\Research-Dev\\AUP_Articulos_Inves\\GLOF_Andes_Project-Paper\\data\\raw\\sentinel2\\patagonia_norte\\2021\\S2B_MSIL2A_20211209T143719_R096_T18GXN_20230129T161107_B12.tif"
+      }
+    },
+    "2022": {
+      "scene_id": "S2A_MSIL2A_20221219T143731_R096_T18GXN_20221220T080114",
+      "cloud_cover": 0.0,
+      "date": "2022-12-19",
+      "bands": {
+        "B02": "D:\\Research-Dev\\AUP_Articulos_Inves\\GLOF_Andes_Project-Paper\\data\\raw\\sentinel2\\patagonia_norte\\2022\\S2A_MSIL2A_20221219T143731_R096_T18GXN_20221220T080114_B02.tif",
+        "B03": "D:\\Research-Dev\\AUP_Articulos_Inves\\GLOF_Andes_Project-Paper\\data\\raw\\sentinel2\\patagonia_norte\\2022\\S2A_MSIL2A_20221219T143731_R096_T18GXN_20221220T080114_B03.tif",
+        "B04": "D:\\Research-Dev\\AUP_Articulos_Inves\\GLOF_Andes_Project-Paper\\data\\raw\\sentinel2\\patagonia_norte\\2022\\S2A_MSIL2A_20221219T143731_R096_T18GXN_20221220T080114_B04.tif",
+        "B08": "D:\\Research-Dev\\AUP_Articulos_Inves\\GLOF_Andes_Project-Paper\\data\\raw\\sentinel2\\patagonia_norte\\2022\\S2A_MSIL2A_20221219T143731_R096_T18GXN_20221220T080114_B08.tif",
+        "B11": "D:\\Research-Dev\\AUP_Articulos_Inves\\GLOF_Andes_Project-Paper\\data\\raw\\sentinel2\\patagonia_norte\\2022\\S2A_MSIL2A_20221219T143731_R096_T18GXN_20221220T080114_B11.tif",
+        "B12": "D:\\Research-Dev\\AUP_Articulos_Inves\\GLOF_Andes_Project-Paper\\data\\raw\\sentinel2\\patagonia_norte\\2022\\S2A_MSIL2A_20221219T143731_R096_T18GXN_20221220T080114_B12.tif"
+      }
+    },
+    "2023": {
+      "scene_id": "S2A_MSIL2A_20231204T143741_R096_T18GXN_20241029T034058",
+      "cloud_cover": 0.0,
+      "date": "2023-12-04",
+      "bands": {
+        "B02": "D:\\Research-Dev\\AUP_Articulos_Inves\\GLOF_Andes_Project-Paper\\data\\raw\\sentinel2\\patagonia_norte\\2023\\S2A_MSIL2A_20231204T143741_R096_T18GXN_20241029T034058_B02.tif",
+        "B03": "D:\\Research-Dev\\AUP_Articulos_Inves\\GLOF_Andes_Project-Paper\\data\\raw\\sentinel2\\patagonia_norte\\2023\\S2A_MSIL2A_20231204T143741_R096_T18GXN_20241029T034058_B03.tif",
+        "B04": "D:\\Research-Dev\\AUP_Articulos_Inves\\GLOF_Andes_Project-Paper\\data\\raw\\sentinel2\\patagonia_norte\\2023\\S2A_MSIL2A_20231204T143741_R096_T18GXN_20241029T034058_B04.tif",
+        "B08": "D:\\Research-Dev\\AUP_Articulos_Inves\\GLOF_Andes_Project-Paper\\data\\raw\\sentinel2\\patagonia_norte\\2023\\S2A_MSIL2A_20231204T143741_R096_T18GXN_20241029T034058_B08.tif",
+        "B11": "D:\\Research-Dev\\AUP_Articulos_Inves\\GLOF_Andes_Project-Paper\\data\\raw\\sentinel2\\patagonia_norte\\2023\\S2A_MSIL2A_20231204T143741_R096_T18GXN_20241029T034058_B11.tif",
+        "B12": "D:\\Research-Dev\\AUP_Articulos_Inves\\GLOF_Andes_Project-Paper\\data\\raw\\sentinel2\\patagonia_norte\\2023\\S2A_MSIL2A_20231204T143741_R096_T18GXN_20241029T034058_B12.tif"
+      }
+    },
+    "2024": {
+      "scene_id": "S2B_MSIL2A_20241103T143739_R096_T18GXN_20241103T184201",
+      "cloud_cover": 0.0,
+      "date": "2024-11-03",
+      "bands": {
+        "B02": "D:\\Research-Dev\\AUP_Articulos_Inves\\GLOF_Andes_Project-Paper\\data\\raw\\sentinel2\\patagonia_norte\\2024\\S2B_MSIL2A_20241103T143739_R096_T18GXN_20241103T184201_B02.tif",
+        "B03": "D:\\Research-Dev\\AUP_Articulos_Inves\\GLOF_Andes_Project-Paper\\data\\raw\\sentinel2\\patagonia_norte\\2024\\S2B_MSIL2A_20241103T143739_R096_T18GXN_20241103T184201_B03.tif",
+        "B04": "D:\\Research-Dev\\AUP_Articulos_Inves\\GLOF_Andes_Project-Paper\\data\\raw\\sentinel2\\patagonia_norte\\2024\\S2B_MSIL2A_20241103T143739_R096_T18GXN_20241103T184201_B04.tif",
+        "B08": "D:\\Research-Dev\\AUP_Articulos_Inves\\GLOF_Andes_Project-Paper\\data\\raw\\sentinel2\\patagonia_norte\\2024\\S2B_MSIL2A_20241103T143739_R096_T18GXN_20241103T184201_B08.tif",
+        "B11": "D:\\Research-Dev\\AUP_Articulos_Inves\\GLOF_Andes_Project-Paper\\data\\raw\\sentinel2\\patagonia_norte\\2024\\S2B_MSIL2A_20241103T143739_R096_T18GXN_20241103T184201_B11.tif",
+        "B12": "D:\\Research-Dev\\AUP_Articulos_Inves\\GLOF_Andes_Project-Paper\\data\\raw\\sentinel2\\patagonia_norte\\2024\\S2B_MSIL2A_20241103T143739_R096_T18GXN_20241103T184201_B12.tif"
+      }
+    },
+    "2025": {
+      "scene_id": "S2B_MSIL2A_20251128T143739_R096_T18GXN_20251128T183532",
+      "cloud_cover": 0.0,
+      "date": "2025-11-28",
+      "bands": {
+        "B02": "D:\\Research-Dev\\AUP_Articulos_Inves\\GLOF_Andes_Project-Paper\\data\\raw\\sentinel2\\patagonia_norte\\2025\\S2B_MSIL2A_20251128T143739_R096_T18GXN_20251128T183532_B02.tif",
+        "B03": "D:\\Research-Dev\\AUP_Articulos_Inves\\GLOF_Andes_Project-Paper\\data\\raw\\sentinel2\\patagonia_norte\\2025\\S2B_MSIL2A_20251128T143739_R096_T18GXN_20251128T183532_B03.tif",
+        "B04": "D:\\Research-Dev\\AUP_Articulos_Inves\\GLOF_Andes_Project-Paper\\data\\raw\\sentinel2\\patagonia_norte\\2025\\S2B_MSIL2A_20251128T143739_R096_T18GXN_20251128T183532_B04.tif",
+        "B08": "D:\\Research-Dev\\AUP_Articulos_Inves\\GLOF_Andes_Project-Paper\\data\\raw\\sentinel2\\patagonia_norte\\2025\\S2B_MSIL2A_20251128T143739_R096_T18GXN_20251128T183532_B08.tif",
+        "B11": "D:\\Research-Dev\\AUP_Articulos_Inves\\GLOF_Andes_Project-Paper\\data\\raw\\sentinel2\\patagonia_norte\\2025\\S2B_MSIL2A_20251128T143739_R096_T18GXN_20251128T183532_B11.tif",
+        "B12": "D:\\Research-Dev\\AUP_Articulos_Inves\\GLOF_Andes_Project-Paper\\data\\raw\\sentinel2\\patagonia_norte\\2025\\S2B_MSIL2A_20251128T143739_R096_T18GXN_20251128T183532_B12.tif"
+      }
+    }
+  },
+  "total_size_gb": 0.17461978737264872,
+  "metadata_path": null,
+  "timestamp": "2026-05-06T14:57:31.586084"
+}

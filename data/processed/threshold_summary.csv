@@ -1,0 +1,4 @@
+Hypothesis,Feature,Threshold,Risk_Below,Risk_Above,Risk_Ratio,MWU_p_value,Bootstrap_p_value,Confirmed
+H1: Area/Depth Ratio,area_depth_ratio,493457.1731,0.3295,0.856,2.6,1.0,0.351,NO
+H2: Growth Rate vs Area,growth_rate_m2_yr vs area_m2,N/A,0.6981,-0.1007,Spearman r,0.0,N/A,NO
+H3: Critical Distance Zone,slope_mean,44.4965,0.2579,0.4269,1.0,N/A,N/A,NO

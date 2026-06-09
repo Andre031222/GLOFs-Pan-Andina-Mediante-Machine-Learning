@@ -1,0 +1,151 @@
+{
+  "success": true,
+  "area_name": "chile_andes_centrales",
+  "bbox": [
+    -70.0,
+    -33.5,
+    -69.5,
+    -33.0
+  ],
+  "epsg": 32719,
+  "dem_tiles": 4,
+  "dem_files": [
+    "/home/andre/Documents/GLOF_Andes_Project-Paper/data/raw/dem/chile_andes_centrales/NASADEM_HGT_s34w071_elevation.tif",
+    "/home/andre/Documents/GLOF_Andes_Project-Paper/data/raw/dem/chile_andes_centrales/NASADEM_HGT_s34w070_elevation.tif",
+    "/home/andre/Documents/GLOF_Andes_Project-Paper/data/raw/dem/chile_andes_centrales/NASADEM_HGT_s33w071_elevation.tif",
+    "/home/andre/Documents/GLOF_Andes_Project-Paper/data/raw/dem/chile_andes_centrales/NASADEM_HGT_s33w070_elevation.tif"
+  ],
+  "sentinel_years": [
+    2017,
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "sentinel_files": {
+    "2017": {
+      "scene_id": "S2B_MSIL2A_20170630T142859_R053_T19HCC_20210210T031045",
+      "cloud_cover": 2.831955,
+      "date": "2017-06-30",
+      "bands": {
+        "B02": "/home/andre/Documents/GLOF_Andes_Project-Paper/data/raw/sentinel2/chile_andes_centrales/2017/S2B_MSIL2A_20170630T142859_R053_T19HCC_20210210T031045_B02.tif",
+        "B03": "/home/andre/Documents/GLOF_Andes_Project-Paper/data/raw/sentinel2/chile_andes_centrales/2017/S2B_MSIL2A_20170630T142859_R053_T19HCC_20210210T031045_B03.tif",
+        "B04": "/home/andre/Documents/GLOF_Andes_Project-Paper/data/raw/sentinel2/chile_andes_centrales/2017/S2B_MSIL2A_20170630T142859_R053_T19HCC_20210210T031045_B04.tif",
+        "B08": "/home/andre/Documents/GLOF_Andes_Project-Paper/data/raw/sentinel2/chile_andes_centrales/2017/S2B_MSIL2A_20170630T142859_R053_T19HCC_20210210T031045_B08.tif",
+        "B11": "/home/andre/Documents/GLOF_Andes_Project-Paper/data/raw/sentinel2/chile_andes_centrales/2017/S2B_MSIL2A_20170630T142859_R053_T19HCC_20210210T031045_B11.tif",
+        "B12": "/home/andre/Documents/GLOF_Andes_Project-Paper/data/raw/sentinel2/chile_andes_centrales/2017/S2B_MSIL2A_20170630T142859_R053_T19HCC_20210210T031045_B12.tif"
+      }
+    },
+    "2018": {
+      "scene_id": "S2A_MSIL2A_20180809T142751_R053_T19HCC_20201010T231800",
+      "cloud_cover": 2.347424,
+      "date": "2018-08-09",
+      "bands": {
+        "B02": "/home/andre/Documents/GLOF_Andes_Project-Paper/data/raw/sentinel2/chile_andes_centrales/2018/S2A_MSIL2A_20180809T142751_R053_T19HCC_20201010T231800_B02.tif",
+        "B03": "/home/andre/Documents/GLOF_Andes_Project-Paper/data/raw/sentinel2/chile_andes_centrales/2018/S2A_MSIL2A_20180809T142751_R053_T19HCC_20201010T231800_B03.tif",
+        "B04": "/home/andre/Documents/GLOF_Andes_Project-Paper/data/raw/sentinel2/chile_andes_centrales/2018/S2A_MSIL2A_20180809T142751_R053_T19HCC_20201010T231800_B04.tif",
+        "B08": "/home/andre/Documents/GLOF_Andes_Project-Paper/data/raw/sentinel2/chile_andes_centrales/2018/S2A_MSIL2A_20180809T142751_R053_T19HCC_20201010T231800_B08.tif",
+        "B11": "/home/andre/Documents/GLOF_Andes_Project-Paper/data/raw/sentinel2/chile_andes_centrales/2018/S2A_MSIL2A_20180809T142751_R053_T19HCC_20201010T231800_B11.tif",
+        "B12": "/home/andre/Documents/GLOF_Andes_Project-Paper/data/raw/sentinel2/chile_andes_centrales/2018/S2A_MSIL2A_20180809T142751_R053_T19HCC_20201010T231800_B12.tif"
+      }
+    },
+    "2019": {
+      "scene_id": "S2A_MSIL2A_20190715T142801_R053_T19HCC_20201005T142220",
+      "cloud_cover": 2.701481,
+      "date": "2019-07-15",
+      "bands": {
+        "B02": "/home/andre/Documents/GLOF_Andes_Project-Paper/data/raw/sentinel2/chile_andes_centrales/2019/S2A_MSIL2A_20190715T142801_R053_T19HCC_20201005T142220_B02.tif",
+        "B03": "/home/andre/Documents/GLOF_Andes_Project-Paper/data/raw/sentinel2/chile_andes_centrales/2019/S2A_MSIL2A_20190715T142801_R053_T19HCC_20201005T142220_B03.tif",
+        "B04": "/home/andre/Documents/GLOF_Andes_Project-Paper/data/raw/sentinel2/chile_andes_centrales/2019/S2A_MSIL2A_20190715T142801_R053_T19HCC_20201005T142220_B04.tif",
+        "B08": "/home/andre/Documents/GLOF_Andes_Project-Paper/data/raw/sentinel2/chile_andes_centrales/2019/S2A_MSIL2A_20190715T142801_R053_T19HCC_20201005T142220_B08.tif",
+        "B11": "/home/andre/Documents/GLOF_Andes_Project-Paper/data/raw/sentinel2/chile_andes_centrales/2019/S2A_MSIL2A_20190715T142801_R053_T19HCC_20201005T142220_B11.tif",
+        "B12": "/home/andre/Documents/GLOF_Andes_Project-Paper/data/raw/sentinel2/chile_andes_centrales/2019/S2A_MSIL2A_20190715T142801_R053_T19HCC_20201005T142220_B12.tif"
+      }
+    },
+    "2020": {
+      "scene_id": "S2B_MSIL2A_20200803T142739_R053_T19HCC_20200816T012740",
+      "cloud_cover": 1.382781,
+      "date": "2020-08-03",
+      "bands": {
+        "B02": "/home/andre/Documents/GLOF_Andes_Project-Paper/data/raw/sentinel2/chile_andes_centrales/2020/S2B_MSIL2A_20200803T142739_R053_T19HCC_20200816T012740_B02.tif",
+        "B03": "/home/andre/Documents/GLOF_Andes_Project-Paper/data/raw/sentinel2/chile_andes_centrales/2020/S2B_MSIL2A_20200803T142739_R053_T19HCC_20200816T012740_B03.tif",
+        "B04": "/home/andre/Documents/GLOF_Andes_Project-Paper/data/raw/sentinel2/chile_andes_centrales/2020/S2B_MSIL2A_20200803T142739_R053_T19HCC_20200816T012740_B04.tif",
+        "B08": "/home/andre/Documents/GLOF_Andes_Project-Paper/data/raw/sentinel2/chile_andes_centrales/2020/S2B_MSIL2A_20200803T142739_R053_T19HCC_20200816T012740_B08.tif",
+        "B11": "/home/andre/Documents/GLOF_Andes_Project-Paper/data/raw/sentinel2/chile_andes_centrales/2020/S2B_MSIL2A_20200803T142739_R053_T19HCC_20200816T012740_B11.tif",
+        "B12": "/home/andre/Documents/GLOF_Andes_Project-Paper/data/raw/sentinel2/chile_andes_centrales/2020/S2B_MSIL2A_20200803T142739_R053_T19HCC_20200816T012740_B12.tif"
+      }
+    },
+    "2021": {
+      "scene_id": "S2B_MSIL2A_20210602T143729_R096_T19HCD_20210603T062809",
+      "cloud_cover": 1.62923,
+      "date": "2021-06-02",
+      "bands": {
+        "B02": "/home/andre/Documents/GLOF_Andes_Project-Paper/data/raw/sentinel2/chile_andes_centrales/2021/S2B_MSIL2A_20210602T143729_R096_T19HCD_20210603T062809_B02.tif",
+        "B03": "/home/andre/Documents/GLOF_Andes_Project-Paper/data/raw/sentinel2/chile_andes_centrales/2021/S2B_MSIL2A_20210602T143729_R096_T19HCD_20210603T062809_B03.tif",
+        "B04": "/home/andre/Documents/GLOF_Andes_Project-Paper/data/raw/sentinel2/chile_andes_centrales/2021/S2B_MSIL2A_20210602T143729_R096_T19HCD_20210603T062809_B04.tif",
+        "B08": "/home/andre/Documents/GLOF_Andes_Project-Paper/data/raw/sentinel2/chile_andes_centrales/2021/S2B_MSIL2A_20210602T143729_R096_T19HCD_20210603T062809_B08.tif",
+        "B11": "/home/andre/Documents/GLOF_Andes_Project-Paper/data/raw/sentinel2/chile_andes_centrales/2021/S2B_MSIL2A_20210602T143729_R096_T19HCD_20210603T062809_B11.tif",
+        "B12": "/home/andre/Documents/GLOF_Andes_Project-Paper/data/raw/sentinel2/chile_andes_centrales/2021/S2B_MSIL2A_20210602T143729_R096_T19HCD_20210603T062809_B12.tif"
+      }
+    },
+    "2022": {
+      "scene_id": "S2A_MSIL2A_20220719T142721_R053_T19HCC_20240710T194142",
+      "cloud_cover": 0.0,
+      "date": "2022-07-19",
+      "bands": {
+        "B02": "/home/andre/Documents/GLOF_Andes_Project-Paper/data/raw/sentinel2/chile_andes_centrales/2022/S2A_MSIL2A_20220719T142721_R053_T19HCC_20240710T194142_B02.tif",
+        "B03": "/home/andre/Documents/GLOF_Andes_Project-Paper/data/raw/sentinel2/chile_andes_centrales/2022/S2A_MSIL2A_20220719T142721_R053_T19HCC_20240710T194142_B03.tif",
+        "B04": "/home/andre/Documents/GLOF_Andes_Project-Paper/data/raw/sentinel2/chile_andes_centrales/2022/S2A_MSIL2A_20220719T142721_R053_T19HCC_20240710T194142_B04.tif",
+        "B08": "/home/andre/Documents/GLOF_Andes_Project-Paper/data/raw/sentinel2/chile_andes_centrales/2022/S2A_MSIL2A_20220719T142721_R053_T19HCC_20240710T194142_B08.tif",
+        "B11": "/home/andre/Documents/GLOF_Andes_Project-Paper/data/raw/sentinel2/chile_andes_centrales/2022/S2A_MSIL2A_20220719T142721_R053_T19HCC_20240710T194142_B11.tif",
+        "B12": "/home/andre/Documents/GLOF_Andes_Project-Paper/data/raw/sentinel2/chile_andes_centrales/2022/S2A_MSIL2A_20220719T142721_R053_T19HCC_20240710T194142_B12.tif"
+      }
+    },
+    "2023": {
+      "scene_id": "S2A_MSIL2A_20230617T143731_R096_T19HCD_20230618T003101",
+      "cloud_cover": 0.003497,
+      "date": "2023-06-17",
+      "bands": {
+        "B02": "/home/andre/Documents/GLOF_Andes_Project-Paper/data/raw/sentinel2/chile_andes_centrales/2023/S2A_MSIL2A_20230617T143731_R096_T19HCD_20230618T003101_B02.tif",
+        "B03": "/home/andre/Documents/GLOF_Andes_Project-Paper/data/raw/sentinel2/chile_andes_centrales/2023/S2A_MSIL2A_20230617T143731_R096_T19HCD_20230618T003101_B03.tif",
+        "B04": "/home/andre/Documents/GLOF_Andes_Project-Paper/data/raw/sentinel2/chile_andes_centrales/2023/S2A_MSIL2A_20230617T143731_R096_T19HCD_20230618T003101_B04.tif",
+        "B08": "/home/andre/Documents/GLOF_Andes_Project-Paper/data/raw/sentinel2/chile_andes_centrales/2023/S2A_MSIL2A_20230617T143731_R096_T19HCD_20230618T003101_B08.tif",
+        "B11": "/home/andre/Documents/GLOF_Andes_Project-Paper/data/raw/sentinel2/chile_andes_centrales/2023/S2A_MSIL2A_20230617T143731_R096_T19HCD_20230618T003101_B11.tif",
+        "B12": "/home/andre/Documents/GLOF_Andes_Project-Paper/data/raw/sentinel2/chile_andes_centrales/2023/S2A_MSIL2A_20230617T143731_R096_T19HCD_20230618T003101_B12.tif"
+      }
+    },
+    "2024": {
+      "scene_id": "S2B_MSIL2A_20240812T142719_R053_T19HDD_20240812T182626",
+      "cloud_cover": 0.000982,
+      "date": "2024-08-12",
+      "bands": {
+        "B02": "/home/andre/Documents/GLOF_Andes_Project-Paper/data/raw/sentinel2/chile_andes_centrales/2024/S2B_MSIL2A_20240812T142719_R053_T19HDD_20240812T182626_B02.tif",
+        "B03": "/home/andre/Documents/GLOF_Andes_Project-Paper/data/raw/sentinel2/chile_andes_centrales/2024/S2B_MSIL2A_20240812T142719_R053_T19HDD_20240812T182626_B03.tif",
+        "B04": "/home/andre/Documents/GLOF_Andes_Project-Paper/data/raw/sentinel2/chile_andes_centrales/2024/S2B_MSIL2A_20240812T142719_R053_T19HDD_20240812T182626_B04.tif",
+        "B08": "/home/andre/Documents/GLOF_Andes_Project-Paper/data/raw/sentinel2/chile_andes_centrales/2024/S2B_MSIL2A_20240812T142719_R053_T19HDD_20240812T182626_B08.tif",
+        "B11": "/home/andre/Documents/GLOF_Andes_Project-Paper/data/raw/sentinel2/chile_andes_centrales/2024/S2B_MSIL2A_20240812T142719_R053_T19HDD_20240812T182626_B11.tif",
+        "B12": "/home/andre/Documents/GLOF_Andes_Project-Paper/data/raw/sentinel2/chile_andes_centrales/2024/S2B_MSIL2A_20240812T142719_R053_T19HDD_20240812T182626_B12.tif"
+      }
+    },
+    "2025": {
+      "scene_id": "S2B_MSIL2A_20250718T142719_R053_T19HDC_20250718T194249",
+      "cloud_cover": 0.001055,
+      "date": "2025-07-18",
+      "bands": {
+        "B02": "/home/andre/Documents/GLOF_Andes_Project-Paper/data/raw/sentinel2/chile_andes_centrales/2025/S2B_MSIL2A_20250718T142719_R053_T19HDC_20250718T194249_B02.tif",
+        "B03": "/home/andre/Documents/GLOF_Andes_Project-Paper/data/raw/sentinel2/chile_andes_centrales/2025/S2B_MSIL2A_20250718T142719_R053_T19HDC_20250718T194249_B03.tif",
+        "B04": "/home/andre/Documents/GLOF_Andes_Project-Paper/data/raw/sentinel2/chile_andes_centrales/2025/S2B_MSIL2A_20250718T142719_R053_T19HDC_20250718T194249_B04.tif",
+        "B08": "/home/andre/Documents/GLOF_Andes_Project-Paper/data/raw/sentinel2/chile_andes_centrales/2025/S2B_MSIL2A_20250718T142719_R053_T19HDC_20250718T194249_B08.tif",
+        "B11": "/home/andre/Documents/GLOF_Andes_Project-Paper/data/raw/sentinel2/chile_andes_centrales/2025/S2B_MSIL2A_20250718T142719_R053_T19HDC_20250718T194249_B11.tif",
+        "B12": "/home/andre/Documents/GLOF_Andes_Project-Paper/data/raw/sentinel2/chile_andes_centrales/2025/S2B_MSIL2A_20250718T142719_R053_T19HDC_20250718T194249_B12.tif"
+      }
+    }
+  },
+  "total_size_gb": 0.33269309997558594,
+  "metadata_path": null,
+  "timestamp": "2026-03-28T01:14:23.694050"
+}

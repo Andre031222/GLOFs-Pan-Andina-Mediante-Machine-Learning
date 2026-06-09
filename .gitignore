@@ -1,0 +1,72 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+
+# Virtual environment
+.venv_glof/
+venv/
+env/
+glof/
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# IDE
+.vscode/
+.idea/
+
+# Claude Code (session files — no subir)
+.claude/
+
+# LaTeX auxiliary files
+*.aux
+*.log
+*.out
+*.blg
+*.fdb_latexmk
+*.fls
+*.synctex.gz
+*.toc
+
+# Environment variables
+.env
+.env.*
+!.env.template
+
+# OS
+.DS_Store
+Thumbs.db
+
+# ── Large raw data (Sentinel-2 imagery, DEMs, shapefiles) ─────────────────────
+data/raw/sentinel2/
+data/raw/dem/
+data/raw/rgi7/
+data/raw/boundaries/
+
+# ── Large processed outputs (GeoPackages, Parquet, feature tables) ────────────
+data/processed/lakes/
+data/processed/labeled/
+data/processed/features/
+
+# ── Intermediate terrain rasters ──────────────────────────────────────────────
+data/interim/
+
+# ── Generic raster / geospatial formats (safety net) ─────────────────────────
+*.tif
+*.tiff
+*.gpkg
+*.parquet
+*.feather
+*.geojson
+
+# ── IJACSA — excluir PDFs compilados grandes y ZIPs (>40 MB) ─────────────────
+# Se suben: fuentes .tex, .bib, .txt, cover_letter.pdf (116 KB)
+# Se excluyen: manuscritos compilados (47 MB c/u) y paquetes ZIP
+ijacsa_paper/manuscript_ijacsa.pdf
+ijacsa_paper/manuscript_ijacsa_blind.pdf
+ijacsa_paper/manuscript_ijacsa_submission.pdf
+ijacsa_paper/*.zip
+ijacsa_paper/*.bbl

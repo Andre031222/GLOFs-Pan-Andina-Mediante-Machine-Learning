@@ -1,0 +1,151 @@
+{
+  "success": true,
+  "area_name": "cordillera_urubamba",
+  "bbox": [
+    -72.2,
+    -13.3,
+    -71.8,
+    -13.0
+  ],
+  "epsg": 32719,
+  "dem_tiles": 4,
+  "dem_files": [
+    "/home/andre/Documents/GLOF_Andes_Project-Paper/data/raw/dem/cordillera_urubamba/NASADEM_HGT_s14w073_elevation.tif",
+    "/home/andre/Documents/GLOF_Andes_Project-Paper/data/raw/dem/cordillera_urubamba/NASADEM_HGT_s14w072_elevation.tif",
+    "/home/andre/Documents/GLOF_Andes_Project-Paper/data/raw/dem/cordillera_urubamba/NASADEM_HGT_s13w073_elevation.tif",
+    "/home/andre/Documents/GLOF_Andes_Project-Paper/data/raw/dem/cordillera_urubamba/NASADEM_HGT_s13w072_elevation.tif"
+  ],
+  "sentinel_years": [
+    2017,
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "sentinel_files": {
+    "2017": {
+      "scene_id": "S2A_MSIL2A_20170724T145731_R039_T18LZL_20210210T134528",
+      "cloud_cover": 4.963806,
+      "date": "2017-07-24",
+      "bands": {
+        "B02": "/home/andre/Documents/GLOF_Andes_Project-Paper/data/raw/sentinel2/cordillera_urubamba/2017/S2A_MSIL2A_20170724T145731_R039_T18LZL_20210210T134528_B02.tif",
+        "B03": "/home/andre/Documents/GLOF_Andes_Project-Paper/data/raw/sentinel2/cordillera_urubamba/2017/S2A_MSIL2A_20170724T145731_R039_T18LZL_20210210T134528_B03.tif",
+        "B04": "/home/andre/Documents/GLOF_Andes_Project-Paper/data/raw/sentinel2/cordillera_urubamba/2017/S2A_MSIL2A_20170724T145731_R039_T18LZL_20210210T134528_B04.tif",
+        "B08": "/home/andre/Documents/GLOF_Andes_Project-Paper/data/raw/sentinel2/cordillera_urubamba/2017/S2A_MSIL2A_20170724T145731_R039_T18LZL_20210210T134528_B08.tif",
+        "B11": "/home/andre/Documents/GLOF_Andes_Project-Paper/data/raw/sentinel2/cordillera_urubamba/2017/S2A_MSIL2A_20170724T145731_R039_T18LZL_20210210T134528_B11.tif",
+        "B12": "/home/andre/Documents/GLOF_Andes_Project-Paper/data/raw/sentinel2/cordillera_urubamba/2017/S2A_MSIL2A_20170724T145731_R039_T18LZL_20210210T134528_B12.tif"
+      }
+    },
+    "2018": {
+      "scene_id": "S2A_MSIL2A_20180619T145731_R039_T18LYL_20201011T235550",
+      "cloud_cover": 0.802823,
+      "date": "2018-06-19",
+      "bands": {
+        "B02": "/home/andre/Documents/GLOF_Andes_Project-Paper/data/raw/sentinel2/cordillera_urubamba/2018/S2A_MSIL2A_20180619T145731_R039_T18LYL_20201011T235550_B02.tif",
+        "B03": "/home/andre/Documents/GLOF_Andes_Project-Paper/data/raw/sentinel2/cordillera_urubamba/2018/S2A_MSIL2A_20180619T145731_R039_T18LYL_20201011T235550_B03.tif",
+        "B04": "/home/andre/Documents/GLOF_Andes_Project-Paper/data/raw/sentinel2/cordillera_urubamba/2018/S2A_MSIL2A_20180619T145731_R039_T18LYL_20201011T235550_B04.tif",
+        "B08": "/home/andre/Documents/GLOF_Andes_Project-Paper/data/raw/sentinel2/cordillera_urubamba/2018/S2A_MSIL2A_20180619T145731_R039_T18LYL_20201011T235550_B08.tif",
+        "B11": "/home/andre/Documents/GLOF_Andes_Project-Paper/data/raw/sentinel2/cordillera_urubamba/2018/S2A_MSIL2A_20180619T145731_R039_T18LYL_20201011T235550_B11.tif",
+        "B12": "/home/andre/Documents/GLOF_Andes_Project-Paper/data/raw/sentinel2/cordillera_urubamba/2018/S2A_MSIL2A_20180619T145731_R039_T18LYL_20201011T235550_B12.tif"
+      }
+    },
+    "2019": {
+      "scene_id": "S2B_MSIL2A_20190818T145729_R039_T18LYL_20201005T020222",
+      "cloud_cover": 0.773884,
+      "date": "2019-08-18",
+      "bands": {
+        "B02": "/home/andre/Documents/GLOF_Andes_Project-Paper/data/raw/sentinel2/cordillera_urubamba/2019/S2B_MSIL2A_20190818T145729_R039_T18LYL_20201005T020222_B02.tif",
+        "B03": "/home/andre/Documents/GLOF_Andes_Project-Paper/data/raw/sentinel2/cordillera_urubamba/2019/S2B_MSIL2A_20190818T145729_R039_T18LYL_20201005T020222_B03.tif",
+        "B04": "/home/andre/Documents/GLOF_Andes_Project-Paper/data/raw/sentinel2/cordillera_urubamba/2019/S2B_MSIL2A_20190818T145729_R039_T18LYL_20201005T020222_B04.tif",
+        "B08": "/home/andre/Documents/GLOF_Andes_Project-Paper/data/raw/sentinel2/cordillera_urubamba/2019/S2B_MSIL2A_20190818T145729_R039_T18LYL_20201005T020222_B08.tif",
+        "B11": "/home/andre/Documents/GLOF_Andes_Project-Paper/data/raw/sentinel2/cordillera_urubamba/2019/S2B_MSIL2A_20190818T145729_R039_T18LYL_20201005T020222_B11.tif",
+        "B12": "/home/andre/Documents/GLOF_Andes_Project-Paper/data/raw/sentinel2/cordillera_urubamba/2019/S2B_MSIL2A_20190818T145729_R039_T18LYL_20201005T020222_B12.tif"
+      }
+    },
+    "2020": {
+      "scene_id": "S2A_MSIL2A_20200608T145731_R039_T18LYL_20200826T143249",
+      "cloud_cover": 1.752985,
+      "date": "2020-06-08",
+      "bands": {
+        "B02": "/home/andre/Documents/GLOF_Andes_Project-Paper/data/raw/sentinel2/cordillera_urubamba/2020/S2A_MSIL2A_20200608T145731_R039_T18LYL_20200826T143249_B02.tif",
+        "B03": "/home/andre/Documents/GLOF_Andes_Project-Paper/data/raw/sentinel2/cordillera_urubamba/2020/S2A_MSIL2A_20200608T145731_R039_T18LYL_20200826T143249_B03.tif",
+        "B04": "/home/andre/Documents/GLOF_Andes_Project-Paper/data/raw/sentinel2/cordillera_urubamba/2020/S2A_MSIL2A_20200608T145731_R039_T18LYL_20200826T143249_B04.tif",
+        "B08": "/home/andre/Documents/GLOF_Andes_Project-Paper/data/raw/sentinel2/cordillera_urubamba/2020/S2A_MSIL2A_20200608T145731_R039_T18LYL_20200826T143249_B08.tif",
+        "B11": "/home/andre/Documents/GLOF_Andes_Project-Paper/data/raw/sentinel2/cordillera_urubamba/2020/S2A_MSIL2A_20200608T145731_R039_T18LYL_20200826T143249_B11.tif",
+        "B12": "/home/andre/Documents/GLOF_Andes_Project-Paper/data/raw/sentinel2/cordillera_urubamba/2020/S2A_MSIL2A_20200608T145731_R039_T18LYL_20200826T143249_B12.tif"
+      }
+    },
+    "2021": {
+      "scene_id": "S2A_MSIL2A_20210723T145731_R039_T18LYL_20210724T022604",
+      "cloud_cover": 0.134615,
+      "date": "2021-07-23",
+      "bands": {
+        "B02": "/home/andre/Documents/GLOF_Andes_Project-Paper/data/raw/sentinel2/cordillera_urubamba/2021/S2A_MSIL2A_20210723T145731_R039_T18LYL_20210724T022604_B02.tif",
+        "B03": "/home/andre/Documents/GLOF_Andes_Project-Paper/data/raw/sentinel2/cordillera_urubamba/2021/S2A_MSIL2A_20210723T145731_R039_T18LYL_20210724T022604_B03.tif",
+        "B04": "/home/andre/Documents/GLOF_Andes_Project-Paper/data/raw/sentinel2/cordillera_urubamba/2021/S2A_MSIL2A_20210723T145731_R039_T18LYL_20210724T022604_B04.tif",
+        "B08": "/home/andre/Documents/GLOF_Andes_Project-Paper/data/raw/sentinel2/cordillera_urubamba/2021/S2A_MSIL2A_20210723T145731_R039_T18LYL_20210724T022604_B08.tif",
+        "B11": "/home/andre/Documents/GLOF_Andes_Project-Paper/data/raw/sentinel2/cordillera_urubamba/2021/S2A_MSIL2A_20210723T145731_R039_T18LYL_20210724T022604_B11.tif",
+        "B12": "/home/andre/Documents/GLOF_Andes_Project-Paper/data/raw/sentinel2/cordillera_urubamba/2021/S2A_MSIL2A_20210723T145731_R039_T18LYL_20210724T022604_B12.tif"
+      }
+    },
+    "2022": {
+      "scene_id": "S2A_MSIL2A_20220628T145741_R039_T18LYL_20220629T070220",
+      "cloud_cover": 0.00488,
+      "date": "2022-06-28",
+      "bands": {
+        "B02": "/home/andre/Documents/GLOF_Andes_Project-Paper/data/raw/sentinel2/cordillera_urubamba/2022/S2A_MSIL2A_20220628T145741_R039_T18LYL_20220629T070220_B02.tif",
+        "B03": "/home/andre/Documents/GLOF_Andes_Project-Paper/data/raw/sentinel2/cordillera_urubamba/2022/S2A_MSIL2A_20220628T145741_R039_T18LYL_20220629T070220_B03.tif",
+        "B04": "/home/andre/Documents/GLOF_Andes_Project-Paper/data/raw/sentinel2/cordillera_urubamba/2022/S2A_MSIL2A_20220628T145741_R039_T18LYL_20220629T070220_B04.tif",
+        "B08": "/home/andre/Documents/GLOF_Andes_Project-Paper/data/raw/sentinel2/cordillera_urubamba/2022/S2A_MSIL2A_20220628T145741_R039_T18LYL_20220629T070220_B08.tif",
+        "B11": "/home/andre/Documents/GLOF_Andes_Project-Paper/data/raw/sentinel2/cordillera_urubamba/2022/S2A_MSIL2A_20220628T145741_R039_T18LYL_20220629T070220_B11.tif",
+        "B12": "/home/andre/Documents/GLOF_Andes_Project-Paper/data/raw/sentinel2/cordillera_urubamba/2022/S2A_MSIL2A_20220628T145741_R039_T18LYL_20220629T070220_B12.tif"
+      }
+    },
+    "2023": {
+      "scene_id": "S2A_MSIL2A_20230703T145731_R039_T18LYL_20240816T232451",
+      "cloud_cover": 0.002269,
+      "date": "2023-07-03",
+      "bands": {
+        "B02": "/home/andre/Documents/GLOF_Andes_Project-Paper/data/raw/sentinel2/cordillera_urubamba/2023/S2A_MSIL2A_20230703T145731_R039_T18LYL_20240816T232451_B02.tif",
+        "B03": "/home/andre/Documents/GLOF_Andes_Project-Paper/data/raw/sentinel2/cordillera_urubamba/2023/S2A_MSIL2A_20230703T145731_R039_T18LYL_20240816T232451_B03.tif",
+        "B04": "/home/andre/Documents/GLOF_Andes_Project-Paper/data/raw/sentinel2/cordillera_urubamba/2023/S2A_MSIL2A_20230703T145731_R039_T18LYL_20240816T232451_B04.tif",
+        "B08": "/home/andre/Documents/GLOF_Andes_Project-Paper/data/raw/sentinel2/cordillera_urubamba/2023/S2A_MSIL2A_20230703T145731_R039_T18LYL_20240816T232451_B08.tif",
+        "B11": "/home/andre/Documents/GLOF_Andes_Project-Paper/data/raw/sentinel2/cordillera_urubamba/2023/S2A_MSIL2A_20230703T145731_R039_T18LYL_20240816T232451_B11.tif",
+        "B12": "/home/andre/Documents/GLOF_Andes_Project-Paper/data/raw/sentinel2/cordillera_urubamba/2023/S2A_MSIL2A_20230703T145731_R039_T18LYL_20240816T232451_B12.tif"
+      }
+    },
+    "2024": {
+      "scene_id": "S2A_MSIL2A_20240717T145731_R039_T18LYL_20240717T212604",
+      "cloud_cover": 0.007713,
+      "date": "2024-07-17",
+      "bands": {
+        "B02": "/home/andre/Documents/GLOF_Andes_Project-Paper/data/raw/sentinel2/cordillera_urubamba/2024/S2A_MSIL2A_20240717T145731_R039_T18LYL_20240717T212604_B02.tif",
+        "B03": "/home/andre/Documents/GLOF_Andes_Project-Paper/data/raw/sentinel2/cordillera_urubamba/2024/S2A_MSIL2A_20240717T145731_R039_T18LYL_20240717T212604_B03.tif",
+        "B04": "/home/andre/Documents/GLOF_Andes_Project-Paper/data/raw/sentinel2/cordillera_urubamba/2024/S2A_MSIL2A_20240717T145731_R039_T18LYL_20240717T212604_B04.tif",
+        "B08": "/home/andre/Documents/GLOF_Andes_Project-Paper/data/raw/sentinel2/cordillera_urubamba/2024/S2A_MSIL2A_20240717T145731_R039_T18LYL_20240717T212604_B08.tif",
+        "B11": "/home/andre/Documents/GLOF_Andes_Project-Paper/data/raw/sentinel2/cordillera_urubamba/2024/S2A_MSIL2A_20240717T145731_R039_T18LYL_20240717T212604_B11.tif",
+        "B12": "/home/andre/Documents/GLOF_Andes_Project-Paper/data/raw/sentinel2/cordillera_urubamba/2024/S2A_MSIL2A_20240717T145731_R039_T18LYL_20240717T212604_B12.tif"
+      }
+    },
+    "2025": {
+      "scene_id": "S2C_MSIL2A_20250722T145751_R039_T18LYL_20250722T193420",
+      "cloud_cover": 0.014173,
+      "date": "2025-07-22",
+      "bands": {
+        "B02": "/home/andre/Documents/GLOF_Andes_Project-Paper/data/raw/sentinel2/cordillera_urubamba/2025/S2C_MSIL2A_20250722T145751_R039_T18LYL_20250722T193420_B02.tif",
+        "B03": "/home/andre/Documents/GLOF_Andes_Project-Paper/data/raw/sentinel2/cordillera_urubamba/2025/S2C_MSIL2A_20250722T145751_R039_T18LYL_20250722T193420_B03.tif",
+        "B04": "/home/andre/Documents/GLOF_Andes_Project-Paper/data/raw/sentinel2/cordillera_urubamba/2025/S2C_MSIL2A_20250722T145751_R039_T18LYL_20250722T193420_B04.tif",
+        "B08": "/home/andre/Documents/GLOF_Andes_Project-Paper/data/raw/sentinel2/cordillera_urubamba/2025/S2C_MSIL2A_20250722T145751_R039_T18LYL_20250722T193420_B08.tif",
+        "B11": "/home/andre/Documents/GLOF_Andes_Project-Paper/data/raw/sentinel2/cordillera_urubamba/2025/S2C_MSIL2A_20250722T145751_R039_T18LYL_20250722T193420_B11.tif",
+        "B12": "/home/andre/Documents/GLOF_Andes_Project-Paper/data/raw/sentinel2/cordillera_urubamba/2025/S2C_MSIL2A_20250722T145751_R039_T18LYL_20250722T193420_B12.tif"
+      }
+    }
+  },
+  "total_size_gb": 0.24365289974957705,
+  "metadata_path": null,
+  "timestamp": "2026-02-19T10:17:06.513676"
+}
