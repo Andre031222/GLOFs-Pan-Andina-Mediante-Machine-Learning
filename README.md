@@ -1,7 +1,15 @@
 # Pan-Andean Glacial Lake Outburst Flood Susceptibility Assessment Using Machine Learning and Multitemporal Sentinel-2 Imagery
 
-**Status:** Manuscript submitted for review — May 2026
-**Target journal:** IJACSA — International Journal of Advanced Computer Science and Applications (https://thesai.org/Publications/IJACSA)
+> [!IMPORTANT]
+> **This version is superseded.** The results below were obtained under a pipeline that
+> was later found to leak information across cross-validation folds. A rebuilt,
+> strictly leakage-free analysis — with all imputation and scaling performed inside each
+> fold — is maintained at
+> [**pan-andean-glof-susceptibility**](https://github.com/Andre031222/pan-andean-glof-susceptibility)
+> and reports substantially lower discrimination (ROC-AUC ≈ 0.70–0.72).
+> Cite and reuse that repository, not this one. This one is kept for provenance.
+
+**Status:** Not accepted for publication; superseded by the leakage-free reanalysis
 **Manuscript:** `ijacsa_paper/manuscript_ijacsa.tex` (20 pages, compiled)
 **Blind version:** `ijacsa_paper/manuscript_ijacsa_blind.tex` (19 pages, double-blind submission copy)
 **Institution:** Faculty of Statistical and Computer Engineering, Universidad Nacional del Altiplano (UNAP), Puno, Peru
