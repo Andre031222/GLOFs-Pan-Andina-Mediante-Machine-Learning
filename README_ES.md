@@ -2,8 +2,6 @@
 
 **Estado:** Manuscrito enviado para revision — Mayo 2026
 **Revista objetivo:** IJACSA — International Journal of Advanced Computer Science and Applications (https://thesai.org/Publications/IJACSA)
-**Manuscrito:** `ijacsa_paper/manuscript_ijacsa.tex` (20 paginas, compilado)
-**Version ciega:** `ijacsa_paper/manuscript_ijacsa_blind.tex` (19 paginas, copia anonima para envio)
 **Institucion:** Facultad de Ingenieria Estadistica e Informatica, Universidad Nacional del Altiplano (UNAP), Puno, Peru
 
 ---
@@ -92,16 +90,6 @@ Calibracion isotonica post-hoc (compute_calibration.py):
 ```
 03.-ML_Based Pan_Andean/
 |
-|-- ijacsa_paper/
-|   |-- manuscript_ijacsa.tex          Manuscrito LaTeX principal (IJACSA/IEEEtran, 20 pags)
-|   |-- manuscript_ijacsa.pdf          PDF compilado para autores (41 MB)
-|   |-- manuscript_ijacsa.bbl          Bibliografia compilada (95 entradas)
-|   |-- manuscript_ijacsa_blind.tex    Version de doble ciego para envio a IJACSA
-|   |-- manuscript_ijacsa_blind.pdf    PDF ciego compilado (19 paginas)
-|   |-- manuscript_ijacsa_blind.bbl    Copia de bibliografia para version ciega
-|   |-- references_glof.bib            Base de datos BibTeX (109 entradas)
-|   |-- cover_letter.tex               Carta de presentacion al editor
-|   `-- cover_letter.pdf               Carta de presentacion compilada
 |
 |-- figures/
 |   |-- publication/                   Figuras de publicacion (600 DPI PNG + PDF)
@@ -185,8 +173,6 @@ Calibracion isotonica post-hoc (compute_calibration.py):
 |-- requirements.txt                   Lista completa de dependencias
 |-- requirements_win.txt               Lista compatible con Windows (sin cupy)
 |-- activate_env.sh                    Script de activacion del entorno
-|-- INVESTIGACION_ARTICULO.md          Plan de investigacion detallado (este archivo en espanol)
-|-- JOURNAL_TARGETS.md                 Analisis de revista objetivo y checklist de envio
 `-- README_ES.md                       Este archivo
 ```
 
@@ -278,27 +264,6 @@ python scripts/compute_calibration.py
 python scripts/compute_statistical_tests.py
 ```
 
-### Compilar el manuscrito (MiKTeX / TeX Live)
-
-Desde `ijacsa_paper/`:
-
-```bash
-pdflatex -interaction=nonstopmode manuscript_ijacsa.tex
-bibtex manuscript_ijacsa
-pdflatex -interaction=nonstopmode manuscript_ijacsa.tex
-pdflatex -interaction=nonstopmode manuscript_ijacsa.tex
-```
-
-Para la copia de doble ciego (mismos comandos, usa el .bbl compartido):
-
-```bash
-cp manuscript_ijacsa.bbl manuscript_ijacsa_blind.bbl
-pdflatex -interaction=nonstopmode manuscript_ijacsa_blind.tex
-pdflatex -interaction=nonstopmode manuscript_ijacsa_blind.tex
-```
-
----
-
 ## Area de estudio
 
 | Cordillera | Pais | Latitud | n_lagos | n_GLOF | Alto riesgo (%) |
@@ -343,21 +308,6 @@ Los valores faltantes se imputaron con medianas por columna calculadas dentro de
 - **Hiperparametros:** Valores por defecto de scikit-learn/imbalanced-learn; sin ajuste adicional (para no inflar estimaciones de rendimiento con n+ = 16)
 - **Interpretabilidad:** SHAP TreeExplainer (descomposiciones exactas de Shapley para ensembles de arboles)
 - **Calibracion:** Regresion isotonica post-hoc sobre scores OOF
-
----
-
-## Estado del manuscrito y compilacion
-
-Ambos archivos PDF compilan sin errores con MiKTeX (Windows) y TeX Live (Linux/Mac):
-
-| Archivo | Paginas | Advertencias Overfull | Referencias indefinidas |
-|---|---|---|---|
-| manuscript_ijacsa.pdf | 20 | 0 | 0 |
-| manuscript_ijacsa_blind.pdf | 19 | 0 | 0 |
-
-Las advertencias restantes son solo Underfull de espaciado (22 entradas), causadas por el formato de doble columna estrecho y terminos tecnicos largos. Ningun texto sobrepasa el limite de columna.
-
-La bibliografia contiene 109 entradas BibTeX; 95 se citan en el manuscrito. Convencion de nombrado de claves: AutorAnio (por ejemplo, Emmer2022, RGI2023).
 
 ---
 

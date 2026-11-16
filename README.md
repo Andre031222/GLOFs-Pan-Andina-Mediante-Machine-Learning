@@ -10,8 +10,6 @@
 > Cite and reuse that repository, not this one. This one is kept for provenance.
 
 **Status:** Not accepted for publication; superseded by the leakage-free reanalysis
-**Manuscript:** `ijacsa_paper/manuscript_ijacsa.tex` (20 pages, compiled)
-**Blind version:** `ijacsa_paper/manuscript_ijacsa_blind.tex` (19 pages, double-blind submission copy)
 **Institution:** Faculty of Statistical and Computer Engineering, Universidad Nacional del Altiplano (UNAP), Puno, Peru
 
 ---
@@ -100,16 +98,6 @@ Post-hoc isotonic regression calibration (compute_calibration.py):
 ```
 03.-ML_Based Pan_Andean/
 |
-|-- ijacsa_paper/
-|   |-- manuscript_ijacsa.tex          Main LaTeX manuscript (IJACSA/IEEEtran, 20 pages)
-|   |-- manuscript_ijacsa.pdf          Compiled PDF for authors (41 MB)
-|   |-- manuscript_ijacsa.bbl          Compiled bibliography (95 bibliography items)
-|   |-- manuscript_ijacsa_blind.tex    Double-blind version for IJACSA submission
-|   |-- manuscript_ijacsa_blind.pdf    Compiled blind PDF (19 pages)
-|   |-- manuscript_ijacsa_blind.bbl    Bibliography copy for blind version
-|   |-- references_glof.bib            BibTeX database (109 entries)
-|   |-- cover_letter.tex               Submission cover letter
-|   `-- cover_letter.pdf               Compiled cover letter
 |
 |-- figures/
 |   |-- publication/                   Publication-quality figures (600 DPI PNG + PDF)
@@ -193,8 +181,6 @@ Post-hoc isotonic regression calibration (compute_calibration.py):
 |-- requirements.txt                   Full dependency list
 |-- requirements_win.txt               Windows-compatible list (without cupy)
 |-- activate_env.sh                    Environment activation helper
-|-- INVESTIGACION_ARTICULO.md          Detailed research plan (Spanish)
-|-- JOURNAL_TARGETS.md                 Target journal analysis and submission checklist
 `-- README.md                          This file
 ```
 
@@ -286,27 +272,6 @@ python scripts/compute_calibration.py
 python scripts/compute_statistical_tests.py
 ```
 
-### Compiling the Manuscript (MiKTeX / TeX Live)
-
-From `ijacsa_paper/`:
-
-```bash
-pdflatex -interaction=nonstopmode manuscript_ijacsa.tex
-bibtex manuscript_ijacsa
-pdflatex -interaction=nonstopmode manuscript_ijacsa.tex
-pdflatex -interaction=nonstopmode manuscript_ijacsa.tex
-```
-
-For the double-blind review copy (same commands, uses the shared .bbl):
-
-```bash
-cp manuscript_ijacsa.bbl manuscript_ijacsa_blind.bbl
-pdflatex -interaction=nonstopmode manuscript_ijacsa_blind.tex
-pdflatex -interaction=nonstopmode manuscript_ijacsa_blind.tex
-```
-
----
-
 ## Study Area
 
 | Cordillera | Country | Latitude | n_lakes | n_GLOF | High-risk (%) |
@@ -351,21 +316,6 @@ Missing values were imputed with column-wise medians computed within each traini
 - **Hyperparameters:** Default scikit-learn/imbalanced-learn defaults; no additional tuning (to avoid inflating performance estimates on n+ = 16)
 - **Interpretability:** SHAP TreeExplainer (exact Shapley decompositions for tree ensembles)
 - **Calibration:** Isotonic regression post-hoc on OOF scores
-
----
-
-## Manuscript Status and Compilation
-
-Both PDF files compile cleanly with MiKTeX (Windows) and TeX Live (Linux/Mac):
-
-| File | Pages | Overfull warnings | Undefined references |
-|---|---|---|---|
-| manuscript_ijacsa.pdf | 20 | 0 | 0 |
-| manuscript_ijacsa_blind.pdf | 19 | 0 | 0 |
-
-Remaining warnings are cosmetic Underfull spacing only (22 entries, caused by narrow two-column format and long technical terms that resist hyphenation). No text protrudes outside any column boundary.
-
-The bibliography contains 109 BibTeX entries; 95 are cited in the manuscript. BibTeX key naming convention: AuthorYear (e.g., Emmer2022, RGI2023).
 
 ---
 

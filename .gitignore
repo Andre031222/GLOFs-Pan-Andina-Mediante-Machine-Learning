@@ -70,3 +70,13 @@ ijacsa_paper/manuscript_ijacsa_blind.pdf
 ijacsa_paper/manuscript_ijacsa_submission.pdf
 ijacsa_paper/*.zip
 ijacsa_paper/*.bbl
+
+# Manuscript and submission material are kept outside the repository
+ijacsa_paper/
+docs/MANUSCRITO_RESUMEN_ESTUDIO.md
+docs/INVESTIGACION_ARTICULO.md
+docs/JOURNAL_TARGETS.md
+docs/ESTADO_PROYECTO.md
+*.tex
+*.bib
+*.bbl
